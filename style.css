@@ -33,9 +33,9 @@ only screen and (max-width: 1024px) and (orientation: landscape) {
         display: none !important;
     }
 
-    .portrait .topMenu {
-        margin-top: auto !important;
-    }
+    /*.portrait .topMenu {*/
+    /*    margin-top: auto !important;*/
+    /*}*/
 }
 
 .footer {
