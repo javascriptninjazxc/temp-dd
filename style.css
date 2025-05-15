@@ -1,3 +1,29 @@
-.test {
-    background: red;
+.mainBody {
+    display: grid;
+    grid-template-columns: 240px 84px 1fr;
+    margin: 20px auto auto;
+    max-width: 1440px;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    body, html {
+        zoom: 1 !important;
+        font-size: 100% !important;
+    }
+
+    .mainBody {
+        transform: scale(1);
+        transform-origin: initial;
+    }
+
+    .hidePc {
+        display: block !important;
+    }
+}
+
+.footer {
+    display: none !important;
 }
