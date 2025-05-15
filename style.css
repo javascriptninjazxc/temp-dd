@@ -17,8 +17,8 @@ only screen and (max-width: 1024px) and (orientation: landscape) {
     }
 
     .mainBody {
-        transform: scale(1);
-        transform-origin: initial;
+        transform: none !important;
+        transform-origin: center !important; /* обычно начальное значение */
     }
 
     .hidePc {
