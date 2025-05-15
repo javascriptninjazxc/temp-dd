@@ -8,7 +8,9 @@
     overflow: hidden;
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
+@media only screen and (max-width: 768px),
+only screen and (max-width: 1024px) and (orientation: landscape) {
+
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
@@ -17,11 +19,14 @@
     .mainBody {
         transform: scale(1);
         transform-origin: initial;
-        grid-template-columns: 84px 1fr !important;
     }
 
     .hidePc {
         display: block !important;
+    }
+
+    .mainBody {
+        grid-template-columns: 84px 1fr !important;
     }
 
     .mainBody > :nth-child(1) {
