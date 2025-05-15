@@ -24,6 +24,7 @@
     }
 
     .mainBody:nth-child(1) {
+        grid-template-columns: 84px 1fr !important;
         display: none !important;
     }
 }
