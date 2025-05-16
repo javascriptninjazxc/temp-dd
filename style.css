@@ -17,12 +17,12 @@
         max-width: 355px !important;
     }
 
-    .mines>div {
-        flex: 0 !important;
-    }
-
     .rightMines {
         flex: 1 !important;
+    }
+
+    .mines>div {
+        flex: 0;
     }
 }
 
