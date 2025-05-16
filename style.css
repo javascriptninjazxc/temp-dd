@@ -30,7 +30,7 @@
     }
 }
 
-@media screen and (max-width: 1024px) and (min-width: 425px) {
+@media screen and (max-width: 1280px) and (min-width: 425px) {
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
