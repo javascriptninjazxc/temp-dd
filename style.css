@@ -1,9 +1,10 @@
 .mainBody {
     display: grid;
-    grid-template-columns: 240px 84px 1fr;
+    grid-template-columns: 70px 84px 1fr;
     margin: 20px auto auto;
     max-width: 1440px;
     width: 100%;
+    gap: 10px !important;
     box-sizing: border-box;
     overflow: hidden;
 }
@@ -34,7 +35,7 @@
     .mainBody {
         transform: none !important;
         transform-origin: center !important;
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 70px 1fr !important;
     }
 
     .mainBody > :nth-child(1) {
