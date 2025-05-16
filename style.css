@@ -18,11 +18,11 @@
     }
 
     .mines>div {
-        flex: 0;
+        flex: 0 !important;
     }
 
     .rightMines {
-        flex: 1;
+        flex: 1 !important;
     }
 }
 
