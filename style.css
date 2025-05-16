@@ -85,10 +85,8 @@
         flex-direction: column-reverse;
     }
 
-    .portrait {
-        .topMenu {
-            margin-top: auto !important;
-        }
+    .portrait .topMenu {
+        margin-top: auto !important;
     }
 }
 
