@@ -49,6 +49,10 @@
 }
 
 @media screen and (max-width: 1024px) and (min-width: 425px) {
+    .mainBody {
+        grid-template-columns: 1fr !important;
+    }
+
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
