@@ -1,90 +1,90 @@
-.mainBody {
-    display: grid;
-    grid-template-columns: 240px 84px 1fr;
-    margin: 20px auto auto;
-    max-width: 1440px;
-    width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
-}
+/*.mainBody {*/
+/*    display: grid;*/
+/*    grid-template-columns: 240px 84px 1fr;*/
+/*    margin: 20px auto auto;*/
+/*    max-width: 1440px;*/
+/*    width: 100%;*/
+/*    box-sizing: border-box;*/
+/*    overflow: hidden;*/
+/*}*/
 
-.profits {
-    margin: 0 auto !important;
-}
+/*.profits {*/
+/*    margin: 0 auto !important;*/
+/*}*/
 
-@media screen and (max-width: 1366px) {
-    .profits {
-        max-width: 355px !important;
-    }
+/*@media screen and (max-width: 1366px) {*/
+/*    .profits {*/
+/*        max-width: 355px !important;*/
+/*    }*/
 
-    .mines>div {
-        flex: 0 !important;
-    }
+/*    .mines>div {*/
+/*        flex: 0 !important;*/
+/*    }*/
 
-    .rightMines {
-        flex: 1 !important;
-    }
-}
+/*    .rightMines {*/
+/*        flex: 1 !important;*/
+/*    }*/
+/*}*/
 
-@media screen and (max-width: 1024px) and (min-width: 425px) {
-    body, html {
-        zoom: 1 !important;
-        font-size: 100% !important;
-    }
+/*@media screen and (max-width: 1024px) and (min-width: 425px) {*/
+/*    body, html {*/
+/*        zoom: 1 !important;*/
+/*        font-size: 100% !important;*/
+/*    }*/
 
-    .vslide_title {
-        font-size: 14px !important;
-    }
-    .slide-button-button {
-        min-height: 30px !important;
-        font-size: 12px !important;
-    }
+/*    .vslide_title {*/
+/*        font-size: 14px !important;*/
+/*    }*/
+/*    .slide-button-button {*/
+/*        min-height: 30px !important;*/
+/*        font-size: 12px !important;*/
+/*    }*/
 
-    .mainBody {
-        transform: none !important;
-        transform-origin: center !important;
-        grid-template-columns: 1fr !important;
-    }
+/*    .mainBody {*/
+/*        transform: none !important;*/
+/*        transform-origin: center !important;*/
+/*        grid-template-columns: 1fr !important;*/
+/*    }*/
 
-    .hidePc {
-        display: block !important;
-    }
+/*    .hidePc {*/
+/*        display: block !important;*/
+/*    }*/
 
-    .mainBody > :nth-child(1) {
-        display: none !important;
-    }
+/*    .mainBody > :nth-child(1) {*/
+/*        display: none !important;*/
+/*    }*/
 
-    .col-md-3 {
-        flex: 0 0 33% !important;
-        max-width: 33% !important;
-    }
+/*    .col-md-3 {*/
+/*        flex: 0 0 33% !important;*/
+/*        max-width: 33% !important;*/
+/*    }*/
 
-    .secondBlock {
-        display: none;
-    }
+/*    .secondBlock {*/
+/*        display: none;*/
+/*    }*/
 
 
-    /*
-    MINES
-     */
+/*    !**/
+/*    MINES*/
+/*     *!*/
 
-    .profits {
-        max-width: 285px !important;
-        margin: 0 auto;
-    }
+/*    .profits {*/
+/*        max-width: 285px !important;*/
+/*        margin: 0 auto;*/
+/*    }*/
 
-    .mines {
-        flex-wrap: wrap;
-        flex-direction: column-reverse;
-    }
+/*    .mines {*/
+/*        flex-wrap: wrap;*/
+/*        flex-direction: column-reverse;*/
+/*    }*/
 
-    .portrait {
-        .topMenu {
-            margin-top: auto !important;
-        }
-    }
-}
+/*    .portrait {*/
+/*        .topMenu {*/
+/*            margin-top: auto !important;*/
+/*        }*/
+/*    }*/
+/*}*/
 
-.footer {
-    display: none !important;
-}
+/*.footer {*/
+/*    display: none !important;*/
+/*}*/
