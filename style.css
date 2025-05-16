@@ -133,4 +133,8 @@
         flex: 0 0 50% !important;
         max-width: 50% !important;
     }
+
+    .slick-slider {
+        width: 100% !important;
+    }
 }
