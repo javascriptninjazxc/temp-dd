@@ -50,6 +50,10 @@
         max-width: 300px;
         margin: 0 auto;
     }
+
+    .mines {
+        flex-wrap: wrap;
+    }
 }
 
 .footer {
