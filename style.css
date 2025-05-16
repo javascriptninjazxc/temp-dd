@@ -87,16 +87,6 @@
         display: none;
     }
 
-    .home__header-content {
-        height: max-content !important;
-        position: relative !important;
-    }
-
-    .slick-slider {
-        width: 100% !important;
-    }
-
-
     /*
     MINES
      */
