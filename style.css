@@ -137,3 +137,7 @@
         max-width: 50% !important;
     }
 }
+
+.modal-visible body.landscape {
+    position: inherit !important;
+}
