@@ -51,7 +51,7 @@
      */
 
     .profits {
-        max-width: 285px;
+        max-width: 285px !important;
         margin: 0 auto;
     }
 
