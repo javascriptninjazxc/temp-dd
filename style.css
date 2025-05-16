@@ -25,7 +25,7 @@
     .mainBody {
         transform: none !important;
         transform-origin: center !important;
-        grid-template-columns: 84px 1fr !important;
+        grid-template-columns: 1fr !important;
     }
 
     .hidePc {
@@ -39,6 +39,10 @@
     .col-md-3 {
         flex: 0 0 33% !important;
         max-width: 33% !important;
+    }
+
+    .secondBlock {
+        display: none;
     }
 
 
