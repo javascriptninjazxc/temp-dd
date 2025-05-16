@@ -59,6 +59,12 @@
         flex-wrap: wrap;
         flex-direction: column-reverse;
     }
+
+    .portrait {
+        .topMenu {
+            margin-top: auto !important;
+        }
+    }
 }
 
 .footer {
