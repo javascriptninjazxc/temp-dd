@@ -1,6 +1,6 @@
 .mainBody {
     display: grid;
-    grid-template-columns: 70px 84px 1fr;
+    grid-template-columns: 240px 70px 1fr;
     margin: 20px auto auto;
     max-width: 1440px;
     width: 100%;
