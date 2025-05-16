@@ -125,8 +125,8 @@
     }
 
     .home__header-content {
-        height: max-content;
-        position: relative;
+        height: max-content !important;
+        position: relative !important;
     }
 
     .col-md-3 {
@@ -137,4 +137,6 @@
     .slick-slider {
         width: 100% !important;
     }
+
+    .home__header-content {}
 }
