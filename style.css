@@ -9,6 +9,19 @@
     overflow: hidden;
 }
 
+.user-avatar img {
+    height: 32px;
+    width: 33px;
+}
+
+.user-avatar {
+    width: 44px;
+    height: 44px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
 .profits {
     margin: 0 auto !important;
 }
