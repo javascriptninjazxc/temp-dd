@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 1366px) {
     .profits {
-        max-width: 355px;
+        max-width: 355px !important;
     }
 
     .mines>div {
