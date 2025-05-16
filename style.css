@@ -128,4 +128,9 @@
         height: max-content;
         position: relative;
     }
+
+    .col-md-3 {
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
 }
