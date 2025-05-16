@@ -40,6 +40,24 @@
         flex: 0 0 33% !important;
         max-width: 33% !important;
     }
+
+
+    /*
+    MINES
+     */
+
+    .profits {
+        max-width: 300px;
+    }
+
+    .mines>div {
+        flex: 1 1 300px;
+        min-width: 0;
+    }
+
+    .rightMines {
+        flex: 1;
+    }
 }
 
 .footer {
