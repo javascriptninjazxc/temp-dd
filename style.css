@@ -30,7 +30,24 @@
     }
 }
 
-@media screen and (max-width: 1280px) and (min-width: 425px) {
+@media screen and (max-width: 1280px) {
+    .mainBody {
+        transform: none !important;
+        transform-origin: center !important;
+        grid-template-columns: 1fr !important;
+    }
+
+    .mainBody > :nth-child(1) {
+        display: none !important;
+    }
+
+    .col-md-3 {
+        flex: 0 0 33% !important;
+        max-width: 33% !important;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 425px) {
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
@@ -44,23 +61,8 @@
         font-size: 12px !important;
     }
 
-    .mainBody {
-        transform: none !important;
-        transform-origin: center !important;
-        grid-template-columns: 1fr !important;
-    }
-
     .hidePc {
         display: block !important;
-    }
-
-    .mainBody > :nth-child(1) {
-        display: none !important;
-    }
-
-    .col-md-3 {
-        flex: 0 0 33% !important;
-        max-width: 33% !important;
     }
 
     .secondBlock {
