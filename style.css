@@ -66,6 +66,11 @@
         display: contents !important;
     }
 
+    .thirdBlock {
+        width: 95% !important;
+        margin: 20px auto;
+    }
+
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
