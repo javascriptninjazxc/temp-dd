@@ -123,4 +123,9 @@
         margin-bottom: 30px !important;
         padding-bottom: unset!important;
     }
+
+    .home__header-content {
+        height: max-content;
+        position: relative;
+    }
 }
