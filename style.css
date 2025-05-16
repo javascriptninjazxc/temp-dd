@@ -15,11 +15,11 @@
     }
 
     .vslide_title {
-        font-size: 14px;
+        font-size: 14px !important;
     }
     .slide-button-button {
-        max-height: 30px;
-        font-size: 12px;
+        min-height: 30px !important;
+        font-size: 12px !important;
     }
 
     .mainBody {
