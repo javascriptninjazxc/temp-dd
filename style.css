@@ -110,3 +110,9 @@
 .footer {
     display: none !important;
 }
+
+@media screen and (max-width: 425px) {
+    .profileBlock .buttonsBlock {
+        display: none !important;
+    }
+}
