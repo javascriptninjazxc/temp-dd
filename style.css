@@ -111,8 +111,16 @@
     display: none !important;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
+    .mainBody {
+        display: contents !important;
+    }
     .profileBlock .buttonsBlock {
         display: none !important;
+    }
+
+    .home__header {
+        margin-bottom: 30px !important;
+        padding-bottom: unset!important;
     }
 }
