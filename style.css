@@ -63,7 +63,7 @@
 
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
-        grid-template-columns: 1fr !important;
+        display: contents !important;
     }
 
     body, html {
@@ -85,6 +85,15 @@
 
     .secondBlock {
         display: none;
+    }
+
+    .home__header-content {
+        height: max-content !important;
+        position: relative !important;
+    }
+
+    .slick-slider {
+        width: 100% !important;
     }
 
 
@@ -129,14 +138,12 @@
         position: relative !important;
     }
 
-    .col-md-3 {
-        flex: 0 0 50% !important;
-        max-width: 50% !important;
-    }
-
     .slick-slider {
         width: 100% !important;
     }
 
-    .home__header-content {}
+    .col-md-3 {
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
 }
