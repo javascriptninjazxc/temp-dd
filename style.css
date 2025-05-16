@@ -14,6 +14,14 @@
         font-size: 100% !important;
     }
 
+    .vslide_title {
+        font-size: 14px;
+    }
+    .slide-button-button {
+        max-height: 30px;
+        font-size: 12px;
+    }
+
     .mainBody {
         transform: none !important;
         transform-origin: center !important;
