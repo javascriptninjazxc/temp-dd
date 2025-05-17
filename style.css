@@ -309,6 +309,16 @@
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
+
+    .isAndroid {
+        #signIn {
+            zoom: normal !important;
+            transform: scale(1) !important;
+            width: 100vw;
+            height: 100vh;
+        }
+    }
+
     #signIn {
         zoom: normal !important;
         transform: scale(1) !important;
