@@ -315,3 +315,7 @@
 .toolbar-section .input-wrapper {
     min-width: 190px !important;
 }
+
+.filter-dropdown__area {
+    padding: 0 !important;
+}
