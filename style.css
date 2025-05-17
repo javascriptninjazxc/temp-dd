@@ -219,7 +219,7 @@
     }
 
     .home__header-promo-pc {
-        display: none;
+        display: none !important;
     }
 
     .home__header-promo-mob {
