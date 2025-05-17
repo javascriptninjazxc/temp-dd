@@ -198,3 +198,12 @@
 .user-avatar {
     border-radius: 50%;
 }
+
+.menu-social-btn {
+    padding: 10px;
+    height: 100%;
+}
+
+.subMenuOpen {
+    height: 285px !important;
+}
