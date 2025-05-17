@@ -303,3 +303,7 @@
 .toolbar-row {
     flex-wrap: wrap !important;
 }
+
+.slick-slide img {
+    object-fit: cover !important;
+}
