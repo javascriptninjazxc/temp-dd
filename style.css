@@ -288,57 +288,57 @@
     margin-top: 0 !important;
 }
 
-.filter-dropdown {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    width: 100%;
-    padding: 0 12px !important;
-}
+/*.filter-dropdown {*/
+/*    height: 100%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    width: 100%;*/
+/*    padding: 0 12px !important;*/
+/*}*/
 
-.filter-dropdown__area label {
-    height: auto !important;
-    margin: 0 !important;
-    padding: 0 !important;
-}
+/*.filter-dropdown__area label {*/
+/*    height: auto !important;*/
+/*    margin: 0 !important;*/
+/*    padding: 0 !important;*/
+/*}*/
 
-.toolbar-section {
-    align-items: center !important;
-}
+/*.toolbar-section {*/
+/*    align-items: center !important;*/
+/*}*/
 
-.input-wrapper {
-    height: 100% !important;
-    min-width: auto !important;
-}
+/*.input-wrapper {*/
+/*    height: 100% !important;*/
+/*    min-width: auto !important;*/
+/*}*/
 
-.icon-button {
-    width: 49px !important;
-    height: 100% !important;
-}
+/*.icon-button {*/
+/*    width: 49px !important;*/
+/*    height: 100% !important;*/
+/*}*/
 
-.toolbar-section .input-wrapper {
-    min-width: 190px !important;
-}
+/*.toolbar-section .input-wrapper {*/
+/*    min-width: 190px !important;*/
+/*}*/
 
-.filter-dropdown__area {
-    padding: 0 !important;
-}
+/*.filter-dropdown__area {*/
+/*    padding: 0 !important;*/
+/*}*/
 
-.toolbar-section .base-input-wrapper input {
-    width: 100% !important;
-}
+/*.toolbar-section .base-input-wrapper input {*/
+/*    width: 100% !important;*/
+/*}*/
 
-.icon-buttons {
-    height: 100% !important;
-}
+/*.icon-buttons {*/
+/*    height: 100% !important;*/
+/*}*/
 
-.slide-button-button {
-    color: #ffffff;
-    background: linear-gradient(
-            135deg,
-            rgba(255, 255, 255, 0.25),
-            rgba(255, 255, 255, 0.1)
-    );
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-}
+/*.slide-button-button {*/
+/*    color: #ffffff;*/
+/*    background: linear-gradient(*/
+/*            135deg,*/
+/*            rgba(255, 255, 255, 0.25),*/
+/*            rgba(255, 255, 255, 0.1)*/
+/*    );*/
+/*    backdrop-filter: blur(8px);*/
+/*    -webkit-backdrop-filter: blur(8px);*/
+/*}*/
