@@ -329,6 +329,10 @@
     .modal .modal-dialog {
         zoom: 1 !important;
     }
+
+    .modal .modal-content {
+        zoom: normal !important;
+    }
 }
 
 .page-wrapper .modal {
