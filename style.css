@@ -319,3 +319,7 @@
 .filter-dropdown__area {
     padding: 0 !important;
 }
+
+.toolbar-section .base-input-wrapper input {
+    width: 100% !important;
+}
