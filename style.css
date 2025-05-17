@@ -39,6 +39,10 @@
     margin-top: 0;
 }
 
+.titleDesc {
+    font-size: 10px !important;
+}
+
 .footer {
     display: none !important;
 }
@@ -82,6 +86,10 @@
         transform: none !important;
         transform-origin: center !important;
         grid-template-columns: 70px 1fr !important;
+    }
+
+    .titleDesc {
+        font-size: 10px !important;
     }
 
     .blockMainGames {
