@@ -104,7 +104,16 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+
+}
+
 @media screen and (max-width: 1024px) and (min-width: 425px) {
+    .col-md-3 {
+        flex: 0 0 33% !important;
+        max-width: 33% !important;
+    }
+
     .mainBody {
         display: contents !important;
     }
@@ -192,8 +201,4 @@
 
 .user-avatar {
     border-radius: 50%;
-}
-
-.blockMainGames {
-    grid-template-columns: 1fr 1fr 1fr 1fr !important;
 }
