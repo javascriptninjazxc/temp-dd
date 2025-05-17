@@ -342,3 +342,11 @@
     backdrop-filter: blur(8px) !important;
     -webkit-backdrop-filter: blur(8px) !important;
 }
+
+.toolbar-section {
+    align-items: center;
+}
+
+.toolbar-section .input-wrapper {
+    max-width: 190px !important;
+}
