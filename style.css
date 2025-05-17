@@ -226,6 +226,10 @@
         flex-direction: column;
     }
 
+    .slide-wrapper img {
+        width: 100% !important;
+    }
+
     .home__header-promo-mob {
         -moz-column-gap: 10px;
         column-gap: 10px;
