@@ -309,6 +309,7 @@
 
 .icon-button {
     width: 49px !important;
+    height: 100% !important;
 }
 
 .toolbar-section .input-wrapper {
