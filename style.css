@@ -317,6 +317,10 @@
             width: 100%;
         }
     }
+
+    .modal .modal-dialog {
+        zoom: 1 !important;
+    }
 }
 
 .page-wrapper .modal {
