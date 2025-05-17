@@ -299,3 +299,7 @@
         flex: 0 0 46px !important;
     }
 }
+
+.toolbar-row {
+    flex-wrap: wrap !important;
+}
