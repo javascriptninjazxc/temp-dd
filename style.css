@@ -188,15 +188,17 @@
     .slick-slider {
         width: 100% !important;
     }
-
-    .col-md-3 {
-        flex: 0 0 50% !important;
-        max-width: 50% !important;
-    }
 }
 
 .modal-visible body.landscape {
     position: inherit !important;
+}
+
+@media screen and (max-width: 1360px) {
+    .col-md-3 {
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
 }
 
 .user-avatar {
