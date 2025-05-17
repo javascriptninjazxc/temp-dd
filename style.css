@@ -326,3 +326,15 @@
 .page-wrapper .modal {
     zoom: 1 !important;
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape)
+@supports (height:100svh)
+#signIn {
+    height: 100vh !important;
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape)
+@supports (height:100dvh)
+#signIn {
+    height: 100vh !important;
+}
