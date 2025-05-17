@@ -333,12 +333,12 @@
 /*}*/
 
 .slide-button-button {
-    color: #ffffff;
+    color: #ffffff !important;
     background: linear-gradient(
             135deg,
             rgba(255, 255, 255, 0.25),
             rgba(255, 255, 255, 0.1)
-    );
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
+    ) !important;
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
 }
