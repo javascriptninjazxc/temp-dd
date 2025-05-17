@@ -84,21 +84,21 @@
         flex-wrap: wrap !important;
     }
 
-    .slick-slider {
-        width: 100% !important;
-        height: 100% !important;
-        flex: 1 !important;
-    }
+    /*.slick-slider {*/
+    /*    width: 100% !important;*/
+    /*    height: 100% !important;*/
+    /*    flex: 1 !important;*/
+    /*}*/
 
     .slide-wrapper img {
         width: 100% !important;
     }
 
-    .home__header-promo {
-        height: 175px !important;
-        flex: 1 1 165px !important;
-        margin-right: 0 !important;;
-    }
+    /*.home__header-promo {*/
+    /*    height: 175px !important;*/
+    /*    flex: 1 1 165px !important;*/
+    /*    margin-right: 0 !important;;*/
+    /*}*/
 
     .vslide_title {
         margin-bottom: 10px !important;
