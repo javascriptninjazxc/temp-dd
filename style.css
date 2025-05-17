@@ -218,14 +218,14 @@
         width: 100%;
     }
 
-    .home__header-content {
-        flex-direction: column !important;
-    }
+    /*.home__header-content {*/
+    /*    flex-direction: column !important;*/
+    /*}*/
 
-    .home__header-content {
-        height: max-content !important;
-        position: relative !important;
-    }
+    /*.home__header-content {*/
+    /*    height: max-content !important;*/
+    /*    position: relative !important;*/
+    /*}*/
 }
 
 .VSlide_content_OTd5l {
