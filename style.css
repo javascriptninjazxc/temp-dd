@@ -32,6 +32,7 @@
 .VSlide_content_OTd5l {
     height: 100% !important;
     gap: 10px !important;
+    justify-content: space-between !important;
 }
 
 .Slide-button {
