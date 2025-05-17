@@ -212,4 +212,13 @@
     .profileBlock .buttonsBlock {
         display: none !important;
     }
+
+    .home__header-content {
+        flex-direction: column !important;
+    }
+
+    .home__header-content {
+        height: max-content !important;
+        position: relative !important;
+    }
 }
