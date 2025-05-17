@@ -221,6 +221,10 @@
     .home__header-promo-pc {
         display: none !important;
     }
+    
+    .home__header-content {
+        flex-direction: column;
+    }
 
     .home__header-promo-mob {
         -moz-column-gap: 10px;
