@@ -99,33 +99,6 @@
         display: none !important;
     }
 
-    /*.home__header {*/
-    /*    height: max-content !important;*/
-    /*    padding: 0 !important;*/
-    /*}*/
-
-    /*.home__header-content {*/
-    /*    position: relative !important;*/
-    /*    display: flex !important;*/
-    /*    flex-wrap: wrap !important;*/
-    /*}*/
-
-    /*.slick-slider {*/
-    /*    width: 100% !important;*/
-    /*    height: 100% !important;*/
-    /*    flex: 1 !important;*/
-    /*}*/
-
-    /*.slide-wrapper img {*/
-    /*    width: 100% !important;*/
-    /*}*/
-
-    /*.home__header-promo {*/
-    /*    height: 175px !important;*/
-    /*    flex: 1 1 165px !important;*/
-    /*    margin-right: 0 !important;;*/
-    /*}*/
-
     .vslide_title {
         margin-bottom: 10px !important;
     }
@@ -288,50 +261,6 @@
     margin-top: 0 !important;
 }
 
-/*.filter-dropdown {*/
-/*    height: 100%;*/
-/*    display: flex;*/
-/*    align-items: center;*/
-/*    width: 100%;*/
-/*    padding: 0 12px !important;*/
-/*}*/
-
-/*.filter-dropdown__area label {*/
-/*    height: auto !important;*/
-/*    margin: 0 !important;*/
-/*    padding: 0 !important;*/
-/*}*/
-
-/*.toolbar-section {*/
-/*    align-items: center !important;*/
-/*}*/
-
-/*.input-wrapper {*/
-/*    height: 100% !important;*/
-/*    min-width: auto !important;*/
-/*}*/
-
-/*.icon-button {*/
-/*    width: 49px !important;*/
-/*    height: 100% !important;*/
-/*}*/
-
-/*.toolbar-section .input-wrapper {*/
-/*    min-width: 190px !important;*/
-/*}*/
-
-/*.filter-dropdown__area {*/
-/*    padding: 0 !important;*/
-/*}*/
-
-/*.toolbar-section .base-input-wrapper input {*/
-/*    width: 100% !important;*/
-/*}*/
-
-/*.icon-buttons {*/
-/*    height: 100% !important;*/
-/*}*/
-
 .slide-button-button {
     color: #ffffff !important;
     background: linear-gradient(
@@ -353,4 +282,20 @@
 
 .filter-dropdown {
     width: 100% !important;
+}
+
+@media screen and (max-width: 548px) {
+    .toolbar-section .input-wrapper {
+        min-width: 0 !important;
+        max-width: 100% !important;
+    }
+
+    .filter-dropdown {
+        width: 100% !important;
+        flex: 0 1 100% !important;
+    }
+
+    .icon-dropdown {
+        flex: 0 0 46px !important;
+    }
 }
