@@ -334,7 +334,3 @@
 .page-wrapper .modal {
     zoom: 1 !important;
 }
-
-.fade.show .modal-dialog {
-    transform: translateY(-100px) !important;
-}
