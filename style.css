@@ -132,6 +132,20 @@
     .blockMainGames {
         grid-template-columns: 1fr 1fr !important;
     }
+
+    .home__header {
+        margin-bottom: 30px !important;
+        padding-bottom: unset!important;
+    }
+
+    .home__header-content {
+        height: max-content !important;
+        position: relative !important;
+    }
+
+    .slick-slider {
+        width: 100% !important;
+    }
 }
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
@@ -185,20 +199,6 @@
 @media screen and (max-width: 500px) {
     .mainBody {
         display: contents !important;
-    }
-
-    .home__header {
-        margin-bottom: 30px !important;
-        padding-bottom: unset!important;
-    }
-
-    .home__header-content {
-        height: max-content !important;
-        position: relative !important;
-    }
-
-    .slick-slider {
-        width: 100% !important;
     }
 }
 
