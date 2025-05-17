@@ -323,3 +323,7 @@
 .toolbar-section .base-input-wrapper input {
     width: 100% !important;
 }
+
+.icon-buttons {
+    height: 100% !important;
+}
