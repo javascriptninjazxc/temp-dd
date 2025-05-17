@@ -348,5 +348,5 @@
 }
 
 .toolbar-section .input-wrapper {
-    max-width: 190px !important;
+    min-width: 190px !important;
 }
