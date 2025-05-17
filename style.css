@@ -309,13 +309,11 @@
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .isAndroid {
-        #signIn {
-            zoom: normal !important;
-            transform: scale(1) !important;
-            width: 100vw;
-            height: 100vh;
-        }
+    .isAndroid #signIn {
+        zoom: normal !important;
+        transform: scale(1) !important;
+        width: 100vw;
+        height: 100vh;
     }
 
     .modal .modal-dialog {
@@ -325,16 +323,4 @@
 
 .page-wrapper .modal {
     zoom: 1 !important;
-}
-
-@media only screen and (max-width: 1024px) and (orientation: landscape)
-@supports (height:100svh)
-#signIn {
-    height: 100vh !important;
-}
-
-@media only screen and (max-width: 1024px) and (orientation: landscape)
-@supports (height:100dvh)
-#signIn {
-    height: 100vh !important;
 }
