@@ -218,6 +218,42 @@
         width: 100%;
     }
 
+    .home__header-promo-pc {
+        display: none;
+    }
+
+    .home__header-promo-mob {
+        -moz-column-gap: 10px;
+        column-gap: 10px;
+        display: flex!important;
+        flex-direction: row;
+        height: 50px!important;
+        margin-top: 10px!important;
+        padding: 10px 0 0;
+        width: 100%;
+    }
+
+    .home__header-promo-mob div:first-child {
+        background: url('https://dev.we2vlr1c.fun/image/yoda-cashback.png') 100% 0 no-repeat #10091b;
+    }
+
+    .home__header-promo-mob div {
+        align-items: center;
+        border-radius: 10px;
+        color: #fff;
+        display: flex;
+        flex: 1 1 auto;
+        font-family: RubikBold;
+        font-size: .7em;
+        height: 50px;
+        justify-content: space-between;
+        padding: 0 15px;
+    }
+
+    .home__header-promo-mob div:nth-child(2) {
+        background: url('https://dev.we2vlr1c.fun/img/main_gift_cookie_mobile_dark.png') top right no-repeat #3466FB !important;
+    }
+
     /*.home__header-content {*/
     /*    flex-direction: column !important;*/
     /*}*/
