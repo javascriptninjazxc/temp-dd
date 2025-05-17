@@ -338,3 +338,9 @@
 .page-wrapper .modal {
     zoom: 1 !important;
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    #app, #app>div {
+         height: auto !important;
+    }
+}
