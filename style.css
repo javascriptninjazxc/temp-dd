@@ -204,6 +204,10 @@
     height: 100%;
 }
 
+.menu-social {
+    margin-top: 0;
+}
+
 .subMenuOpen {
     height: 285px !important;
 }
