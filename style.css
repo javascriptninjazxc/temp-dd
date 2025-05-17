@@ -314,16 +314,16 @@
         #signIn {
             zoom: normal !important;
             transform: scale(1) !important;
-            width: 100vw;
-            height: 100vh;
+            width: 100vw !important;
+            height: 100vh !important;
         }
     }
 
     #signIn {
         zoom: normal !important;
         transform: scale(1) !important;
-        width: 100vw;
-        height: 100vh;
+        width: 100vw !important;
+        height: 100vh !important;
     }
 
     .modal .modal-dialog {
