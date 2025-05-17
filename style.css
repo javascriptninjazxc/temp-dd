@@ -307,3 +307,18 @@
 .slick-slide img {
     object-fit: cover !important;
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .isAndroid {
+        #signIn {
+            zoom: 1 !important;
+            height: 100vh;
+            transform: scale(1.3);
+            width: 100%;
+        }
+    }
+}
+
+.page-wrapper .modal {
+    zoom: 1 !important;
+}
