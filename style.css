@@ -190,3 +190,7 @@
 .modal-visible body.landscape {
     position: inherit !important;
 }
+
+.user-avatar {
+    border-radius: 50%;
+}
