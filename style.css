@@ -196,11 +196,6 @@
         margin-top: auto !important;
     }
 }
-@media screen and (max-width: 500px) {
-    .mainBody {
-        display: contents !important;
-    }
-}
 
 @media screen and (max-width: 1360px) {
     .col-md-3 {
@@ -210,6 +205,10 @@
 }
 
 @media screen and (max-width: 600px) {
+    .mainBody {
+        display: contents !important;
+    }
+
     .profileBlock .buttonsBlock {
         display: none !important;
     }
