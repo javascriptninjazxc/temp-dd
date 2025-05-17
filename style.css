@@ -310,3 +310,7 @@
 .icon-button {
     width: 49px !important;
 }
+
+.toolbar-section .input-wrapper {
+    min-width: 190px !important;
+}
