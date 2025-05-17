@@ -30,6 +30,15 @@
     padding: 15px !important;
 }
 
+.VSlide_content_OTd5l {
+    height: 100% !important;
+    gap: 10px !important;
+}
+
+.Slide-button {
+    margin-top: 0;
+}
+
 @media screen and (max-width: 1366px) {
     .profits {
         max-width: 355px !important;
