@@ -213,6 +213,11 @@
         display: none !important;
     }
 
+    .VSlide_typeSmile_dNfKl .VSlide_content_OTd5l .ResponsivePicture_img_N2UWA {
+        max-width: 33px;
+        width: 100%;
+    }
+
     .home__header-content {
         flex-direction: column !important;
     }
@@ -221,4 +226,17 @@
         height: max-content !important;
         position: relative !important;
     }
+}
+
+.VSlide_content_OTd5l {
+    height: 100% !important;
+    gap: .5rem !important;
+}
+
+.vslide_title {
+    margin: 0 !important;
+}
+
+.Slide-button {
+    margin-top: 0 !important;
 }
