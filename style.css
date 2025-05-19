@@ -278,10 +278,6 @@
     /*}*/
 }
 
-.subMenuOpen {
-    height: max-content !important;
-}
-
 .VSlide_content_OTd5l {
     height: 85% !important;
     gap: .5rem !important;
@@ -378,4 +374,11 @@
     #app, #app>div {
          height: auto !important;
     }
+}
+
+.modal-dialog {
+    height: 100vh !important;
+}
+.modal-content {
+    margin: 0 !important;
 }
