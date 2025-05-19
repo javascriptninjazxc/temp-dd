@@ -60,7 +60,7 @@
 }
 
 .subMenuOpen {
-    height: 285px !important;
+    height: max-content !important;
 }
 
 @media screen and (max-width: 1366px) {
