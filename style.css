@@ -95,9 +95,9 @@
         height: 85% !important;
     }
 
-    .mainBody > :nth-child(1) {
-        display: none !important;
-    }
+    /*.mainBody > :nth-child(1) {*/
+    /*    display: none !important;*/
+    /*}*/
 
     .vslide_title {
         margin-bottom: 10px !important;
