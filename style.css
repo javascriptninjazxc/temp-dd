@@ -102,6 +102,10 @@
     .vslide_title {
         margin-bottom: 10px !important;
     }
+
+    .modal-content {
+        transform: scale(0.8) !important;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -309,10 +313,6 @@
 
 .filter-dropdown {
     width: 100% !important;
-}
-
-.modal-content {
-    transform: scale(0.8) !important;
 }
 
 @media screen and (max-width: 548px) {
