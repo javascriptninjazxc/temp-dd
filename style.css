@@ -401,3 +401,11 @@
         justify-self: center !important;
     }
 }
+
+.darkState .modalBlock {
+    background: #202335 !important;
+}
+
+.darkState .cicos {
+    color: white !important;
+}
