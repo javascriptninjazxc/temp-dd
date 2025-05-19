@@ -279,7 +279,7 @@
 }
 
 .subMenuOpen {
-    height: 100% !important;
+    height: max-content !important;
 }
 
 .VSlide_content_OTd5l {
