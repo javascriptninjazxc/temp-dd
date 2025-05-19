@@ -421,3 +421,8 @@
 .modalBlock .modal1 .textEnter span {
     color: #7265fd !important;
 }
+
+.flex .lastCount {
+    overflow: hidden;
+    overflow-x: scroll;
+}
