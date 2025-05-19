@@ -128,10 +128,6 @@
         display: contents !important;
     }
 
-    .thirdBlock {
-        margin: 20px auto;
-    }
-
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
@@ -319,6 +315,10 @@
     .toolbar-section .input-wrapper {
         min-width: 0 !important;
         max-width: 100% !important;
+    }
+
+    .header {
+        position: static;
     }
 
     .filter-dropdown {
