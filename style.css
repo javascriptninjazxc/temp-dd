@@ -409,3 +409,7 @@
 .darkState .cicos {
     color: #7265fd !important;
 }
+
+.modalBlock .modal1 .logo {
+    font-size: 43px !important;
+}
