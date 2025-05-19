@@ -387,3 +387,13 @@
 .modal-content {
     margin: 0 !important;
 }
+
+@media screen and (max-width: 985px) {
+    .nvuti {
+        grid-template-columns: 1fr 1fr !important;
+    }
+
+    .nvuti .leftNvuti {
+        justify-self: center !important;
+    }
+}
