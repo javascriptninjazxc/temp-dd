@@ -104,12 +104,6 @@
     }
 }
 
-.firstBlock .leftBlock {
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
 @media screen and (max-width: 768px) {
     .blockMainGames {
         grid-template-columns: 1fr 1fr !important;
@@ -132,20 +126,6 @@
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
         display: contents !important;
-    }
-
-    .mainBody > :nth-child(1) {
-        display: block !important;
-    }
-
-    .firstBlock {
-        background: #f0f1f7;
-        height: 100vh;
-        left: 100%;
-        position: fixed;
-        transition: all .4s ease;
-        width: 100%;
-        z-index: 11;
     }
 
     body, html {
@@ -335,10 +315,6 @@
     .toolbar-section .input-wrapper {
         min-width: 0 !important;
         max-width: 100% !important;
-    }
-
-    .header {
-        position: static;
     }
 
     .filter-dropdown {
