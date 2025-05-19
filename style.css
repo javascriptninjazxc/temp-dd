@@ -321,6 +321,10 @@
         max-width: 100% !important;
     }
 
+    .menu {
+        margin-top: 88px;
+    }
+
     .filter-dropdown {
         width: 100% !important;
         flex: 0 1 100% !important;
