@@ -95,9 +95,9 @@
         height: 85% !important;
     }
 
-    /*.mainBody > :nth-child(1) {*/
-    /*    display: none !important;*/
-    /*}*/
+    .mainBody > :nth-child(1) {
+        display: none !important;
+    }
 
     .vslide_title {
         margin-bottom: 10px !important;
@@ -126,6 +126,20 @@
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
         display: contents !important;
+    }
+
+    .mainBody > :nth-child(1) {
+        display: block !important;
+    }
+
+    .firstBlock {
+        background: #f0f1f7;
+        height: 100vh;
+        left: 100%;
+        position: fixed;
+        transition: all .4s ease;
+        width: 100%;
+        z-index: 11;
     }
 
     body, html {
