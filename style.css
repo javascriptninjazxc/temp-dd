@@ -215,6 +215,10 @@
         display: contents !important;
     }
 
+    .panelJack {
+        grid-template-columns: 1fr !important;
+    }
+
     .profileBlock .buttonsBlock {
         display: none !important;
     }
