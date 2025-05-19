@@ -311,6 +311,10 @@
     width: 100% !important;
 }
 
+.modal-content {
+    transform: scale(0.8) !important;
+}
+
 @media screen and (max-width: 548px) {
     .toolbar-section .input-wrapper {
         min-width: 0 !important;
