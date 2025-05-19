@@ -104,6 +104,12 @@
     }
 }
 
+.firstBlock .leftBlock {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
 @media screen and (max-width: 768px) {
     .blockMainGames {
         grid-template-columns: 1fr 1fr !important;
