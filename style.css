@@ -413,3 +413,7 @@
 .modalBlock .modal1 .logo {
     font-size: 43px !important;
 }
+
+.topMenu .menu {
+    justify-content: flex-start !important;
+}
