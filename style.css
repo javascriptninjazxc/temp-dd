@@ -394,7 +394,7 @@
 
 @media screen and (max-width: 985px) {
     .nvuti {
-        grid-template-columns: 1fr 1fr !important;
+        grid-template-columns: 1fr !important;
     }
 
     .nvuti .leftNvuti {
