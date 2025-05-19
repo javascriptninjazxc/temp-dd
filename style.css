@@ -417,3 +417,7 @@
 .topMenu .menu {
     justify-content: flex-start !important;
 }
+
+.modalBlock .modal1 .textEnter span {
+    color: #7265fd !important;
+}
