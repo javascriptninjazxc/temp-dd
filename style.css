@@ -166,8 +166,8 @@
         z-index: 3;
     }
 
-    .mainCookies {
-        display: none;
+    .mainCookie {
+        display: none !important;
     }
 
 
