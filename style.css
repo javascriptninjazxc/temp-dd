@@ -367,6 +367,7 @@
 
     .modal .modal-content {
         zoom: normal !important;
+        margin: 0 auto !important;
     }
 }
 
