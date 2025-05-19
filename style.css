@@ -219,6 +219,10 @@
         grid-template-columns: 1fr !important;
     }
 
+    .descMines {
+        padding: 15px !important;
+    }
+
     .profileBlock .buttonsBlock {
         display: none !important;
     }
