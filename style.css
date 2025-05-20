@@ -404,6 +404,7 @@
 
     .mobChatText {
         display: block;
+        color: #9f8ff8 !important;
     }
 
     .mobChatText .mobIcons {
