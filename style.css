@@ -535,3 +535,7 @@
 .subMenu .buttonsBlock {
     width: 100% !important;
 }
+
+.menu {
+    padding: 13px !important;
+}
