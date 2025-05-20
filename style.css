@@ -387,6 +387,10 @@
         z-index: 11;
     }
 
+    .darkState .firstBlock {
+        background: #202335 !important;
+    }
+
     .chatActive {
         left: 0 !important;
         width: 100vw;
