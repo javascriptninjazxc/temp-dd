@@ -398,7 +398,6 @@
 
     .leftBlock {
         height: 100vh;
-        padding: 20px;
         min-width: fit-content !important;
     }
 
