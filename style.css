@@ -271,10 +271,6 @@
         display: contents !important;
     }
 
-    .menu {
-        margin-top: 80px !important;
-    }
-
     .mobMenu {
         display: block;
     }
@@ -361,6 +357,10 @@
 @media (max-width: 500px) {
     .home__header, .topMenu {
         padding: 0 !important;
+    }
+
+    .menu {
+        margin-top: 80px !important;
     }
 }
 
