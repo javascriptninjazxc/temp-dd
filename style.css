@@ -132,6 +132,10 @@
         display: contents !important;
     }
 
+    .thirdBlock {
+        padding: 20px 0;
+    }
+
     body, html {
         zoom: 1 !important;
         font-size: 100% !important;
