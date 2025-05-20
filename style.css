@@ -113,6 +113,8 @@
         grid-template-columns: 1fr 1fr !important;
     }
 
+
+
     .home__header {
         margin-bottom: 10px !important;
         padding-bottom: unset!important;
@@ -134,6 +136,14 @@
 
 .blockGame {
     min-height: 170px !important;
+}
+
+@media screen and (max-width: 1024px) {
+    .secondBlock {
+        overflow-x: scroll !important;
+        overflow-y: hidden !important;
+        width: 100% !important;
+    }
 }
 
 @media screen and (max-width: 1024px) and (min-width: 425px) {
