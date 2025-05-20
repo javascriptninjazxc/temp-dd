@@ -144,6 +144,17 @@
         overflow-y: hidden !important;
         width: 100% !important;
     }
+
+    .balanceMenuOpen {
+        border: 1px solid #3f435f;
+        top: 40px;
+        font-size: 15px;
+        -webkit-backdrop-filter: blur(4px);
+        backdrop-filter: blur(4px);
+        height: 130px;
+        padding: 10px;
+        right: 0;
+    }
 }
 
 @media screen and (max-width: 1024px) and (min-width: 425px) {
