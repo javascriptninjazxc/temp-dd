@@ -586,3 +586,20 @@
 .inpChat {
     flex: 1;
 }
+
+.chatBlock {
+    height: 82%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.chatTop  {
+    flex-shrink: 0;
+}
+
+.messages-wrapper {
+    flex: 1;
+    overflow-y: auto;
+    max-height: 100vh !important;
+}
