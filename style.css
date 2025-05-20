@@ -63,87 +63,139 @@
     height: max-content !important;
 }
 
-@media screen and (max-width: 1366px) {
-    .profits {
-        max-width: 355px !important;
-    }
 
-    .rightMines {
-        flex: 1 !important;
-    }
-
-    .mines>div {
-        flex: 0;
-    }
-}
-@media screen and (max-width: 1280px) {
-    .mainBody {
-        transform: none !important;
-        transform-origin: center !important;
-        grid-template-columns: 70px 1fr !important;
-    }
-
-    .slide-wrapper img {
-
-    }
-
-    .hidePc {
-        display: block !important;
-    }
-
-    .titleDesc {
-        font-size: 10px !important;
-    }
-
-    .blockMainGames {
-        grid-template-columns: 1fr 1fr 1fr !important;
-    }
-
-    .VSlide_content_OTd5l {
-        height: 85% !important;
-    }
-
-    .mainBody > :nth-child(1) {
-        display: none !important;
-    }
-
-    .vslide_title {
-        margin-bottom: 10px !important;
-    }
-
-    .modal-content {
-        transform: scale(0.8) !important;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .blockMainGames {
-        grid-template-columns: 1fr 1fr !important;
-    }
-
-
-
-    .home__header {
-        margin-bottom: 10px !important;
-        padding-bottom: unset!important;
-    }
-
-    .home__header-content {
-        height: max-content !important;
-        position: relative !important;
-    }
-
-    .slick-slider {
-        width: 100% !important;
-    }
-
-    .headTwo .logo {
-        margin: 0 !important;
-    }
+.menu {
+    margin: 15px 0 !important;
 }
 
 .blockGame {
     min-height: 170px !important;
+}
+
+.VSlide_content_OTd5l {
+    height: 85% !important;
+    gap: .5rem !important;
+    justify-content: center;
+}
+
+.vslide_title {
+    margin: 0 !important;
+}
+
+.Slide-button {
+    margin-top: 0 !important;
+}
+
+.slide-button-button {
+    color: #ffffff !important;
+    background: linear-gradient(
+            135deg,
+            rgba(255, 255, 255, 0.25),
+            rgba(255, 255, 255, 0.1)
+    ) !important;
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
+}
+
+.toolbar-section {
+    align-items: center;
+}
+
+.toolbar-section .input-wrapper {
+    min-width: 190px !important;
+}
+
+.filter-dropdown {
+    width: 100% !important;
+}
+
+@media screen and (max-width: 548px) {
+    .toolbar-section .input-wrapper {
+        min-width: 0 !important;
+        max-width: 100% !important;
+    }
+
+    .menu {
+        margin-top: 88px;
+    }
+
+    .filter-dropdown {
+        width: 100% !important;
+        flex: 0 1 100% !important;
+    }
+
+    .icon-dropdown {
+        flex: 0 0 46px !important;
+    }
+}
+
+.toolbar-row {
+    flex-wrap: wrap !important;
+}
+
+.slick-slide img {
+    object-fit: cover !important;
+    width: 100% !important;
+}
+
+.modal-content {
+    margin: 0 auto !important;
+}
+
+.page-wrapper .modal {
+    zoom: normal !important;
+}
+
+.modal-dialog {
+    height: 100vh !important;
+}
+.modal-content {
+    margin: 0 !important;
+}
+
+.darkState .modalBlock {
+    background: #202335 !important;
+}
+
+.darkState .cicos {
+    color: #7265fd !important;
+}
+
+.modalBlock .modal1 .logo {
+    font-size: 43px !important;
+}
+
+.topMenu .menu {
+    justify-content: flex-start !important;
+}
+
+.modalBlock .modal1 .textEnter span {
+    color: #7265fd !important;
+}
+
+.flex .lastCount {
+    overflow: hidden;
+    overflow-x: scroll;
+}
+
+.slick-slider {
+    margin-top: auto !important;
+}
+
+.home__header-promo-pc {
+    margin-top: auto !important;
+}
+
+.userBalanceMobile {
+    color: white;
+}
+
+.subMenu .buttonsBlock {
+    width: 100% !important;
+}
+
+.menu {
+    padding: 13px !important;
 }
 
 @media screen and (max-width: 1024px) {
@@ -175,7 +227,7 @@
     }
 
     .mainBody > :nth-child(1) {
-         display: block !important;
+        display: block !important;
     }
 
     .firstBlock {
@@ -278,7 +330,7 @@
     .navbar-balance {
         display: flex;
     }
-    
+
     .profileBlock {
         display: none;
     }
@@ -354,6 +406,85 @@
     /*}*/
 }
 
+@media screen and (max-width: 1366px) {
+    .profits {
+        max-width: 355px !important;
+    }
+
+    .rightMines {
+        flex: 1 !important;
+    }
+
+    .mines>div {
+        flex: 0;
+    }
+}
+@media screen and (max-width: 1280px) {
+    .mainBody {
+        transform: none !important;
+        transform-origin: center !important;
+        grid-template-columns: 70px 1fr !important;
+    }
+
+    .slide-wrapper img {
+
+    }
+
+    .hidePc {
+        display: block !important;
+    }
+
+    .titleDesc {
+        font-size: 10px !important;
+    }
+
+    .blockMainGames {
+        grid-template-columns: 1fr 1fr 1fr !important;
+    }
+
+    .VSlide_content_OTd5l {
+        height: 85% !important;
+    }
+
+    .mainBody > :nth-child(1) {
+        display: none !important;
+    }
+
+    .vslide_title {
+        margin-bottom: 10px !important;
+    }
+
+    .modal-content {
+        transform: scale(0.8) !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .blockMainGames {
+        grid-template-columns: 1fr 1fr !important;
+    }
+
+
+
+    .home__header {
+        margin-bottom: 10px !important;
+        padding-bottom: unset!important;
+    }
+
+    .home__header-content {
+        height: max-content !important;
+        position: relative !important;
+    }
+
+    .slick-slider {
+        width: 100% !important;
+    }
+
+    .headTwo .logo {
+        margin: 0 !important;
+    }
+}
+
 @media (max-width: 500px) {
     .home__header, .topMenu {
         padding: 0 !important;
@@ -362,76 +493,6 @@
     .menu {
         margin-top: 80px !important;
     }
-}
-
-.VSlide_content_OTd5l {
-    height: 85% !important;
-    gap: .5rem !important;
-    justify-content: center;
-}
-
-.vslide_title {
-    margin: 0 !important;
-}
-
-.Slide-button {
-    margin-top: 0 !important;
-}
-
-.slide-button-button {
-    color: #ffffff !important;
-    background: linear-gradient(
-            135deg,
-            rgba(255, 255, 255, 0.25),
-            rgba(255, 255, 255, 0.1)
-    ) !important;
-    backdrop-filter: blur(8px) !important;
-    -webkit-backdrop-filter: blur(8px) !important;
-}
-
-.toolbar-section {
-    align-items: center;
-}
-
-.toolbar-section .input-wrapper {
-    min-width: 190px !important;
-}
-
-.filter-dropdown {
-    width: 100% !important;
-}
-
-@media screen and (max-width: 548px) {
-    .toolbar-section .input-wrapper {
-        min-width: 0 !important;
-        max-width: 100% !important;
-    }
-
-    .menu {
-        margin-top: 88px;
-    }
-
-    .filter-dropdown {
-        width: 100% !important;
-        flex: 0 1 100% !important;
-    }
-
-    .icon-dropdown {
-        flex: 0 0 46px !important;
-    }
-}
-
-.toolbar-row {
-    flex-wrap: wrap !important;
-}
-
-.slick-slide img {
-    object-fit: cover !important;
-    width: 100% !important;
-}
-
-.modal-content {
-    margin: 0 auto !important;
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
@@ -467,24 +528,11 @@
         margin-right: -251px !important;
     }
 }
-
-.page-wrapper .modal {
-    zoom: normal !important;
-}
-
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     #app, #app>div {
-         height: auto !important;
+        height: auto !important;
     }
 }
-
-.modal-dialog {
-    height: 100vh !important;
-}
-.modal-content {
-    margin: 0 !important;
-}
-
 @media screen and (max-width: 985px) {
     .nvuti {
         grid-template-columns: 1fr !important;
@@ -493,49 +541,4 @@
     .nvuti .leftNvuti {
         justify-self: center !important;
     }
-}
-
-.darkState .modalBlock {
-    background: #202335 !important;
-}
-
-.darkState .cicos {
-    color: #7265fd !important;
-}
-
-.modalBlock .modal1 .logo {
-    font-size: 43px !important;
-}
-
-.topMenu .menu {
-    justify-content: flex-start !important;
-}
-
-.modalBlock .modal1 .textEnter span {
-    color: #7265fd !important;
-}
-
-.flex .lastCount {
-    overflow: hidden;
-    overflow-x: scroll;
-}
-
-.slick-slider {
-    margin-top: auto !important;
-}
-
-.home__header-promo-pc {
-    margin-top: auto !important;
-}
-
-.userBalanceMobile {
-    color: white;
-}
-
-.subMenu .buttonsBlock {
-    width: 100% !important;
-}
-
-.menu {
-    padding: 13px !important;
 }
