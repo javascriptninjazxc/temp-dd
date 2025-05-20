@@ -243,7 +243,7 @@
     }
 
     .navbar-balance {
-        display: block;
+        display: flex;
     }
     
     .profileBlock {
