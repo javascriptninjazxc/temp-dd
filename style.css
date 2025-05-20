@@ -387,6 +387,15 @@
         z-index: 11;
     }
 
+    .chatActive {
+        left: 0 !important;
+        width: 100vw;
+    }
+
+    .leftBlock {
+        min-width: fit-content !important;
+    }
+
     .thirdBlock {
         padding: 20px 0;
     }
