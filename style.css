@@ -145,6 +145,10 @@
         width: 100% !important;
     }
 
+    .home__header {
+        padding: 0 15px !important;
+    }
+
     .balanceMenuOpen {
         border: 1px solid #3f435f;
         top: 40px;
@@ -247,6 +251,10 @@
 @media screen and (max-width: 768px) {
     .mainBody {
         display: contents !important;
+    }
+
+    .menu {
+        margin-top: 80px !important;
     }
 
     .mobMenu {
