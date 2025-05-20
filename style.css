@@ -131,6 +131,11 @@
         margin: 0 !important;
     }
 }
+
+.blockGame {
+    min-height: 170px !important;
+}
+
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
         display: contents !important;
