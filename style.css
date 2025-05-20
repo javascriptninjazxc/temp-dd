@@ -402,6 +402,14 @@
         min-width: fit-content !important;
     }
 
+    .mobChatText {
+        display: block;
+    }
+
+    .mobChatText .mobIcons {
+        display: block;
+    }
+
     .leftBlock .othBlock {
         display: none !important;
     }
