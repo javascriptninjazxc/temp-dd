@@ -83,6 +83,10 @@
         grid-template-columns: 70px 1fr !important;
     }
 
+    .hidePc {
+        display: block !important;
+    }
+
     .titleDesc {
         font-size: 10px !important;
     }
@@ -181,10 +185,6 @@
     .slide-button-button {
         min-height: 30px !important;
         font-size: 12px !important;
-    }
-
-    .hidePc {
-        display: block !important;
     }
 
     .secondBlock {
