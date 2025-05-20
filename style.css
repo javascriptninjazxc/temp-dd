@@ -502,3 +502,7 @@
 .userBalanceMobile {
     color: white;
 }
+
+.subMenu .buttonsBlock {
+    width: 100% !important;
+}
