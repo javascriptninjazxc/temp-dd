@@ -83,6 +83,10 @@
         grid-template-columns: 70px 1fr !important;
     }
 
+    .slide-wrapper img {
+
+    }
+
     .hidePc {
         display: block !important;
     }
@@ -409,6 +413,7 @@
 
 .slick-slide img {
     object-fit: cover !important;
+    width: 100% !important;
 }
 
 .modal-content {
