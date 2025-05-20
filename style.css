@@ -146,7 +146,7 @@
 }
 
 .topMenu .menu {
-    justify-content: flex-start !important;
+    justify-content: space-between !important;
 }
 
 .modalBlock .modal1 .textEnter span {
