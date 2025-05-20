@@ -557,6 +557,10 @@
     .balanceMenuOpen {
         margin-right: -251px !important;
     }
+
+    .messages {
+        max-height: calc(100vh - 369px) !important;
+    }
 }
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     #app, #app>div {
