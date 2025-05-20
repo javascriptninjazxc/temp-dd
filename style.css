@@ -561,12 +561,16 @@
         max-height: max-content;
         min-height: max-content;
     }
-}
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
+
+    .leftBlock {
+        padding: 20px !important;
+    }
+
     #app, #app>div {
         height: auto !important;
     }
 }
+
 @media screen and (max-width: 985px) {
     .nvuti {
         grid-template-columns: 1fr !important;
