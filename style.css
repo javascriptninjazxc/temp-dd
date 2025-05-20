@@ -126,6 +126,10 @@
     .slick-slider {
         width: 100% !important;
     }
+
+    .headTwo .logo {
+        margin: 0 !important;
+    }
 }
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
