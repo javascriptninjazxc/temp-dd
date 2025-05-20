@@ -490,6 +490,10 @@
         padding: 0 !important;
     }
 
+    .mainBody > :nth-child(1) {
+        display: block !important;
+    }
+
     .menu {
         margin-top: 80px !important;
     }
