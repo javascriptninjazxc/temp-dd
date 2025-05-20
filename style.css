@@ -588,7 +588,7 @@
 }
 
 .chatBlock {
-    height: 82%;
+    height: calc(100% - 105px);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
