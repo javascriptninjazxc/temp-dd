@@ -601,6 +601,7 @@
 
 .chatTop  {
     flex-shrink: 0;
+    border-bottom: 1px solid #586ebf !important;
 }
 
 .messages-wrapper {
