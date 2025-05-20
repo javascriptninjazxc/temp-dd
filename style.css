@@ -340,6 +340,12 @@
     /*}*/
 }
 
+@media (max-width: 500px) {
+    .home__header, .topMenu {
+        padding: 0 !important;
+    }
+}
+
 .VSlide_content_OTd5l {
     height: 85% !important;
     gap: .5rem !important;
