@@ -215,6 +215,18 @@
         display: contents !important;
     }
 
+    .mobMenu {
+        display: block;
+    }
+
+    .navbar-balance {
+        display: flex;
+    }
+    
+    .profileBlock {
+        display: none;
+    }
+
     .panelJack {
         grid-template-columns: 1fr !important;
     }
