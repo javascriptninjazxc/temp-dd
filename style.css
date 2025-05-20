@@ -430,7 +430,7 @@
 
     @media only screen and (max-width: 1024px) and (orientation: landscape) {
         .balanceMenuOpen {
-            margin-right: -254px !important;
+            margin-right: -251px !important;
         }
     }
 }
