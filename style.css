@@ -469,3 +469,11 @@
     overflow: hidden;
     overflow-x: scroll;
 }
+
+.slick-slider {
+    margin-top: auto !important;
+}
+
+.home__header-promo-pc {
+    margin-top: auto !important;
+}
