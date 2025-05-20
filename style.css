@@ -576,3 +576,9 @@
         justify-self: center !important;
     }
 }
+
+@media only screen and (max-height: 400px) and (orientation: landscape) {
+    .messages {
+        max-height: calc(100vh - 204px) !important;
+    }
+}
