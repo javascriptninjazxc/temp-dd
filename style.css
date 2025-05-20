@@ -397,6 +397,7 @@
     }
 
     .leftBlock {
+        height: 100vh;
         min-width: fit-content !important;
     }
 
