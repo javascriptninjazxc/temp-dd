@@ -582,3 +582,7 @@
         max-height: calc(100vh - 204px) !important;
     }
 }
+
+.inpChat {
+    flex: 1;
+}
