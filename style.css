@@ -109,26 +109,6 @@
     width: 100% !important;
 }
 
-@media screen and (max-width: 548px) {
-    .toolbar-section .input-wrapper {
-        min-width: 0 !important;
-        max-width: 100% !important;
-    }
-
-    .menu {
-        margin-top: 88px;
-    }
-
-    .filter-dropdown {
-        width: 100% !important;
-        flex: 0 1 100% !important;
-    }
-
-    .icon-dropdown {
-        flex: 0 0 46px !important;
-    }
-}
-
 .toolbar-row {
     flex-wrap: wrap !important;
 }
@@ -196,6 +176,26 @@
 
 .menu {
     padding: 13px !important;
+}
+
+@media screen and (max-width: 548px) {
+    .toolbar-section .input-wrapper {
+        min-width: 0 !important;
+        max-width: 100% !important;
+    }
+
+    .menu {
+        margin-top: 88px;
+    }
+
+    .filter-dropdown {
+        width: 100% !important;
+        flex: 0 1 100% !important;
+    }
+
+    .icon-dropdown {
+        flex: 0 0 46px !important;
+    }
 }
 
 @media screen and (max-width: 1024px) {
