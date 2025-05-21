@@ -185,6 +185,7 @@
     }
 
     .menu {
+        padding: 0 15px !important;
         margin-top: 88px;
     }
 
