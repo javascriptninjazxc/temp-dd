@@ -384,6 +384,7 @@
         position: fixed;
         transition: all .4s ease;
         width: 100%;
+        left: auto !important;
         z-index: 11;
     }
 
@@ -615,6 +616,9 @@
     min-height: max-content;
 }
 
+
+
 .chatActive {
+    left: 0 !important;
     transform: translateX(0) !important;
 }
