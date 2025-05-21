@@ -380,7 +380,7 @@
     .firstBlock {
         background: #f0f1f7;
         height: 100vh;
-        transform: translateX(100vw) !important;
+        transform: translateX(200vw) !important;
         position: fixed;
         transition: all .4s ease;
         width: 100%;
