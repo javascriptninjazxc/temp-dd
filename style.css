@@ -528,7 +528,6 @@
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
-
     .isAndroid {
         #signIn {
             zoom: normal !important;
@@ -651,6 +650,12 @@
 
 .inputNvuti {
     outline: 1px solid transparent !important;
+}
+
+.menu a {
+    height: 100%;
+    display: flex;
+    align-items: center;
 }
 
 /*
