@@ -380,7 +380,7 @@
     .firstBlock {
         background: #f0f1f7;
         height: 100vh;
-        left: 100vw !important;
+        transform: translateX(100vw) !important;
         position: fixed;
         transition: all .4s ease;
         width: 100%;
@@ -392,7 +392,7 @@
     }
 
     .chatActive {
-        left: 0 !important;
+        transform: translateX(0) !important;
         width: 100vw;
     }
 
