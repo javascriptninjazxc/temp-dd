@@ -631,3 +631,13 @@
     padding: 0 !important;
     height: 42px !important;
 }
+
+.curMenu {
+    border-bottom: 1px solid;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0 !important;
+    width: 4%;
+}
