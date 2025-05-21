@@ -341,10 +341,6 @@
 
     }
 
-    .hidePc {
-        display: block !important;
-    }
-
     .titleDesc {
         font-size: 10px !important;
     }
@@ -656,3 +652,18 @@
 .inputNvuti {
     outline: 1px solid transparent !important;
 }
+
+/*
+
+.topMenu .header {
+        padding: 0 !important;
+    margin-top: 15px;
+}
+
+@media (max-width: 500px) {
+    .menu {
+        margin-top: calc(34px + 15px + 15px) !important;
+    }
+}
+
+ */
