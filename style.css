@@ -1,11 +1,10 @@
 .mainBody {
     display: grid;
-    grid-template-columns: 240px 70px 1fr;
+    gap: 10px;
+    grid-template-columns: minmax(200px, 240px) 70px 1fr !important;
     margin: 20px auto auto;
-    max-width: 1440px;
+    max-width: 90%;
     width: 100%;
-    gap: 10px !important;
-    box-sizing: content-box;
 }
 
 .user-avatar img {
