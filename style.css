@@ -641,3 +641,7 @@
     padding: 0 !important;
     width: 4%;
 }
+
+.inputChat>input {
+    font-size: 16px !important;
+}
