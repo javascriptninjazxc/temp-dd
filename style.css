@@ -524,6 +524,10 @@
     .menu {
         margin-top: 80px !important;
     }
+
+    .firstBlock {
+        visibility: hidden;
+    }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
@@ -616,8 +620,6 @@
     max-height: max-content;
     min-height: max-content;
 }
-
-
 
 .chatActive {
     left: 0 !important;
