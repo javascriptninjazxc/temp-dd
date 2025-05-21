@@ -614,3 +614,7 @@
     max-height: max-content;
     min-height: max-content;
 }
+
+.chatActive {
+    transform: translateX(0) !important;
+}
