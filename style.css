@@ -659,7 +659,6 @@
     align-items: center;
     display: flex;
     padding: 0 !important;
-    width: 4%;
 }
 
 .inputChat>input {
