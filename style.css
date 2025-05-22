@@ -347,7 +347,7 @@
         display: none;
     }
 
-    .chatActive .mainBody > :nth-child(1) {
+    .mainBody.chatActive > :nth-child(1) {
         display: block !important;
         position: absolute;
         left: 0;
