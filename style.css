@@ -707,14 +707,8 @@
     font-size: 16px !important;
 }
 
-.dark {
-    .inputNvuti {
-        outline: transparent !important;
-    }
-}
-
-.inputNvuti {
-    outline: 1px solid transparent !important;
+.darkState .inputNvuti {
+    outline: transparent !important;
 }
 
 .menu a {
