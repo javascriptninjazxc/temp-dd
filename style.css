@@ -343,14 +343,6 @@
 
 
     /* СБРОСИТЬ НА ДРУГИХ РАЗРЕШЕНИЯХ */
-    .mainBody.chatActive > :nth-child(1) {
-        display: block !important;
-        position: absolute;
-        left: 0;
-        top: 0;
-        z-index: 12;
-    }
-
     .firstBlock {
         z-index: 121;
         position: relative;
