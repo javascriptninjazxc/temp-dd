@@ -341,6 +341,18 @@
         grid-template-columns: 70px 1fr !important;
     }
 
+    .profileBlock {
+        display: none !important;
+    }
+
+    .mobMenu {
+        display: block !important;
+    }
+
+    .navbar-balance {
+        display: flex !important;
+    }
+
     .chatLink {
         display: flex !important;
     }
