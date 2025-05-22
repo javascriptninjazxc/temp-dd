@@ -557,6 +557,10 @@
         }
     }
 
+    .navbar-balance {
+        flex-direction: row !important;
+    }
+
     #signIn {
         zoom: normal !important;
         transform: scale(1) !important;
