@@ -343,42 +343,42 @@
 
 
     /* СБРОСИТЬ НА ДРУГИХ РАЗРЕШЕНИЯХ */
-    .firstBlock {
-        z-index: 121;
-        position: relative;
-        margin: 0 auto;
-        background: #202335;
-        height: 100vh;
-        width: 100vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+    /*.firstBlock {*/
+    /*    z-index: 121;*/
+    /*    position: relative;*/
+    /*    margin: 0 auto;*/
+    /*    background: #202335;*/
+    /*    height: 100vh;*/
+    /*    width: 100vw;*/
+    /*    display: flex;*/
+    /*    justify-content: center;*/
+    /*    align-items: center;*/
+    /*}*/
 
-    .chatActive {
-        z-index: 121;
-        position: relative;
-        margin: 0 auto;
-        background: #202335;
-        height: 100vh;
-        width: 100vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+    /*.chatActive {*/
+    /*    z-index: 121;*/
+    /*    position: relative;*/
+    /*    margin: 0 auto;*/
+    /*    background: #202335;*/
+    /*    height: 100vh;*/
+    /*    width: 100vw;*/
+    /*    display: flex;*/
+    /*    justify-content: center;*/
+    /*    align-items: center;*/
+    /*}*/
 
-    .leftBlock {
-        cursor: default;
-        max-width: 97vw;
-        min-width: 97vw;
-        position: fixed;
-        z-index: 1;
-        margin: 0 auto;
-    }
+    /*.leftBlock {*/
+    /*    cursor: default;*/
+    /*    max-width: 97vw;*/
+    /*    min-width: 97vw;*/
+    /*    position: fixed;*/
+    /*    z-index: 1;*/
+    /*    margin: 0 auto;*/
+    /*}*/
 
-    .leftBlock .othBlock {
-        display: none !important;
-    }
+    /*.leftBlock .othBlock {*/
+    /*    display: none !important;*/
+    /*}*/
 
     /* END */
 
