@@ -707,8 +707,16 @@
     font-size: 16px !important;
 }
 
+.inputNvuti {
+    outline: none;
+    box-sizing: border-box;
+    border: 1px solid #d0d2dd;
+    border-radius: 10px 10px 0 0;
+}
+
 .darkState .inputNvuti {
-    outline: transparent !important;
+    outline: none !important;
+    border: unset !important;
 }
 
 .menu a {
