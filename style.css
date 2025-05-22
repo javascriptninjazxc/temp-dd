@@ -3,7 +3,7 @@
     grid-template-columns: 240px 70px 1fr;
     margin: 20px auto auto;
     max-width: 1440px;
-    width: 100%;
+    width: 90%;
     gap: 10px !important;
     box-sizing: content-box;
 }
