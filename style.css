@@ -178,6 +178,10 @@
     padding: 13px !important;
 }
 
+.chatLink {
+    display: none !important;
+}
+
 @media screen and (max-width: 548px) {
     .toolbar-section .input-wrapper {
         min-width: 0 !important;
@@ -335,6 +339,10 @@
         transform: none !important;
         transform-origin: center !important;
         grid-template-columns: 70px 1fr !important;
+    }
+
+    .chatLink {
+        display: flex !important;
     }
 
     .slide-wrapper img {
