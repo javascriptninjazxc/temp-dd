@@ -343,10 +343,6 @@
 
 
     /* СБРОСИТЬ НА ДРУГИХ РАЗРЕШЕНИЯХ */
-    .mainBody > :nth-child(1) {
-        display: none;
-    }
-
     .mainBody.chatActive > :nth-child(1) {
         display: block !important;
         position: absolute;
