@@ -593,6 +593,10 @@
 }
 
 @media (max-width: 500px) {
+    .topMenu .menu {
+        justify-content: space-between !important
+    }
+
     .home__header, .topMenu {
         padding: 0 !important;
     }
