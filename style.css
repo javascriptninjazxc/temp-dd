@@ -59,8 +59,13 @@
     margin-top: 0;
 }
 
-.subMenuOpen {
+.subMenu {
+    padding: 10px !important;
     height: max-content !important;
+}
+
+.subMenuOpen {
+    height: 268px !important;
 }
 
 
