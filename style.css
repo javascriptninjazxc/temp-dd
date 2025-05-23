@@ -62,10 +62,12 @@
 .subMenu {
     height: 0 !important;
     padding: 10px !important;
+    visibility: hidden;
 }
 
 .subMenuOpen {
     height: 268px !important;
+    visibility: visible !important;
 }
 
 
