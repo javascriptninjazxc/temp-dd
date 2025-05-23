@@ -61,7 +61,7 @@
 
 .subMenu {
     max-height: 0;
-    opacity: 0;
+    visibility: hidden;
     padding: 0 !important;;
     overflow: hidden;
 }
@@ -69,7 +69,7 @@
 .subMenuOpen {
     max-height: 290px;
     height: 285px;
-    opacity: 1;
+    visibility: visible;
 }
 
 .menu-container {
