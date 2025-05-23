@@ -60,16 +60,29 @@
 }
 
 .subMenu {
-    height: 0 !important;
-    padding: 10px !important;
-    visibility: hidden;
+    max-height: 0;
+    opacity: 0;
+    padding: 0 !important;;
+    overflow: hidden;
 }
 
 .subMenuOpen {
-    height: 268px !important;
-    visibility: visible !important;
+    height: 290px;
+    opacity: 1;
 }
 
+.menu-container {
+    width: 80% !important;
+}
+
+.menu-container:nth-child(1) {
+    margin-top: 10px !important;
+}
+
+.menu-social {
+    width: 87% !important;
+    margin-bottom: 10px !important;
+}
 
 .menu {
     margin: 15px 0 !important;
