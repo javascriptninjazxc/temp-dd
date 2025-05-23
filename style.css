@@ -67,7 +67,7 @@
 }
 
 .subMenuOpen {
-    height: 290px;
+    max-height: 290px;
     opacity: 1;
 }
 
