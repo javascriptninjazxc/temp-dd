@@ -60,8 +60,8 @@
 }
 
 .subMenu {
+    height: 0 !important;
     padding: 10px !important;
-    height: max-content !important;
 }
 
 .subMenuOpen {
