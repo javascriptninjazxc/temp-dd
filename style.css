@@ -1,829 +1,829 @@
-.mainBody {
-    display: grid;
-    grid-template-columns: 240px 70px 1fr;
-    margin: 20px auto auto;
-    max-width: 1440px;
-    width: 90%;
-    gap: 10px !important;
-    box-sizing: content-box;
-}
-
-.user-avatar img {
-    height: 32px;
-    width: 33px;
-}
-
-.user-avatar {
-    width: 44px;
-    height: 44px;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-}
-
-.profits {
-    margin: 0 auto !important;
-}
-
-.mines-mob {
-    padding: 15px !important;
-}
-
-.VSlide_content_OTd5l {
-    height: max-content !important;
-    gap: 10px !important;
-    justify-content: space-between !important;
-}
-
-.Slide-button {
-    margin-top: 0;
-}
-
-.titleDesc {
-    font-size: 10px !important;
-}
-
-.footer {
-    display: none !important;
-}
-
-.modal-visible body.landscape {
-    position: inherit !important;
-}
-
-.user-avatar {
-    border-radius: 50%;
-}
-
-.menu-social {
-    margin-top: 0;
-}
-
-.subMenu {
-    max-height: 0;
-    visibility: hidden;
-    padding: 0 !important;;
-    overflow: hidden;
-}
-
-.subMenuOpen {
-    max-height: 290px;
-    height: 285px;
-    visibility: visible;
-}
-
-.menu-container {
-    width: 80% !important;
-}
-
-.menu-container:nth-child(1) {
-    margin-top: 10px !important;
-}
-
-.menu-social {
-    width: 87% !important;
-    margin-bottom: 10px !important;
-}
-
-.menu {
-    margin: 15px 0 !important;
-}
-
-.blockGame {
-    min-height: 170px !important;
-}
-
-.VSlide_content_OTd5l {
-    height: 85% !important;
-    gap: .5rem !important;
-    justify-content: center;
-}
-
-.vslide_title {
-    margin: 0 !important;
-}
-
-.Slide-button {
-    margin-top: 0 !important;
-}
-
-.slide-button-button {
-    color: #ffffff !important;
-    background: linear-gradient(
-            135deg,
-            rgba(255, 255, 255, 0.25),
-            rgba(255, 255, 255, 0.1)
-    ) !important;
-    backdrop-filter: blur(8px) !important;
-    -webkit-backdrop-filter: blur(8px) !important;
-}
-
-.toolbar-section {
-    align-items: center;
-}
-
-.toolbar-section .input-wrapper {
-    min-width: 190px !important;
-}
-
-.filter-dropdown {
-    width: 100% !important;
-}
-
-.toolbar-row {
-    flex-wrap: wrap !important;
-}
-
-.slick-slide img {
-    object-fit: cover !important;
-    width: 100% !important;
-}
-
-.modal-content {
-    margin: 0 auto !important;
-}
-
-.page-wrapper .modal {
-    zoom: normal !important;
-}
-
-.modal-dialog {
-    height: 100vh !important;
-}
-.modal-content {
-    margin: 0 !important;
-}
-
-.darkState .modalBlock {
-    background: #202335 !important;
-}
-
-.darkState .cicos {
-    color: #7265fd !important;
-}
-
-.modalBlock .modal1 .logo {
-    font-size: 43px !important;
-}
-
-.topMenu .menu {
-    justify-content: flex-start !important;
-}
-
-.modalBlock .modal1 .textEnter span {
-    color: #7265fd !important;
-}
-
-.slick-slider {
-    margin-top: auto !important;
-}
-
-.home__header-promo-pc {
-    margin-top: auto !important;
-}
-
-.userBalanceMobile {
-    color: white;
-}
-
-.subMenu .buttonsBlock {
-    width: 100% !important;
-}
-
-.menu {
-    padding: 13px !important;
-}
-
-.chatLink {
-    display: none !important;
-}
-
-.leftBlock {
-    display: flex;
-    flex-direction: column;
-    height: calc(100% - 31px);
-}
-
-.chatBlock {
-    flex: 1;
-    max-height: max-content;
-    height: 123px !important;
-}
-
-@media screen and (max-width: 548px) {
-    .toolbar-section .input-wrapper {
-        min-width: 0 !important;
-        max-width: 100% !important;
-    }
-
-    .menu {
-        padding: 0 15px !important;
-        margin-top: 88px;
-    }
-
-    .filter-dropdown {
-        width: 100% !important;
-        flex: 0 1 100% !important;
-    }
-
-    .icon-dropdown {
-        flex: 0 0 46px !important;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .secondBlock {
-        overflow-x: scroll !important;
-        overflow-y: hidden !important;
-        width: 100% !important;
-    }
-
-    .home__header {
-        padding-top: 15px !important;
-    }
-}
-
-@media screen and (max-width: 1360px) {
-    .col-md-3 {
-        flex: 0 0 50% !important;
-        max-width: 50% !important;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .mainBody {
-        display: contents !important;
-    }
-
-    .mobMenu {
-        display: block;
-    }
-
-    .navbar-balance {
-        display: flex;
-    }
-
-    .profileBlock {
-        display: none;
-    }
-
-    .panelJack {
-        grid-template-columns: 1fr !important;
-    }
-
-    .descMines {
-        padding: 15px !important;
-    }
-
-    .profileBlock .buttonsBlock {
-        display: none !important;
-    }
-
-    .VSlide_typeSmile_dNfKl .VSlide_content_OTd5l .ResponsivePicture_img_N2UWA {
-        max-width: 33px;
-        width: 100%;
-    }
-
-    .home__header-promo-pc {
-        display: none !important;
-    }
-
-    .home__header-content {
-        flex-direction: column;
-    }
-
-    .slide-wrapper img {
-        width: 100% !important;
-    }
-
-    .home__header-promo-mob {
-        -moz-column-gap: 10px;
-        column-gap: 10px;
-        display: flex!important;
-        flex-direction: row;
-        height: 50px!important;
-        margin-top: 10px!important;
-        padding: 10px 0 0;
-        width: 100%;
-    }
-
-    .home__header-promo-mob div:first-child {
-        background: url('https://dev.we2vlr1c.fun/image/yoda-cashback.png') 100% 0 no-repeat #10091b;
-    }
-
-    .home__header-promo-mob div {
-        align-items: center;
-        border-radius: 10px;
-        color: #fff;
-        display: flex;
-        flex: 1 1 auto;
-        font-family: RubikBold;
-        font-size: .7em;
-        height: 50px;
-        justify-content: space-between;
-        padding: 0 15px;
-    }
-
-    .home__header-promo-mob div:nth-child(2) {
-        background: url('https://dev.we2vlr1c.fun/img/main_gift_cookie_mobile_dark.png') top right no-repeat #3466FB !important;
-    }
-
-    /*.home__header-content {*/
-    /*    flex-direction: column !important;*/
-    /*}*/
-
-    /*.home__header-content {*/
-    /*    height: max-content !important;*/
-    /*    position: relative !important;*/
-    /*}*/
-}
-
-@media screen and (max-width: 1366px) {
-    .profits {
-        max-width: 355px !important;
-    }
-
-    .rightMines {
-        flex: 1 !important;
-    }
-
-    .mines>div {
-        flex: 0;
-    }
-}
-@media screen and (max-width: 1280px) {
-    .mainBody {
-        transform: none !important;
-        transform-origin: center !important;
-        grid-template-columns: 70px 1fr !important;
-    }
-
-    .balanceMenuOpen {
-        border: 1px solid #3f435f;
-        top: 40px;
-        font-size: 15px;
-        -webkit-backdrop-filter: blur(4px);
-        backdrop-filter: blur(4px);
-        max-height: max-content;
-        min-height: min-content;
-        height: 130px;
-        padding: 10px !important;
-        visibility: visible !important;
-        right: -10px;
-    }
-
-    #userBalanceMobile {
-        color: white !important;
-    }
-
-
-    /* СБРОСИТЬ НА ДРУГИХ РАЗРЕШЕНИЯХ */
-    /*.firstBlock {*/
-    /*    z-index: 121;*/
-    /*    position: relative;*/
-    /*    margin: 0 auto;*/
-    /*    background: #202335;*/
-    /*    height: 100vh;*/
-    /*    width: 100vw;*/
-    /*    display: flex;*/
-    /*    justify-content: center;*/
-    /*    align-items: center;*/
-    /*}*/
-
-    /*.chatActive {*/
-    /*    z-index: 121;*/
-    /*    position: relative;*/
-    /*    margin: 0 auto;*/
-    /*    background: #202335;*/
-    /*    height: 100vh;*/
-    /*    width: 100vw;*/
-    /*    display: flex;*/
-    /*    justify-content: center;*/
-    /*    align-items: center;*/
-    /*}*/
-
-    /*.leftBlock {*/
-    /*    cursor: default;*/
-    /*    max-width: 97vw;*/
-    /*    min-width: 97vw;*/
-    /*    position: fixed;*/
-    /*    z-index: 1;*/
-    /*    margin: 0 auto;*/
-    /*}*/
-
-    /*.leftBlock .othBlock {*/
-    /*    display: none !important;*/
-    /*}*/
-
-    /* END */
-
-
-    .profileBlock {
-        display: none !important;
-    }
-
-    .mobMenu {
-        display: block !important;
-    }
-
-    .navbar-balance {
-        display: flex !important;
-    }
-
-    .chatLink {
-        display: flex !important;
-    }
-
-    .slide-wrapper img {
-
-    }
-
-    .titleDesc {
-        font-size: 10px !important;
-    }
-
-    .blockMainGames {
-        grid-template-columns: 1fr 1fr 1fr !important;
-    }
-
-    .VSlide_content_OTd5l {
-        height: 85% !important;
-    }
-
-    .mainBody > :nth-child(1) {
-        display: none !important;
-    }
-
-    .vslide_title {
-        margin-bottom: 10px !important;
-    }
-
-    .modal-content {
-        transform: scale(0.8) !important;
-    }
-}
-@media screen and (max-width: 1024px) and (min-width: 425px) {
-    .mainBody {
-        display: contents !important;
-    }
-
-    .mainBody > :nth-child(1) {
-        display: block !important;
-    }
-
-    .firstBlock {
-        background: #f0f1f7;
-        height: 100vh;
-        transform: translateX(100vw) !important;
-        position: fixed;
-        transition: all .4s ease;
-        width: 100%;
-        visibility: hidden;
-        left: auto !important;
-        z-index: 11;
-    }
-
-    .darkState .firstBlock {
-        background: #202335 !important;
-    }
-
-    .chatActive {
-        transform: translateX(0) !important;
-        width: 100vw;
-    }
-
-    .leftBlock {
-        height: 100vh;
-        min-width: fit-content !important;
-    }
-
-    .mobChatText {
-        display: block;
-        color: #9f8ff8 !important;
-    }
-
-    .mobChatText .mobIcons {
-        display: block;
-    }
-
-    .leftBlock .othBlock {
-        display: none !important;
-    }
-
-    .thirdBlock {
-        padding: 20px 0;
-    }
-
-    body, html {
-        zoom: normal !important;
-        font-size: 100% !important;
-    }
-
-    .vslide_title {
-        font-size: 14px !important;
-    }
-    .slide-button-button {
-        min-height: 30px !important;
-        font-size: 12px !important;
-    }
-
-    .secondBlock {
-        bottom: 0 !important;
-        box-shadow: 0 -3px 20px 0 rgba(56,71,124,.09);
-        height: 64px;
-        position: fixed;
-        width: 100%;
-        z-index: 9;
-        display: block;
-    }
-
-    .gamesList {
-        height: auto;
-        position: relative;
-        width: auto;
-        z-index: 3;
-    }
-
-    .mainCookie {
-        display: none !important;
-    }
-
-
-    .gamesBlock {
-        position: relative;
-        z-index: 3;
-        align-items: center;
-        border-radius: 0;
-        display: flex;
-        height: 64px;
-        justify-content: space-around;
-        margin-top: 0;
-        padding-top: 0;
-        transition: background .25s;
-        width: 200vw!important;
-    }
-    /*
-    MINES
-     */
-
-    .profits {
-        max-width: 285px !important;
-        margin: 0 auto;
-    }
-
-    .mines {
-        flex-wrap: wrap;
-        flex-direction: column-reverse;
-    }
-
-    .portrait .topMenu {
-        margin-top: auto !important;
-    }
-}
-
-
-@media screen and (max-width: 768px) {
-    .blockMainGames {
-        grid-template-columns: 1fr 1fr !important;
-    }
-
-
-
-    .home__header {
-        margin-bottom: 10px !important;
-        padding-bottom: unset!important;
-    }
-
-    .home__header-content {
-        height: max-content !important;
-        position: relative !important;
-    }
-
-    .slick-slider {
-        width: 100% !important;
-    }
-
-    .headTwo .logo {
-        margin: 0 !important;
-    }
-}
-
-@media (max-width: 500px) {
-    .topMenu .menu {
-        justify-content: space-between !important
-    }
-
-    .home__header, .topMenu {
-        padding: 0 !important;
-    }
-
-    .mainBody > :nth-child(1) {
-        display: block !important;
-    }
-
-    .menu {
-        margin-top: 80px !important;
-    }
-
-    .firstBlock {
-        visibility: hidden;
-    }
-}
-
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .isAndroid {
-        #signIn {
-            zoom: normal !important;
-            transform: scale(1) !important;
-            width: 100vw !important;
-            height: 100vh !important;
-        }
-    }
-
-    .navbar-balance {
-        flex-direction: row !important;
-    }
-
-    #signIn {
-        zoom: normal !important;
-        transform: scale(1) !important;
-        width: 100vw !important;
-        height: 100vh !important;
-    }
-
-    .modal .modal-dialog {
-        zoom: normal !important;
-    }
-
-    .modal .modal-content {
-        zoom: normal !important;
-        margin: 0 auto !important;
-    }
-}
-
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .balanceMenuOpen {
-        margin-right: -251px !important;
-    }
-
-    .messages {
-        max-height: max-content;
-        min-height: max-content;
-    }
-
-    .leftBlock {
-        padding: 20px !important;
-    }
-
-    #app, #app>div {
-        height: auto !important;
-    }
-}
-
-@media screen and (max-width: 985px) {
-    .nvuti {
-        grid-template-columns: 1fr !important;
-    }
-
-    .nvuti .leftNvuti {
-        justify-self: center !important;
-    }
-}
-
-@media only screen and (max-height: 400px) and (orientation: landscape) {
-    .messages {
-        max-height: max-content;
-        min-height: max-content;
-    }
-}
-
-.inpChat {
-    flex: 1;
-}
-
-.lastCount {
-    overflow: hidden !important;
-    overflow-x: scroll !important;
-}
-
-.chatBlock {
-    height: calc(100vh - 105px);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-.chatTop  {
-    flex-shrink: 0;
-    border-bottom: 1px solid #586ebf !important;
-}
-
-.messages-wrapper {
-    flex: 1;
-    overflow-y: auto;
-    max-height: 100vh !important;
-}
-
-.messages {
-    max-height: max-content;
-    min-height: max-content;
-}
-
-.chatActive {
-    left: 0 !important;
-    visibility: visible;
-    transform: translateX(0) !important;
-}
-
-.menu {
-    padding: 0 20px !important;
-    height: 42px !important;
-}
-
-.curMenu {
-    border-bottom: 1px solid;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    padding: 0 !important;
-}
-
-.inputChat>input {
-    font-size: 16px !important;
-}
-
-.inputNvuti {
-    outline: none;
-    box-sizing: border-box;
-    border: 1px solid #d0d2dd;
-    border-radius: 10px 10px 0 0;
-}
-
-.darkState .inputNvuti {
-    outline: none !important;
-    border: unset !important;
-}
-
-.menu a {
-    height: 100%;
-    display: flex;
-    align-items: center;
-}
-
-.scroll-bottom {
-    border-radius: 100%;
-    background: var(--main-color);
-    position: sticky;
-    bottom: 10px;
-    left: calc(100%);
-    width: 30px;
-    height: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    transition: .3s;
-    color: #fff;
-    transform: translateX(-11px);
-}
-
-
-/*
-
-ВРЕМЕННЫЙ ЧАТ
-
- */
-
-.messages {
-    min-height: 100vh !important;
-}
-
-.messages, .messagesNot {
-    overflow-y: unset !important;
-}
-
-.chatActive .chatBlock {
-    margin-top: 88px !important;
-}
-
-@media (max-width: 500px) {
-    .leftBlock {
-        top: 0 !important;
-    }
-}
-
-/*
-
-.topMenu .header {
-        padding: 0 !important;
-    margin-top: 15px;
-}
-
-@media (max-width: 500px) {
-    .menu {
-        margin-top: calc(34px + 15px + 15px) !important;
-    }
-}
-
- */
+/*.mainBody {*/
+/*    display: grid;*/
+/*    grid-template-columns: 240px 70px 1fr;*/
+/*    margin: 20px auto auto;*/
+/*    max-width: 1440px;*/
+/*    width: 90%;*/
+/*    gap: 10px !important;*/
+/*    box-sizing: content-box;*/
+/*}*/
+
+/*.user-avatar img {*/
+/*    height: 32px;*/
+/*    width: 33px;*/
+/*}*/
+
+/*.user-avatar {*/
+/*    width: 44px;*/
+/*    height: 44px;*/
+/*    justify-content: center;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.profits {*/
+/*    margin: 0 auto !important;*/
+/*}*/
+
+/*.mines-mob {*/
+/*    padding: 15px !important;*/
+/*}*/
+
+/*.VSlide_content_OTd5l {*/
+/*    height: max-content !important;*/
+/*    gap: 10px !important;*/
+/*    justify-content: space-between !important;*/
+/*}*/
+
+/*.Slide-button {*/
+/*    margin-top: 0;*/
+/*}*/
+
+/*.titleDesc {*/
+/*    font-size: 10px !important;*/
+/*}*/
+
+/*.footer {*/
+/*    display: none !important;*/
+/*}*/
+
+/*.modal-visible body.landscape {*/
+/*    position: inherit !important;*/
+/*}*/
+
+/*.user-avatar {*/
+/*    border-radius: 50%;*/
+/*}*/
+
+/*.menu-social {*/
+/*    margin-top: 0;*/
+/*}*/
+
+/*.subMenu {*/
+/*    max-height: 0;*/
+/*    visibility: hidden;*/
+/*    padding: 0 !important;;*/
+/*    overflow: hidden;*/
+/*}*/
+
+/*.subMenuOpen {*/
+/*    max-height: 290px;*/
+/*    height: 285px;*/
+/*    visibility: visible;*/
+/*}*/
+
+/*.menu-container {*/
+/*    width: 80% !important;*/
+/*}*/
+
+/*.menu-container:nth-child(1) {*/
+/*    margin-top: 10px !important;*/
+/*}*/
+
+/*.menu-social {*/
+/*    width: 87% !important;*/
+/*    margin-bottom: 10px !important;*/
+/*}*/
+
+/*.menu {*/
+/*    margin: 15px 0 !important;*/
+/*}*/
+
+/*.blockGame {*/
+/*    min-height: 170px !important;*/
+/*}*/
+
+/*.VSlide_content_OTd5l {*/
+/*    height: 85% !important;*/
+/*    gap: .5rem !important;*/
+/*    justify-content: center;*/
+/*}*/
+
+/*.vslide_title {*/
+/*    margin: 0 !important;*/
+/*}*/
+
+/*.Slide-button {*/
+/*    margin-top: 0 !important;*/
+/*}*/
+
+/*.slide-button-button {*/
+/*    color: #ffffff !important;*/
+/*    background: linear-gradient(*/
+/*            135deg,*/
+/*            rgba(255, 255, 255, 0.25),*/
+/*            rgba(255, 255, 255, 0.1)*/
+/*    ) !important;*/
+/*    backdrop-filter: blur(8px) !important;*/
+/*    -webkit-backdrop-filter: blur(8px) !important;*/
+/*}*/
+
+/*.toolbar-section {*/
+/*    align-items: center;*/
+/*}*/
+
+/*.toolbar-section .input-wrapper {*/
+/*    min-width: 190px !important;*/
+/*}*/
+
+/*.filter-dropdown {*/
+/*    width: 100% !important;*/
+/*}*/
+
+/*.toolbar-row {*/
+/*    flex-wrap: wrap !important;*/
+/*}*/
+
+/*.slick-slide img {*/
+/*    object-fit: cover !important;*/
+/*    width: 100% !important;*/
+/*}*/
+
+/*.modal-content {*/
+/*    margin: 0 auto !important;*/
+/*}*/
+
+/*.page-wrapper .modal {*/
+/*    zoom: normal !important;*/
+/*}*/
+
+/*.modal-dialog {*/
+/*    height: 100vh !important;*/
+/*}*/
+/*.modal-content {*/
+/*    margin: 0 !important;*/
+/*}*/
+
+/*.darkState .modalBlock {*/
+/*    background: #202335 !important;*/
+/*}*/
+
+/*.darkState .cicos {*/
+/*    color: #7265fd !important;*/
+/*}*/
+
+/*.modalBlock .modal1 .logo {*/
+/*    font-size: 43px !important;*/
+/*}*/
+
+/*.topMenu .menu {*/
+/*    justify-content: flex-start !important;*/
+/*}*/
+
+/*.modalBlock .modal1 .textEnter span {*/
+/*    color: #7265fd !important;*/
+/*}*/
+
+/*.slick-slider {*/
+/*    margin-top: auto !important;*/
+/*}*/
+
+/*.home__header-promo-pc {*/
+/*    margin-top: auto !important;*/
+/*}*/
+
+/*.userBalanceMobile {*/
+/*    color: white;*/
+/*}*/
+
+/*.subMenu .buttonsBlock {*/
+/*    width: 100% !important;*/
+/*}*/
+
+/*.menu {*/
+/*    padding: 13px !important;*/
+/*}*/
+
+/*.chatLink {*/
+/*    display: none !important;*/
+/*}*/
+
+/*.leftBlock {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    height: calc(100% - 31px);*/
+/*}*/
+
+/*.chatBlock {*/
+/*    flex: 1;*/
+/*    max-height: max-content;*/
+/*    height: 123px !important;*/
+/*}*/
+
+/*@media screen and (max-width: 548px) {*/
+/*    .toolbar-section .input-wrapper {*/
+/*        min-width: 0 !important;*/
+/*        max-width: 100% !important;*/
+/*    }*/
+
+/*    .menu {*/
+/*        padding: 0 15px !important;*/
+/*        margin-top: 88px;*/
+/*    }*/
+
+/*    .filter-dropdown {*/
+/*        width: 100% !important;*/
+/*        flex: 0 1 100% !important;*/
+/*    }*/
+
+/*    .icon-dropdown {*/
+/*        flex: 0 0 46px !important;*/
+/*    }*/
+/*}*/
+
+/*@media screen and (max-width: 1024px) {*/
+/*    .secondBlock {*/
+/*        overflow-x: scroll !important;*/
+/*        overflow-y: hidden !important;*/
+/*        width: 100% !important;*/
+/*    }*/
+
+/*    .home__header {*/
+/*        padding-top: 15px !important;*/
+/*    }*/
+/*}*/
+
+/*@media screen and (max-width: 1360px) {*/
+/*    .col-md-3 {*/
+/*        flex: 0 0 50% !important;*/
+/*        max-width: 50% !important;*/
+/*    }*/
+/*}*/
+
+/*@media screen and (max-width: 768px) {*/
+/*    .mainBody {*/
+/*        display: contents !important;*/
+/*    }*/
+
+/*    .mobMenu {*/
+/*        display: block;*/
+/*    }*/
+
+/*    .navbar-balance {*/
+/*        display: flex;*/
+/*    }*/
+
+/*    .profileBlock {*/
+/*        display: none;*/
+/*    }*/
+
+/*    .panelJack {*/
+/*        grid-template-columns: 1fr !important;*/
+/*    }*/
+
+/*    .descMines {*/
+/*        padding: 15px !important;*/
+/*    }*/
+
+/*    .profileBlock .buttonsBlock {*/
+/*        display: none !important;*/
+/*    }*/
+
+/*    .VSlide_typeSmile_dNfKl .VSlide_content_OTd5l .ResponsivePicture_img_N2UWA {*/
+/*        max-width: 33px;*/
+/*        width: 100%;*/
+/*    }*/
+
+/*    .home__header-promo-pc {*/
+/*        display: none !important;*/
+/*    }*/
+
+/*    .home__header-content {*/
+/*        flex-direction: column;*/
+/*    }*/
+
+/*    .slide-wrapper img {*/
+/*        width: 100% !important;*/
+/*    }*/
+
+/*    .home__header-promo-mob {*/
+/*        -moz-column-gap: 10px;*/
+/*        column-gap: 10px;*/
+/*        display: flex!important;*/
+/*        flex-direction: row;*/
+/*        height: 50px!important;*/
+/*        margin-top: 10px!important;*/
+/*        padding: 10px 0 0;*/
+/*        width: 100%;*/
+/*    }*/
+
+/*    .home__header-promo-mob div:first-child {*/
+/*        background: url('https://dev.we2vlr1c.fun/image/yoda-cashback.png') 100% 0 no-repeat #10091b;*/
+/*    }*/
+
+/*    .home__header-promo-mob div {*/
+/*        align-items: center;*/
+/*        border-radius: 10px;*/
+/*        color: #fff;*/
+/*        display: flex;*/
+/*        flex: 1 1 auto;*/
+/*        font-family: RubikBold;*/
+/*        font-size: .7em;*/
+/*        height: 50px;*/
+/*        justify-content: space-between;*/
+/*        padding: 0 15px;*/
+/*    }*/
+
+/*    .home__header-promo-mob div:nth-child(2) {*/
+/*        background: url('https://dev.we2vlr1c.fun/img/main_gift_cookie_mobile_dark.png') top right no-repeat #3466FB !important;*/
+/*    }*/
+
+/*    !*.home__header-content {*!*/
+/*    !*    flex-direction: column !important;*!*/
+/*    !*}*!*/
+
+/*    !*.home__header-content {*!*/
+/*    !*    height: max-content !important;*!*/
+/*    !*    position: relative !important;*!*/
+/*    !*}*!*/
+/*}*/
+
+/*@media screen and (max-width: 1366px) {*/
+/*    .profits {*/
+/*        max-width: 355px !important;*/
+/*    }*/
+
+/*    .rightMines {*/
+/*        flex: 1 !important;*/
+/*    }*/
+
+/*    .mines>div {*/
+/*        flex: 0;*/
+/*    }*/
+/*}*/
+/*@media screen and (max-width: 1280px) {*/
+/*    .mainBody {*/
+/*        transform: none !important;*/
+/*        transform-origin: center !important;*/
+/*        grid-template-columns: 70px 1fr !important;*/
+/*    }*/
+
+/*    .balanceMenuOpen {*/
+/*        border: 1px solid #3f435f;*/
+/*        top: 40px;*/
+/*        font-size: 15px;*/
+/*        -webkit-backdrop-filter: blur(4px);*/
+/*        backdrop-filter: blur(4px);*/
+/*        max-height: max-content;*/
+/*        min-height: min-content;*/
+/*        height: 130px;*/
+/*        padding: 10px !important;*/
+/*        visibility: visible !important;*/
+/*        right: -10px;*/
+/*    }*/
+
+/*    #userBalanceMobile {*/
+/*        color: white !important;*/
+/*    }*/
+
+
+/*    !* СБРОСИТЬ НА ДРУГИХ РАЗРЕШЕНИЯХ *!*/
+/*    !*.firstBlock {*!*/
+/*    !*    z-index: 121;*!*/
+/*    !*    position: relative;*!*/
+/*    !*    margin: 0 auto;*!*/
+/*    !*    background: #202335;*!*/
+/*    !*    height: 100vh;*!*/
+/*    !*    width: 100vw;*!*/
+/*    !*    display: flex;*!*/
+/*    !*    justify-content: center;*!*/
+/*    !*    align-items: center;*!*/
+/*    !*}*!*/
+
+/*    !*.chatActive {*!*/
+/*    !*    z-index: 121;*!*/
+/*    !*    position: relative;*!*/
+/*    !*    margin: 0 auto;*!*/
+/*    !*    background: #202335;*!*/
+/*    !*    height: 100vh;*!*/
+/*    !*    width: 100vw;*!*/
+/*    !*    display: flex;*!*/
+/*    !*    justify-content: center;*!*/
+/*    !*    align-items: center;*!*/
+/*    !*}*!*/
+
+/*    !*.leftBlock {*!*/
+/*    !*    cursor: default;*!*/
+/*    !*    max-width: 97vw;*!*/
+/*    !*    min-width: 97vw;*!*/
+/*    !*    position: fixed;*!*/
+/*    !*    z-index: 1;*!*/
+/*    !*    margin: 0 auto;*!*/
+/*    !*}*!*/
+
+/*    !*.leftBlock .othBlock {*!*/
+/*    !*    display: none !important;*!*/
+/*    !*}*!*/
+
+/*    !* END *!*/
+
+
+/*    .profileBlock {*/
+/*        display: none !important;*/
+/*    }*/
+
+/*    .mobMenu {*/
+/*        display: block !important;*/
+/*    }*/
+
+/*    .navbar-balance {*/
+/*        display: flex !important;*/
+/*    }*/
+
+/*    .chatLink {*/
+/*        display: flex !important;*/
+/*    }*/
+
+/*    .slide-wrapper img {*/
+
+/*    }*/
+
+/*    .titleDesc {*/
+/*        font-size: 10px !important;*/
+/*    }*/
+
+/*    .blockMainGames {*/
+/*        grid-template-columns: 1fr 1fr 1fr !important;*/
+/*    }*/
+
+/*    .VSlide_content_OTd5l {*/
+/*        height: 85% !important;*/
+/*    }*/
+
+/*    .mainBody > :nth-child(1) {*/
+/*        display: none !important;*/
+/*    }*/
+
+/*    .vslide_title {*/
+/*        margin-bottom: 10px !important;*/
+/*    }*/
+
+/*    .modal-content {*/
+/*        transform: scale(0.8) !important;*/
+/*    }*/
+/*}*/
+/*@media screen and (max-width: 1024px) and (min-width: 425px) {*/
+/*    .mainBody {*/
+/*        display: contents !important;*/
+/*    }*/
+
+/*    .mainBody > :nth-child(1) {*/
+/*        display: block !important;*/
+/*    }*/
+
+/*    .firstBlock {*/
+/*        background: #f0f1f7;*/
+/*        height: 100vh;*/
+/*        transform: translateX(100vw) !important;*/
+/*        position: fixed;*/
+/*        transition: all .4s ease;*/
+/*        width: 100%;*/
+/*        visibility: hidden;*/
+/*        left: auto !important;*/
+/*        z-index: 11;*/
+/*    }*/
+
+/*    .darkState .firstBlock {*/
+/*        background: #202335 !important;*/
+/*    }*/
+
+/*    .chatActive {*/
+/*        transform: translateX(0) !important;*/
+/*        width: 100vw;*/
+/*    }*/
+
+/*    .leftBlock {*/
+/*        height: 100vh;*/
+/*        min-width: fit-content !important;*/
+/*    }*/
+
+/*    .mobChatText {*/
+/*        display: block;*/
+/*        color: #9f8ff8 !important;*/
+/*    }*/
+
+/*    .mobChatText .mobIcons {*/
+/*        display: block;*/
+/*    }*/
+
+/*    .leftBlock .othBlock {*/
+/*        display: none !important;*/
+/*    }*/
+
+/*    .thirdBlock {*/
+/*        padding: 20px 0;*/
+/*    }*/
+
+/*    body, html {*/
+/*        zoom: normal !important;*/
+/*        font-size: 100% !important;*/
+/*    }*/
+
+/*    .vslide_title {*/
+/*        font-size: 14px !important;*/
+/*    }*/
+/*    .slide-button-button {*/
+/*        min-height: 30px !important;*/
+/*        font-size: 12px !important;*/
+/*    }*/
+
+/*    .secondBlock {*/
+/*        bottom: 0 !important;*/
+/*        box-shadow: 0 -3px 20px 0 rgba(56,71,124,.09);*/
+/*        height: 64px;*/
+/*        position: fixed;*/
+/*        width: 100%;*/
+/*        z-index: 9;*/
+/*        display: block;*/
+/*    }*/
+
+/*    .gamesList {*/
+/*        height: auto;*/
+/*        position: relative;*/
+/*        width: auto;*/
+/*        z-index: 3;*/
+/*    }*/
+
+/*    .mainCookie {*/
+/*        display: none !important;*/
+/*    }*/
+
+
+/*    .gamesBlock {*/
+/*        position: relative;*/
+/*        z-index: 3;*/
+/*        align-items: center;*/
+/*        border-radius: 0;*/
+/*        display: flex;*/
+/*        height: 64px;*/
+/*        justify-content: space-around;*/
+/*        margin-top: 0;*/
+/*        padding-top: 0;*/
+/*        transition: background .25s;*/
+/*        width: 200vw!important;*/
+/*    }*/
+/*    !**/
+/*    MINES*/
+/*     *!*/
+
+/*    .profits {*/
+/*        max-width: 285px !important;*/
+/*        margin: 0 auto;*/
+/*    }*/
+
+/*    .mines {*/
+/*        flex-wrap: wrap;*/
+/*        flex-direction: column-reverse;*/
+/*    }*/
+
+/*    .portrait .topMenu {*/
+/*        margin-top: auto !important;*/
+/*    }*/
+/*}*/
+
+
+/*@media screen and (max-width: 768px) {*/
+/*    .blockMainGames {*/
+/*        grid-template-columns: 1fr 1fr !important;*/
+/*    }*/
+
+
+
+/*    .home__header {*/
+/*        margin-bottom: 10px !important;*/
+/*        padding-bottom: unset!important;*/
+/*    }*/
+
+/*    .home__header-content {*/
+/*        height: max-content !important;*/
+/*        position: relative !important;*/
+/*    }*/
+
+/*    .slick-slider {*/
+/*        width: 100% !important;*/
+/*    }*/
+
+/*    .headTwo .logo {*/
+/*        margin: 0 !important;*/
+/*    }*/
+/*}*/
+
+/*@media (max-width: 500px) {*/
+/*    .topMenu .menu {*/
+/*        justify-content: space-between !important*/
+/*    }*/
+
+/*    .home__header, .topMenu {*/
+/*        padding: 0 !important;*/
+/*    }*/
+
+/*    .mainBody > :nth-child(1) {*/
+/*        display: block !important;*/
+/*    }*/
+
+/*    .menu {*/
+/*        margin-top: 80px !important;*/
+/*    }*/
+
+/*    .firstBlock {*/
+/*        visibility: hidden;*/
+/*    }*/
+/*}*/
+
+/*@media only screen and (max-width: 1024px) and (orientation: landscape) {*/
+/*    .isAndroid {*/
+/*        #signIn {*/
+/*            zoom: normal !important;*/
+/*            transform: scale(1) !important;*/
+/*            width: 100vw !important;*/
+/*            height: 100vh !important;*/
+/*        }*/
+/*    }*/
+
+/*    .navbar-balance {*/
+/*        flex-direction: row !important;*/
+/*    }*/
+
+/*    #signIn {*/
+/*        zoom: normal !important;*/
+/*        transform: scale(1) !important;*/
+/*        width: 100vw !important;*/
+/*        height: 100vh !important;*/
+/*    }*/
+
+/*    .modal .modal-dialog {*/
+/*        zoom: normal !important;*/
+/*    }*/
+
+/*    .modal .modal-content {*/
+/*        zoom: normal !important;*/
+/*        margin: 0 auto !important;*/
+/*    }*/
+/*}*/
+
+/*@media only screen and (max-width: 1024px) and (orientation: landscape) {*/
+/*    .balanceMenuOpen {*/
+/*        margin-right: -251px !important;*/
+/*    }*/
+
+/*    .messages {*/
+/*        max-height: max-content;*/
+/*        min-height: max-content;*/
+/*    }*/
+
+/*    .leftBlock {*/
+/*        padding: 20px !important;*/
+/*    }*/
+
+/*    #app, #app>div {*/
+/*        height: auto !important;*/
+/*    }*/
+/*}*/
+
+/*@media screen and (max-width: 985px) {*/
+/*    .nvuti {*/
+/*        grid-template-columns: 1fr !important;*/
+/*    }*/
+
+/*    .nvuti .leftNvuti {*/
+/*        justify-self: center !important;*/
+/*    }*/
+/*}*/
+
+/*@media only screen and (max-height: 400px) and (orientation: landscape) {*/
+/*    .messages {*/
+/*        max-height: max-content;*/
+/*        min-height: max-content;*/
+/*    }*/
+/*}*/
+
+/*.inpChat {*/
+/*    flex: 1;*/
+/*}*/
+
+/*.lastCount {*/
+/*    overflow: hidden !important;*/
+/*    overflow-x: scroll !important;*/
+/*}*/
+
+/*.chatBlock {*/
+/*    height: calc(100vh - 105px);*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.chatTop  {*/
+/*    flex-shrink: 0;*/
+/*    border-bottom: 1px solid #586ebf !important;*/
+/*}*/
+
+/*.messages-wrapper {*/
+/*    flex: 1;*/
+/*    overflow-y: auto;*/
+/*    max-height: 100vh !important;*/
+/*}*/
+
+/*.messages {*/
+/*    max-height: max-content;*/
+/*    min-height: max-content;*/
+/*}*/
+
+/*.chatActive {*/
+/*    left: 0 !important;*/
+/*    visibility: visible;*/
+/*    transform: translateX(0) !important;*/
+/*}*/
+
+/*.menu {*/
+/*    padding: 0 20px !important;*/
+/*    height: 42px !important;*/
+/*}*/
+
+/*.curMenu {*/
+/*    border-bottom: 1px solid;*/
+/*    height: 100%;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    display: flex;*/
+/*    padding: 0 !important;*/
+/*}*/
+
+/*.inputChat>input {*/
+/*    font-size: 16px !important;*/
+/*}*/
+
+/*.inputNvuti {*/
+/*    outline: none;*/
+/*    box-sizing: border-box;*/
+/*    border: 1px solid #d0d2dd;*/
+/*    border-radius: 10px 10px 0 0;*/
+/*}*/
+
+/*.darkState .inputNvuti {*/
+/*    outline: none !important;*/
+/*    border: unset !important;*/
+/*}*/
+
+/*.menu a {*/
+/*    height: 100%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.scroll-bottom {*/
+/*    border-radius: 100%;*/
+/*    background: var(--main-color);*/
+/*    position: sticky;*/
+/*    bottom: 10px;*/
+/*    left: calc(100%);*/
+/*    width: 30px;*/
+/*    height: 30px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    cursor: pointer;*/
+/*    transition: .3s;*/
+/*    color: #fff;*/
+/*    transform: translateX(-11px);*/
+/*}*/
+
+
+/*!**/
+
+/*ВРЕМЕННЫЙ ЧАТ*/
+
+/* *!*/
+
+/*.messages {*/
+/*    min-height: 100vh !important;*/
+/*}*/
+
+/*.messages, .messagesNot {*/
+/*    overflow-y: unset !important;*/
+/*}*/
+
+/*.chatActive .chatBlock {*/
+/*    margin-top: 88px !important;*/
+/*}*/
+
+/*@media (max-width: 500px) {*/
+/*    .leftBlock {*/
+/*        top: 0 !important;*/
+/*    }*/
+/*}*/
+
+/*!**/
+
+/*.topMenu .header {*/
+/*        padding: 0 !important;*/
+/*    margin-top: 15px;*/
+/*}*/
+
+/*@media (max-width: 500px) {*/
+/*    .menu {*/
+/*        margin-top: calc(34px + 15px + 15px) !important;*/
+/*    }*/
+/*}*/
+
+/* *!*/
