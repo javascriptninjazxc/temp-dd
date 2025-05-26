@@ -580,6 +580,8 @@
         margin-top: auto !important;
     }
 }
+
+
 @media screen and (max-width: 768px) {
     .blockMainGames {
         grid-template-columns: 1fr 1fr !important;
@@ -767,6 +769,23 @@
     height: 100%;
     display: flex;
     align-items: center;
+}
+
+.scroll-bottom {
+    border-radius: 100%;
+    background: var(--main-color);
+    position: sticky;
+    bottom: 10px;
+    left: calc(100%);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s;
+    color: #fff;
+    transform: translateX(-11px);
 }
 
 /*
