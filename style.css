@@ -234,17 +234,6 @@
     .home__header {
         padding-top: 15px !important;
     }
-
-    .balanceMenuOpen {
-        border: 1px solid #3f435f;
-        top: 40px;
-        font-size: 15px;
-        -webkit-backdrop-filter: blur(4px);
-        backdrop-filter: blur(4px);
-        height: 130px;
-        padding: 10px;
-        right: -10px;
-    }
 }
 
 @media screen and (max-width: 1360px) {
@@ -360,6 +349,18 @@
         transform: none !important;
         transform-origin: center !important;
         grid-template-columns: 70px 1fr !important;
+    }
+
+    .balanceMenuOpen {
+        border: 1px solid #3f435f;
+        top: 40px;
+        font-size: 15px;
+        -webkit-backdrop-filter: blur(4px);
+        backdrop-filter: blur(4px);
+        height: 130px;
+        padding: 10px;
+        visibility: visible !important;
+        right: -10px;
     }
 
     #userBalanceMobile {
