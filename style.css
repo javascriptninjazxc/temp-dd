@@ -362,6 +362,10 @@
         grid-template-columns: 70px 1fr !important;
     }
 
+    #userBalanceMobile {
+        color: white !important;
+    }
+
 
     /* СБРОСИТЬ НА ДРУГИХ РАЗРЕШЕНИЯХ */
     /*.firstBlock {*/
