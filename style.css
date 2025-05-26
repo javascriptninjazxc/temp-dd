@@ -174,11 +174,6 @@
     color: #7265fd !important;
 }
 
-.flex .lastCount {
-    overflow: hidden;
-    overflow-x: scroll;
-}
-
 .slick-slider {
     margin-top: auto !important;
 }
@@ -702,6 +697,11 @@
 
 .inpChat {
     flex: 1;
+}
+
+.lastCount {
+    overflow: hidden !important;
+    overflow-x: scroll !important;
 }
 
 .chatBlock {
