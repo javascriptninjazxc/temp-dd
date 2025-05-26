@@ -357,8 +357,10 @@
         font-size: 15px;
         -webkit-backdrop-filter: blur(4px);
         backdrop-filter: blur(4px);
+        max-height: max-content;
+        min-height: min-content;
         height: 130px;
-        padding: 10px;
+        padding: 10px !important;
         visibility: visible !important;
         right: -10px;
     }
