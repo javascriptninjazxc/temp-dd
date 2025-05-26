@@ -203,6 +203,18 @@
     display: none !important;
 }
 
+.leftBlock {
+    display: flex;
+    flex-direction: column;
+    height: calc(100% - 31px);
+}
+
+.chatBlock {
+    flex: 1;
+    max-height: max-content;
+    height: 123px;
+}
+
 @media screen and (max-width: 548px) {
     .toolbar-section .input-wrapper {
         min-width: 0 !important;
