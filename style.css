@@ -811,6 +811,9 @@
     padding: 0 25px !important;
 }
 
+.messages {
+    min-height: 100vh !important;
+}
 
 /*
 
