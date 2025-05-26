@@ -795,22 +795,6 @@
 
  */
 
-.inputChat {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 0 !important;
-    margin-top: 8px;
-    position: sticky !important;
-    bottom: 0 !important;
-    left: 0 !important;
-    transform: translateX(0) !important;
-    width: calc(100% - 50px) !important;
-    height: 50px !important;
-    background: #2e314a !important;
-    padding: 0 25px !important;
-}
-
 .messages {
     min-height: 100vh !important;
 }
