@@ -809,7 +809,6 @@
 
 @media (max-width: 500px) {
     .leftBlock {
-        margin-top: 90px !important;
         top: 0 !important;
     }
 }
