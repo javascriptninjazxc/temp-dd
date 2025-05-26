@@ -795,6 +795,10 @@
 
  */
 
+.messages {
+    min-height: 100vh !important;
+}
+
 /*
 
 .topMenu .header {
