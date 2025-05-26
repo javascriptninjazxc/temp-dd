@@ -799,6 +799,10 @@
     min-height: 100vh !important;
 }
 
+.messages, .messagesNot {
+    overflow-y: unset !important;
+}
+
 @media (max-width: 500px) {
     .leftBlock {
         margin-top: 90px !important;
