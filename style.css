@@ -827,3 +827,8 @@
 }
 
  */
+
+.thirdBlock {
+    height: 100vh !important;
+    overflow: unset !important;
+}
