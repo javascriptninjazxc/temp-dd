@@ -832,3 +832,9 @@
     height: 100vh !important;
     overflow: hidden !important;
 }
+
+@media (min-width: 500px) {
+    .crash-game_top_items {
+        width: auto !important;
+    }
+}
