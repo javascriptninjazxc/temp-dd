@@ -838,3 +838,9 @@
         width: auto !important;
     }
 }
+
+@media (min-width: 1440px) {
+    .crash-game_top_items {
+        width: 900px !important;
+    }
+}
