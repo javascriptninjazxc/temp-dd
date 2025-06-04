@@ -830,5 +830,5 @@
 
 .thirdBlock {
     height: 100vh !important;
-    overflow: hidden !important;
+    overflow: auto !important;
 }
