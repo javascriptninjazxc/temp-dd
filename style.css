@@ -852,3 +852,11 @@
 .chatActive {
     z-index: 100 !important;
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .crash-game_container .crash-game {
+        height: 674px !important;
+        zoom: 1 !important;
+        font-size: 0.55rem !important;
+    }
+}
