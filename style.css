@@ -733,6 +733,7 @@
     left: 0 !important;
     visibility: visible;
     transform: translateX(0) !important;
+    z-index: 100 !important;
 }
 
 .menu {
@@ -842,4 +843,8 @@
     .crash-game {
         height: auto !important;
     }
+}
+
+.chatActive {
+    z-index: 100 !important;
 }
