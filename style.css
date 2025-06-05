@@ -834,6 +834,11 @@
     overflow: auto !important;
 }
 
+.topMenu {
+    position: relative !important;
+    z-index: 1 !important;
+}
+
 @media (max-width: 500px) {
     .crash-game {
         height: 674px !important;
