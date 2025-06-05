@@ -804,9 +804,9 @@
     overflow-y: unset !important;
 }
 
-.chatActive .chatBlock {
-    margin-top: 88px !important;
-}
+/*.chatActive .chatBlock {*/
+/*    margin-top: 88px !important;*/
+/*}*/
 
 @media (max-width: 500px) {
     .leftBlock {
