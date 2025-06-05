@@ -832,3 +832,9 @@
     height: 100vh !important;
     overflow: auto !important;
 }
+
+@media (max-width: 500px) {
+    .crash-game {
+        height: auto !important;
+    }
+}
