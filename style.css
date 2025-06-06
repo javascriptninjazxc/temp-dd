@@ -868,4 +868,5 @@
 
 .crash-game_history {
     backdrop-filter: blur(14px) !important;
+    z-index: 20 !important;
 }
