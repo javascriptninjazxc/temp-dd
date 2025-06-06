@@ -860,3 +860,7 @@
         font-size: 0.55rem !important;
     }
 }
+
+.crash-game_history {
+    backdrop-filter: blur(14px) !important;
+}
