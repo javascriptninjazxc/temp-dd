@@ -61,7 +61,6 @@
 
 .subMenu {
     max-height: 0;
-    visibility: hidden;
     padding: 0 !important;;
     overflow: hidden;
 }
@@ -69,7 +68,6 @@
 .subMenuOpen {
     max-height: 290px;
     height: 285px;
-    visibility: visible;
 }
 
 .menu-container {
@@ -478,7 +476,6 @@
         position: fixed;
         transition: all .4s ease;
         width: 100%;
-        visibility: hidden;
         left: auto !important;
         z-index: 11;
     }
@@ -624,10 +621,6 @@
     .menu {
         margin-top: 80px !important;
     }
-
-    .firstBlock {
-        visibility: hidden;
-    }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
@@ -731,7 +724,6 @@
 
 .chatActive {
     left: 0 !important;
-    visibility: visible;
     transform: translateX(0) !important;
     z-index: 100 !important;
 }
