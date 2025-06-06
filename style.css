@@ -859,6 +859,11 @@
         zoom: 1 !important;
         font-size: 0.55rem !important;
     }
+
+        .crash-game .ping {
+            width: fit-content !important;
+            font-size: 11px !important;
+        }
 }
 
 .crash-game_history {
