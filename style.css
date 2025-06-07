@@ -866,3 +866,7 @@
 .chat--compact .othBlock {
     display: none !important;
 }
+
+.chat--compact .firstBlock {
+    margin: 0 auto !important;
+}
