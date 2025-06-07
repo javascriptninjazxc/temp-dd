@@ -862,3 +862,7 @@
     backdrop-filter: blur(14px) !important;
     z-index: 20 !important;
 }
+
+.chat--compact .othBlock {
+    display: none !important;
+}
