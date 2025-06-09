@@ -876,3 +876,9 @@
         height: 223px !important;
     }
 }
+
+@media (max-width: 1024px) {
+    .settings {
+        grid-template-columns: 1fr !important;
+    }
+}
