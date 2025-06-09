@@ -870,3 +870,9 @@
 .chat--compact .firstBlock {
     margin: 0 auto !important;
 }
+
+@media (max-width: 1366px) {
+    .home__header-content {
+        height: 223px;
+    }
+}
