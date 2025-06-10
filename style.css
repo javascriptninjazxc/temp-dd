@@ -891,3 +891,9 @@
         width: 100% !important;
     }
 }
+
+@media screen and (max-width: 1280px) {
+    .vslide_title {
+        margin-bottom: 0 !important;
+    }
+}
