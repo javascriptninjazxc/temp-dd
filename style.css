@@ -891,3 +891,9 @@
     box-sizing: border-box !important;
     width: 39vw;
 }
+
+@media (max-width: 500px) {
+    .keno-field {
+        width: 100% !important;
+    }
+}
