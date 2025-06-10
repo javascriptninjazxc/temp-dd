@@ -882,3 +882,12 @@
         grid-template-columns: 1fr !important;
     }
 }
+
+.swiper-wrapper {
+    box-sizing: border-box !important;
+}
+
+.keno-field {
+    box-sizing: border-box !important;
+    width: 39vw;
+}
