@@ -871,12 +871,6 @@
     margin: 0 auto !important;
 }
 
-@media (max-width: 1366px) {
-    .home__header-content {
-        height: 223px !important;
-    }
-}
-
 @media (max-width: 1024px) {
     .settings {
         grid-template-columns: 1fr !important;
