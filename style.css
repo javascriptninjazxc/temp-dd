@@ -896,4 +896,18 @@
     .vslide_title {
         margin-bottom: 0 !important;
     }
+
+    .wb-game--wrapper .wb-game--form {
+        width: 240px !important;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .wb-game--wrapper {
+        flex-direction: column-reverse !important;
+    }
+
+    .wb-game--wrapper .wb-game--form {
+        width: 100% !important;
+    }
 }
