@@ -921,7 +921,13 @@
     width: 85% !important;
 }
 
-.keno-field .footer-keno {
-     height: 72px !important;
-     margin-top: auto !important;
+@media (max-width: 500px) {
+    .keno-field .footer-keno {
+        height: 72px !important;
+        margin-top: auto !important;
+    }
+
+    .swiper-container {
+        height: 100% !important;
+    }
 }
