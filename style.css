@@ -910,4 +910,13 @@
     .wb-game--wrapper .wb-game--form {
         width: 100% !important;
     }
+
+    .keno-field {
+        min-width: 100% !important;
+        padding: 20px;
+    }
+
+    .cell svg {
+        width: 85% !important;
+    }
 }
