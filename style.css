@@ -904,7 +904,7 @@
 
 @media screen and (max-width: 860px) {
     .wb-game--wrapper {
-        flex-direction: column-reverse !important;
+        flex-direction: column !important;
     }
 
     .wb-game--wrapper .wb-game--form {
