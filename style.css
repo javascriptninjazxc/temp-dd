@@ -955,3 +955,7 @@
         max-height: max-content !important;
     }
 }
+
+.keno-swiper-item__cookie {
+    white-space: nowrap;
+}
