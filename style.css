@@ -466,15 +466,6 @@
         display: contents !important;
     }
 
-    .mobChatText {
-        color: var(--main-bg-color) !important;
-    }
-
-    body.darkState .mobChatText {
-        color: var(--two-bg-color) !important;
-    }
-
-
     /*.mainBody > :nth-child(1) {*/
     /*    display: block !important;*/
     /*}*/
