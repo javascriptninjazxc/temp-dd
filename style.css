@@ -471,10 +471,8 @@
         color: var(--main-bg-color) !important;
     }
 
-    .darkState {
-        .mobChatText {
-            color: var(--two-bg-color) !important;
-        }
+    .darkState .mobChatText {
+        color: var(--two-bg-color) !important;
     }
 
     /*.mainBody > :nth-child(1) {*/
