@@ -467,13 +467,13 @@
     }
 
     .mobChatText {
-        display: block;
         color: var(--main-bg-color) !important;
     }
 
-    .darkState .mobChatText {
+    body.darkState .mobChatText {
         color: var(--two-bg-color) !important;
     }
+
 
     /*.mainBody > :nth-child(1) {*/
     /*    display: block !important;*/
