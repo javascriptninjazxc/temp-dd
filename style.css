@@ -460,9 +460,15 @@
         transform: scale(0.8) !important;
     }
 }
+
 @media screen and (max-width: 1024px) and (min-width: 425px) {
     .mainBody {
         display: contents !important;
+    }
+
+    .mobChatText {
+        display: block;
+        color: var(--main-bg-color) !important;
     }
 
     /*.mainBody > :nth-child(1) {*/
