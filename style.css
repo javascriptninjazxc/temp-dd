@@ -966,3 +966,7 @@
         color: var(--two-bg-color) !important;
     }
 }
+
+.thirdBlock {
+    overflow-x: hidden !important;
+}
