@@ -569,8 +569,7 @@
     }
 
     .mines {
-        flex-wrap: wrap;
-        flex-direction: column-reverse;
+        flex-direction: column-reverse !important;
     }
 
     .portrait .topMenu {
