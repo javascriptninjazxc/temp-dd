@@ -336,6 +336,10 @@
     /*}*/
 }
 
+.mobChatText {
+    display: none !important;
+}
+
 @media screen and (max-width: 1366px) {
     .profits {
         max-width: 355px !important;
@@ -458,6 +462,10 @@
 
     .modal-content {
         transform: scale(0.8) !important;
+    }
+
+    .mobChatText {
+        display: flex !important;
     }
 }
 
