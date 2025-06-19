@@ -997,3 +997,7 @@
     justify-content: center !important;
     height: 100% !important;
 }
+
+.thirdBlock {
+    height: unset !important;
+}
