@@ -1001,3 +1001,10 @@
 .thirdBlock {
     height: unset !important;
 }
+
+.messages {
+    height: auto;
+    height: auto;
+    min-height: auto;
+    max-height: 100%;
+}
