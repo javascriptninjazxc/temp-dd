@@ -1008,4 +1008,12 @@
         min-height: auto !important;
         max-height: max-content !important;
     }
+
+    .keno-field {
+        padding: 0 !important;
+    }
+
+    .titleWindow {
+        padding: 8px !important;
+    }
 }
