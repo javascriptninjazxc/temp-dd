@@ -1016,4 +1016,12 @@
     .titleWindow {
         padding: 8px !important;
     }
+
+    .bottomGame .textGame .titleDesc {
+        display: none !important;
+    }
+
+    .blockGame {
+        min-height: 125px !important;
+    }
 }
