@@ -1024,4 +1024,8 @@
     .blockGame {
         min-height: 125px !important;
     }
+
+    .titleGame {
+        font-size: 14px !important;
+    }
 }
