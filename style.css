@@ -1038,3 +1038,9 @@
     padding: 15px !important;
     width: max-content !important;
 }
+
+@media (max-width: 600px) {
+    .profile-tabs-settings {
+        flex-direction: row !important;
+    }
+}
