@@ -1036,4 +1036,5 @@
 
 .game-win-modal {
     padding: 15px !important;
+    width: max-content !important;
 }
