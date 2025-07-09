@@ -1033,3 +1033,7 @@
 .rang-container {
     height: 100% !important;
 }
+
+.game-win-modal {
+    padding: 15px !important;
+}
