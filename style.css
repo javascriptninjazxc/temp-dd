@@ -1039,4 +1039,8 @@
     .profile-tabs-settings {
         flex-direction: row !important;
     }
+
+    .titleWindow {
+        border-radius: 0;
+    }
 }
