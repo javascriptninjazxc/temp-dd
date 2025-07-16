@@ -1062,3 +1062,7 @@
 .reports-banner-content {
     z-index: 1;
 }
+
+.quest .quest-motion {
+    z-index: -1 !important;
+}
