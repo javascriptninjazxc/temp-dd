@@ -1052,3 +1052,9 @@
 * {
     z-index: 1;
 }
+
+.SectionGamesOneWin_content_alv0o {
+    grid-template-columns: repeat(2,1fr);
+    padding: 0 !important;
+    row-gap: 15px;
+}
