@@ -1058,3 +1058,7 @@
     padding: 0 !important;
     row-gap: 15px;
 }
+
+.reports-banner-content {
+    z-index: 1;
+}
