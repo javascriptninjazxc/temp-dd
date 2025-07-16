@@ -1041,6 +1041,10 @@
     }
 
     .titleWindow {
-        border-radius: 0;
+        border-radius: 0 !important;
+    }
+
+    .titleWindow1 {
+        border-radius: 0 !important;
     }
 }
