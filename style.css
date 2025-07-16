@@ -1047,6 +1047,10 @@
     .titleWindow1 {
         border-radius: 0 !important;
     }
+
+    .freespins-yoda {
+        z-index: 10;
+    }
 }
 
 * {
