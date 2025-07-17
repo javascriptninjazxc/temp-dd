@@ -1070,3 +1070,11 @@
 .quest .quest-motion {
     z-index: -1 !important;
 }
+
+@media (max-width: 600px) {
+    .welcome-modal {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
