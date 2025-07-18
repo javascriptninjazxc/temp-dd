@@ -1078,3 +1078,7 @@
         align-items: center;
     }
 }
+
+.modal-backdrop {
+    z-index: -1;
+}
