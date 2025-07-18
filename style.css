@@ -1082,13 +1082,3 @@
 .modal-backdrop {
     z-index: -1;
 }
-
-@media (max-width: 499px) {
-    .guest-menu {
-        margin-top: 75px !important;
-    }
-
-    .buttonMain--menu {
-        margin: 0 auto !important;
-    }
-}
