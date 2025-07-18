@@ -1082,3 +1082,7 @@
 .modal-backdrop {
     z-index: -1;
 }
+
+.providers-list--hidden {
+    display: contents;
+}
