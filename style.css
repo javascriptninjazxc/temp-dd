@@ -1085,6 +1085,10 @@
 
 @media (max-width: 500px) {
     .guest-menu {
-        margin-top: 109px !important;
+        margin-top: 75px !important;
+    }
+
+    .buttonMain--menu {
+        margin: 0 auto !important;
     }
 }
