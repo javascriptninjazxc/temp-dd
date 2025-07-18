@@ -1083,7 +1083,7 @@
     z-index: -1;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 499px) {
     .guest-menu {
         margin-top: 75px !important;
     }
