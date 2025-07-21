@@ -1100,3 +1100,87 @@
         margin: 0 !important;
     }
 }
+@media (max-width: 700px) {
+    .freespins-main-content-banner {
+        width: 108%;
+        background-image: url("/public/images/bonuses/banner-bg.png");
+        height: 100%;
+        background-size: cover;
+        overflow: hidden;
+    }
+
+
+    .freespins-main-content-space {
+        display: block;
+        height: 215px;
+    }
+}
+.freespins-main-content-motion--mobile img {
+    width: 53px;
+    margin-top: -167px;
+    display: none;
+    filter: blur(0px);
+}
+@media (max-width: 700px) {
+    .freespins-main-content-motion--mobile img {
+        display: block;
+    }
+    .freespins-main-content-motion--mobile {
+        display: flex;
+        align-items: center;
+    }
+    .freespins-main-content-motion--mobile-logo-4 {
+        left: 84%!important;
+        width: 81px!important;
+        filter: blur(1px)!important;
+        top: 106%!important;
+        transform: rotate(-502deg) !important;
+        position: absolute!important;
+    }
+    .freespins-main-content-motion--mobile-logo-1 {
+        position: absolute!important;
+        width: 81px!important;
+        filter: blur(2px) !important;
+        left: -7%!important;
+        transform: rotate(-311deg) !important;
+        top: 23%!important;
+    }
+    .freespins-main-content-motion--mobile-logo-2 {
+        left: -55px!important;
+        transform: rotate(-351deg) !important;
+        top: 110%!important;
+        width: 120px!important;
+        position: absolute!important;
+    }
+    .freespins-main-content-motion--mobile-logo-3 {
+        transform: rotate(-69deg)!important;
+        filter: blur(1px) !important;
+        right: -27px!important;
+        z-index: -1;
+        width: 81px!important;
+        top: 80%!important;
+        position: absolute!important;
+    }
+    .freespins-yoda {
+        right: auto;
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    .freespins-main-total {
+        font-size: 18px;
+        z-index: 1;
+    }
+    .freespins-main-title {
+        font-size: 20px;
+        z-index: 1;
+    }
+    .darkState .freespins-main-content-banner {
+        width: 111%;
+        background-image: url("/public/images/bonuses/banner-dark-bg.png");
+        height: 104%;
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
