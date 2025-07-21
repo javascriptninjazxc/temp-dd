@@ -1094,3 +1094,9 @@
 .gamesSlots .card {
     gap: 0 !important;
 }
+
+@media (max-width: 600px) {
+    .keno-tools__autochoose .buttonMain {
+        margin: 0 !important;
+    }
+}
