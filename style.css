@@ -1104,15 +1104,23 @@
 .freespins-main-description {
     z-index: 2 !important;
 }
+
 .freespins-yoda {
     z-index: 1 !important;
 }
+
 .topMenu {
     z-index: 1 !important;
 }
+
 .avatar-modal {
     z-index: 100 !important;
 }
+
 .buttonMain {
     margin: 0 !important;
+}
+
+.darkState .topMenu {
+    z-index: 1 !important;
 }
