@@ -1184,3 +1184,9 @@
         background-repeat: no-repeat;
     }
 }
+.freespins-yoda {
+    z-index: 1 !important;
+}
+.freespins-main-description {
+    z-index: 2 !important;
+}
