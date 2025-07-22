@@ -1129,3 +1129,6 @@
     align-items: center;
     flex-direction: column;
 }
+.base-input-pd {
+    margin-bottom: 15px;
+}
