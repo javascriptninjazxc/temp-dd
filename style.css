@@ -1123,18 +1123,16 @@
     z-index: 100 !important;
 }
 
-.buttonMain {
-    margin: 0 !important;
-}
-
 .darkState .topMenu {
     z-index: 1 !important;
 }
+
 .modal-welvura {
     display: flex;
     align-items: center;
     flex-direction: column;
 }
+
 .base-input-pd {
     margin-bottom: 15px;
 }
