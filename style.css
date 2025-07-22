@@ -1079,6 +1079,12 @@
     }
 }
 
+.welcome-modal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .modal-backdrop {
     z-index: -1;
 }
