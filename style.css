@@ -1124,3 +1124,8 @@
 .darkState .topMenu {
     z-index: 1 !important;
 }
+.modal-welvura {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
