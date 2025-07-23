@@ -1189,18 +1189,18 @@
 .promocodes-label .base-input-wrapper .base-input-btn {
     z-index: 1;
 }
-.reports-banner-logo--top {
-    top: -208px !important;
-    left: -524px !important;
-}
-.reports-banner-logo--right {
-    top: -139px !important;
-    left: 195px !important;
-}
-.reports-banner-logo--bottom {
-    top: -100px !important;
-    left: -527px !important;
-}
+/*.reports-banner-logo--top {*/
+/*    top: -208px !important;*/
+/*    left: -524px !important;*/
+/*}*/
+/*.reports-banner-logo--right {*/
+/*    top: -139px !important;*/
+/*    left: 195px !important;*/
+/*}*/
+/*.reports-banner-logo--bottom {*/
+/*    top: -100px !important;*/
+/*    left: -527px !important;*/
+/*}*/
 /*@media (max-width: 600px) {*/
 /*    .reports-banner-logo--right {*/
 /*        left: 0 !important;*/
