@@ -1176,3 +1176,6 @@
         z-index: 100;
     }
 }
+.zipify-wrapper {
+    position: static;
+}
