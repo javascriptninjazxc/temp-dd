@@ -1125,7 +1125,7 @@
 }
 
 .darkState .topMenu {
-    z-index: 1 !important;
+    z-index: 2 !important;
 }
 
 .modal-welvura {
@@ -1136,4 +1136,8 @@
 
 .base-input-pd {
     margin-bottom: 15px;
+}
+
+.modal-open .topMenu {
+    z-index: 0 !important;
 }
