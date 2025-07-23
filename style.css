@@ -1202,3 +1202,24 @@
     top: -100px !important;
     left: -527px !important;
 }
+@media (max-width: 600px) {
+    .reports-banner-logo--right {
+        left: 0 !important;
+        top: -37px !important;
+    }
+    .reports-banner-logo--top {
+        filter: blur(1px) !important;
+        z-index: 0;
+        left: 217px !important;
+        top: 31px !important;
+        right: 28px !important;
+        height: 108px;
+        width: 72px;
+        transform: rotate(-122deg) !important;
+    }
+    .reports-banner-logo--bottom {
+        width: 234px;
+        left: -281px !important;
+    }
+
+}
