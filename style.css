@@ -1013,16 +1013,18 @@
         padding: 0 !important;
     }
 
-    .bottomGame .textGame .titleDesc {
-        display: none !important;
-    }
-
     .blockGame {
         min-height: 125px !important;
     }
 
     .titleGame {
         font-size: 14px !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .bottomGame .textGame .titleDesc {
+        display: none !important;
     }
 }
 
