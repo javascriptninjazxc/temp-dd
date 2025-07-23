@@ -1170,3 +1170,8 @@
 .modal-open .secondBlock {
     z-index: 0 !important;
 }
+@media (max-width: 500px) {
+    .promocodes-label .base-input-wrapper .base-input-btn {
+        margin: 0 !important;
+    }
+}
