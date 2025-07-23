@@ -1222,21 +1222,21 @@
         left: -281px !important;
     }
     .freespins-container {
-        position: static;
+        position: static!important;
     }
     .freespins-main-content-pd {
-        position: static;
+        position: static!important;
     }
     .freespins-main-content-banner {
-        position: static;
+        position: static!important;
     }
     .freespins-yoda {
-        top: 63%;
+        top: 63%!important;
     }
     .freespins-main-content-motion--mobile {
-        position: static;
+        position: static!important;
     }
     .freespins-main-content-motion--mobile-card {
-        position: static;
+        position: static!important;
     }
 }
