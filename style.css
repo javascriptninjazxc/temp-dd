@@ -1181,6 +1181,6 @@
 }
 @media (max-width: 500px) {
     .promoBlock .btnNoM {
-        margin: 20px 0!important;
+        margin: 20px 0 0 !important;
     }
 }
