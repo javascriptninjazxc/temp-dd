@@ -1190,3 +1190,6 @@
 .promocodes-label .base-input-wrapper .base-input-btn {
     z-index: 1;
 }
+.freespins-main-description-pd {
+    position: static;
+}
