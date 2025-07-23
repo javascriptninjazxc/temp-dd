@@ -1162,3 +1162,11 @@
 .blockGame {
     margin-top: 7px !important;
 }
+
+.modal-open .topMenu {
+    z-index: 0 !important;
+}
+
+.modal-open .secondBlock {
+    z-index: 0 !important;
+}
