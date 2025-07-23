@@ -1187,3 +1187,6 @@
 .promocodes-content-btn .buttonMain {
     margin: 15px auto 0 !important;
 }
+.promocodes-label .base-input-wrapper .base-input-btn {
+    z-index: 100;
+}
