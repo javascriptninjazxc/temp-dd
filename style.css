@@ -1618,7 +1618,6 @@
         position: fixed;
         z-index: 9;
         bottom: 0;
-        box-shadow: 0 -3px 20px 0 rgba(56, 71, 124, .09019607843137255)
     }
 
     .blockRef, .refChart {
@@ -1664,7 +1663,6 @@
     }
 
     .firstBlock {
-        background: #f0f1f7;
         height: 100vh;
         position: fixed;
         z-index: 1;
@@ -1672,17 +1670,6 @@
         left: 500px;
         transition: all .4s ease;
         z-index: 11
-    }
-
-    .subMenuOpen {
-        height: 280px
-    }
-
-    .balanceMenuOpen {
-        height: 130px;
-        -webkit-backdrop-filter: blur(4px);
-        backdrop-filter: blur(4px);
-        padding: 10px;
     }
 
     .buttonsBlock {
@@ -1711,20 +1698,6 @@
 
     .topBlock {
         display: none !important;
-    }
-
-    .chatTop {
-        justify-content: space-between
-    }
-
-    .settings {
-        display: block
-    }
-
-    .inputName {
-        /*margin-bottom: 10px;*/
-        margin-right: 0;
-        width: calc(100% - 54px);
     }
 
     .label-input {
@@ -1767,39 +1740,7 @@
     }
 
     .navbar-balance-container.mobMenu .subMenu {
-        background: #fff;
         top: 40px;
-    }
-
-    .balanceMenuOpen {
-        border: 1px solid #E9EBF3;
-    }
-
-    .navbar-balance-container.mobMenu {
-        width: 0 !important;
-    }
-
-    .navbar-balance-container.mobMenu .buttonMain {
-        font-family: Rubik;
-        font-size: 12px;
-        font-weight: 500;
-        padding: 10px 12px;
-    }
-
-    .navbar-balance-container.mobMenu .buttonTwo {
-        font-family: Rubik;
-        font-size: 12px;
-        font-weight: 500;
-        padding: 10px 12px;
-    }
-
-    .balance {
-        font-size: 25px
-    }
-
-    .nvuti {
-        display: block;
-        padding: 25px
     }
 
     .mainBody {
@@ -1809,97 +1750,7 @@
     }
 
     .header {
-        padding: 20px 0;
         position: fixed;
-        width: 100%;
-        box-shadow: 0 -3px 20px 0 rgba(56, 71, 124, .09019607843137255);
         z-index: 11
-    }
-
-    .header, .menu {
-        background: #fff
-    }
-
-    .menu {
-        border-radius: 0;
-        margin: 10px -13px 12px -13px;
-        padding: 13px 0;
-        font-size: 12px;
-        justify-content: space-between
-    }
-
-    .menu > a {
-        margin: 0 12px
-    }
-
-    .inputMineBomb {
-        width: 60px;
-    }
-
-    .amount, .curWin {
-        font-size: 18px;
-    }
-
-    .curMulti, .multiply {
-        font-size: 14px;
-        margin-top: 6px;
-    }
-
-    .hashBlock {
-        margin-top: 30px
-    }
-
-    .rightNvuti {
-        min-width: auto
-    }
-
-    .controlPanel {
-        display: inline-flex;
-        grid-column-gap: 15px !important;
-    }
-
-    .controlPanel > div {
-        width: 50%
-    }
-
-    .controlPanel > div:first-child {
-        /*margin-right: 10px*/
-    }
-
-    .hashBlock {
-        font-size: 12px
-    }
-
-    .inputNvuti > input {
-        width: calc(100% - 2px);
-        padding: 0
-    }
-
-    .helpButtons {
-        width: auto
-    }
-
-    .helpButtons > div {
-        padding: 0 6px;
-        width: auto
-    }
-
-    .playButtons {
-        grid-column-gap: 20px
-    }
-
-    .lastGames {
-        padding: 0 5px;
-        overflow-x: scroll;
-        width: calc(100% - 10px);
-        overflow-y: scroll
-    }
-
-    .lastGames > div {
-        width: 1000px
-    }
-
-    .lastGameHead > div, .lastGamesList > div {
-        min-width: 112px
     }
 }
