@@ -1191,10 +1191,10 @@
     z-index: 1;
 }
 .reports-banner-logo--top {
-    top: -208px;
-    left: -524px;
+    top: -208px !important;
+    left: -524px !important;
 }
 .reports-banner-logo--right {
-    top: -139px;
-    left: 195px;
+    top: -139px !important;
+    left: 195px !important;
 }
