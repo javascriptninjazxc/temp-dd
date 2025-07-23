@@ -1137,3 +1137,7 @@
 .base-input-pd {
     margin-bottom: 15px;
 }
+
+.modal-open .topMenu {
+    z-index: 0 !important;
+}
