@@ -1276,3 +1276,7 @@
     flex-direction: column;
     gap: 7px;
 }
+
+.section-card__header {
+    z-index: 0 !important;
+}
