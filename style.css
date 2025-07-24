@@ -1243,14 +1243,14 @@
         position: relative;
     }
 }
+.gamesSlots .titleWindow.titleWindow1 {
+    padding: 15px 20px !important;
+}
 @media (max-width: 800px) {
     .providers-list > div div {
-        width: 23.8% !important;
+        width:  48.8% !important;
     }
     .profile-photo-upload .buttonMain {
         margin: 0 !important;
     }
-}
-.gamesSlots .titleWindow.titleWindow1 {
-    padding: 15px 20px !important;
 }
