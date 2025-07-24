@@ -1250,4 +1250,7 @@
     .providers-list > div div {
         width: 23.8%;
     }
+    .profile-photo-upload .buttonMain {
+        margin: 0 !important;
+    }
 }
