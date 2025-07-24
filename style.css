@@ -1246,6 +1246,11 @@
 .gamesSlots .titleWindow.titleWindow1 {
     padding: 15px 20px !important;
 }
+
+@media (min-width: 801px) {
+    width: 18.8px !important;
+}
+
 @media (max-width: 800px) {
     .providers-list > div div {
         width:  30.8% !important;
