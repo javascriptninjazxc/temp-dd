@@ -1259,3 +1259,6 @@
         margin: 0 !important;
     }
 }
+.providers-list > div div {
+    width: 18.8%;
+}
