@@ -1245,12 +1245,12 @@
 }
 @media (max-width: 800px) {
     .providers-list > div div {
-        width: 23.8%;
+        width: 23.8% !important;
     }
     .profile-photo-upload .buttonMain {
         margin: 0 !important;
     }
 }
-.titleWindow  {
+.gamesSlots .titleWindow.titleWindow1 {
     padding: 15px 20px !important;
 }
