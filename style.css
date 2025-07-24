@@ -1262,3 +1262,7 @@
 .providers-list > div div {
     width: 18.8%;
 }
+.subMenu {
+    right: 0;
+    font-size: 15px;
+}
