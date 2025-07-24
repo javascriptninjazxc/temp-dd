@@ -1151,7 +1151,7 @@
     margin: 0 !important;
 }
 @media (max-width: 600px) {
-    .titleWindow1 {
+    .titleWindow  {
         padding: 15px 20px !important;
     }
     .titleWindow .textWindow {
@@ -1239,3 +1239,10 @@
 /*        position: static!important;*/
 /*    }*/
 /*}*/
+
+@media (max-width: 700px) {
+    .menu {
+        z-index: -1;
+        position: relative;
+    }
+}
