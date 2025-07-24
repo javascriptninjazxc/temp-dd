@@ -1246,3 +1246,8 @@
         position: relative;
     }
 }
+@media (max-width: 800px) {
+    .providers-list > div div {
+        width: 23.8%;
+    }
+}
