@@ -1266,3 +1266,13 @@
     right: 0;
     font-size: 15px;
 }
+
+.mainBody--compact {
+    grid-template-columns: 70px 1fr;
+}
+
+.navbar-balance-container .subMenu .buttonsBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
