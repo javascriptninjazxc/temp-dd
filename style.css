@@ -1280,3 +1280,9 @@
 .section-card__header {
     z-index: 0 !important;
 }
+
+@media (max-width: 500px) {
+    .flex {
+        z-index: 0 !important;
+    }
+}
