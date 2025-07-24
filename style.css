@@ -1151,9 +1151,6 @@
     margin: 0 !important;
 }
 @media (max-width: 600px) {
-    .titleWindow  {
-        padding: 15px 20px !important;
-    }
     .titleWindow .textWindow {
         font-size: 24px;
     }
@@ -1253,4 +1250,7 @@
     .profile-photo-upload .buttonMain {
         margin: 0 !important;
     }
+}
+.titleWindow  {
+    padding: 15px 20px !important;
 }
