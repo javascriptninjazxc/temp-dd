@@ -1092,7 +1092,7 @@
 }
 
 .providers-list--hidden {
-    display: contents;
+    display: flex;
 }
 
 .game-providers--list {
