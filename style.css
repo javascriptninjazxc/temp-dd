@@ -1322,3 +1322,12 @@
         height: 31px;
     }
 }
+@media (max-width: 500px) {
+    .walletBlock .inputBlock {
+        width: 400px !important;
+        padding-right: 0 !important;
+    }
+    .walletBlock .errBlock {
+        width: 380px !important;
+    }
+}
