@@ -1314,3 +1314,8 @@
         gap: 5px;
     }
 }
+@media (max-width: 500px) {
+    .dataTables_wrapper .dataTables_paginate .paginate_button {
+       padding: 0 !important;
+    }
+}
