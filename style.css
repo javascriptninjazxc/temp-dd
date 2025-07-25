@@ -1333,4 +1333,14 @@
     .walletBlock .errBlock {
         width: 380px !important;
     }
+    .selectSystemDark-fkwallet {
+        max-width: 40px !important;
+    }
+
+    .selectSystemDark-sbp {
+        max-width: 40px !important;
+    }
+    .selectSystemDark-phone {
+        max-width: 48px !important;
+    }
 }
