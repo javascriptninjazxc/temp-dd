@@ -1292,7 +1292,7 @@
     z-index: 1;
 }
 @media (max-width: 600px) {
-    .freespins-main-conten {
+    .freespins-main-content {
         background-image: unset !important;
     }
     .freespins-main-content-banner {
