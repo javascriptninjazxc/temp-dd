@@ -1283,3 +1283,8 @@
 .crash-game_content {
     z-index: 0 !important;
 }
+@media screen and (max-width: 1280px) {
+    .balanceMenuOpen {
+        border: none !important;
+    }
+}
