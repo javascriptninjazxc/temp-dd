@@ -1288,3 +1288,14 @@
         border: none !important;
     }
 }
+.freespins-main-content-pd {
+    z-index: 1;
+}
+@media (max-width: 600px) {
+    .freespins-main-conten {
+        background-image: unset !important;
+    }
+    .freespins-main-content-banner {
+        z-index: 0;
+    }
+}
