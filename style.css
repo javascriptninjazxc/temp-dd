@@ -1327,6 +1327,9 @@
         width: 400px !important;
         padding-right: 0 !important;
     }
+    .walletBlock .inner-input {
+        padding-right: 0 !important;
+    }
     .walletBlock .errBlock {
         width: 380px !important;
     }
