@@ -1299,3 +1299,8 @@
         z-index: 0;
     }
 }
+@media (max-width: 480px) {
+    .footerMobile {
+        z-index: -1;
+    }
+}
