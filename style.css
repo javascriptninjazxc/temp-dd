@@ -1309,4 +1309,8 @@
         display: flex;
         align-content: center;
     }
+    .dataTables_paginate {
+        display: flex;
+        gap: 5px;
+    }
 }
