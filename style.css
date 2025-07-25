@@ -1345,11 +1345,15 @@
     }
 }
 
-
 .providers-list {
     overflow: auto !important;
 }
 
 .providers-list.open {
     overflow: auto !important;
+}
+
+.providers-list::-webkit-scrollbar {
+    width: 0;
+    height: 0;
 }
