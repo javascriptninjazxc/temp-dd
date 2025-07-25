@@ -1306,7 +1306,6 @@
 }
 @media (max-width: 410px) {
     .paginate_button {
-        display: flex;
         align-content: center;
     }
     .dataTables_paginate {
