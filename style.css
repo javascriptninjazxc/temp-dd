@@ -1315,6 +1315,6 @@
 }
 @media (max-width: 500px) {
     .dataTables_wrapper .dataTables_paginate .paginate_button {
-       padding: 0 !important;
+       padding: 8px 13px !important;
     }
 }
