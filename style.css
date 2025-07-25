@@ -1324,7 +1324,7 @@
 }
 @media (max-width: 500px) {
     .walletBlock .inputBlock {
-        width: 400px !important;
+        max-width: 400px !important;
         padding-right: 0 !important;
     }
     .walletBlock .inner-input {
