@@ -1317,4 +1317,8 @@
         display: flex;
         gap: 5px;
     }
+    .dataTables_paginate .find {
+        width: 38px !important;
+        height: 31px;
+    }
 }
