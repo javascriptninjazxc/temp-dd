@@ -1358,3 +1358,6 @@
     width: 0;
     height: 0;
 }
+.true .titleWindow {
+    padding: 15px;
+}
