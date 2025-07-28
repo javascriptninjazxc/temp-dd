@@ -1364,3 +1364,8 @@
 .withdraw--sber {
     color: rgb(33, 160, 56) !important;
 }
+@media (max-width: 600px) {
+    .footerMobile {
+        margin-top: 0 !important;
+    }
+}
