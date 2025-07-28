@@ -1385,15 +1385,3 @@
         gap: 5px;
     }
 }
-.payoutBlock .systems {
-    z-index: -1 !important;
-}
-.payoutBlock .walletBlock {
-    z-index: -1 !important;
-}
-.payoutBlock .historyBlock{
-    z-index: -1 !important;
-}
-.thirdBlock .topMenu {
-    z-index: 0 !important;
-}
