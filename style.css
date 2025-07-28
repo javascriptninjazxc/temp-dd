@@ -1260,6 +1260,9 @@
         margin: 0 !important;
     }
 }
+.true .titleWindow {
+    padding: 15px;
+}
 .providers-list > div div {
     width: 18.8%;
 }
@@ -1357,7 +1360,4 @@
 .providers-list::-webkit-scrollbar {
     width: 0;
     height: 0;
-}
-.true .titleWindow {
-    padding: 15px;
 }
