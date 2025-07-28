@@ -1050,6 +1050,7 @@
         border-radius: 8px !important;
     }
 
+
     .freespins-yoda {
         z-index: 10;
     }
@@ -1243,7 +1244,7 @@
         position: relative;
     }
 }
-.gamesSlots .titleWindow.titleWindow1 {
+.titleWindow.titleWindow1 {
     padding: 15px 20px !important;
 }
 
