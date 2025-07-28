@@ -1244,6 +1244,9 @@
         position: relative;
     }
 }
+.titleWindow.titleWindow1 {
+    padding: 15px 20px !important;
+}
 
 @media (min-width: 801px) {
     width: 18.8px !important;
@@ -1354,8 +1357,4 @@
 .providers-list::-webkit-scrollbar {
     width: 0;
     height: 0;
-}
-
-.titleWindow .titleWindow1 {
-    padding: 15px 20px !important;
 }
