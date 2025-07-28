@@ -1367,6 +1367,6 @@
 
 @media (max-width: 600px) {
     .rang-container .swiper-slide {
-        height: 100% !important;
+        overflow: auto !important;
     }
 }
