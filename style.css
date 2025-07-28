@@ -1385,3 +1385,15 @@
         gap: 5px;
     }
 }
+.payoutBlock .systems {
+    z-index: -1 !important;
+    position: sticky;
+}
+.payoutBlock .walletBlock {
+    z-index: -1 !important;
+    position: sticky;
+}
+.payoutBlock .historyBlock{
+    z-index: -1 !important;
+    position: sticky;
+}
