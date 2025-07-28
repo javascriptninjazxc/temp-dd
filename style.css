@@ -1366,7 +1366,7 @@
 }
 
 @media (max-width: 600px) {
-    .rang-container .swiper-slide {
+    .rang-container .swiper-container {
         overflow: auto !important;
     }
 }
