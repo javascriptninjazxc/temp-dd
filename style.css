@@ -1335,7 +1335,7 @@
         padding-right: 0 !important;
     }
     .walletBlock .errBlock {
-        width: 380px !important;
+        width: calc(100% - 20px) !important;
     }
     .selectSystemDark-fkwallet {
         max-width: 45px !important;
