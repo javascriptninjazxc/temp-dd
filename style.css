@@ -1361,3 +1361,6 @@
     width: 0;
     height: 0;
 }
+.withdraw--sber {
+    color: rgb(33, 160, 56) !important;
+}
