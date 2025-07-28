@@ -1374,4 +1374,8 @@
     .money-operation-table tr td {
         font-size: 10px !important;
     }
+
+    .money-operation-table tr th {
+        font-size: 9px !important;
+    }
 }
