@@ -1364,3 +1364,9 @@
 .withdraw--sber {
     color: rgb(33, 160, 56) !important;
 }
+
+@media (max-width: 600px) {
+    .rang-container .swiper-slide {
+        height: 100% !important;
+    }
+}
