@@ -1367,6 +1367,6 @@
 
 @media (max-width: 600px) {
     .rang-container .swiper-container {
-        overflow: auto !important;
+        overflow-y: auto !important;
     }
 }
