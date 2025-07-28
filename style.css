@@ -1370,4 +1370,8 @@
         overflow: visible !important;
         height: auto !important;
     }
+
+    .money-operation-table tr td {
+        font-size: 10px !important;
+    }
 }
