@@ -1412,3 +1412,7 @@
         z-index: 999;
     }
 }
+
+.modal {
+    background: rgba(39,43,58,.9) !important;
+}
