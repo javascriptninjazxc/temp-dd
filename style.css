@@ -1397,3 +1397,18 @@
     z-index: -1 !important;
     position: sticky;
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .page-wrapper .modal {
+        height: 100vh;
+        isolation: isolate;
+        left: 0;
+        overflow: scroll;
+        position: fixed;
+        top: 0;
+        transform: scale(1) !important;
+        transform-origin: center left;
+        width: 100vw;
+        z-index: 999;
+    }
+}
