@@ -1416,3 +1416,6 @@
 .modal {
     background: rgba(39,43,58,.9) !important;
 }
+.depositSys {
+    fflex-wrap: wrap;
+}
