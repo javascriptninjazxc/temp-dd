@@ -1435,3 +1435,8 @@
         zoom: normal !important;
     }
 }
+@media  (max-width: 1020px) and (orientation: landscape) {
+    .rang-container {
+        height: 800px !important;
+    }
+}
