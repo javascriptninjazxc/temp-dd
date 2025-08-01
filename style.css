@@ -1450,9 +1450,15 @@
     width: 100% !important;
     height: 100% !important;
 }
+
 @media (max-width: 1024px) {
     .balanceMenuOpen {
         left: 50%;
         transform: translateX(-100%);
 }
+}
+
+.modal-open {
+    height: 100vh;
+    overflow: hidden;
 }
