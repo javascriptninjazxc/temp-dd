@@ -1452,7 +1452,7 @@
 }
 @media (max-width: 1024px) {
     .balanceMenuOpen {
-/* left: 50%; */
-/* transform: translateX(-100%);
+        left: 50%;
+        transform: translateX(-100%);
 }
 }
