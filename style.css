@@ -1463,3 +1463,8 @@
     overflow: hidden;
 }
 
+@media screen and (orientation: landscape) {
+    .modal-dialog .modal-content {
+    top: 40px !important;
+    }
+}
