@@ -1464,7 +1464,7 @@
 }
 
 @media screen and (orientation: landscape) {
-    .modal-dialog .modal-content {
-    top: 40px !important;
+    .modal-dialog-centered {
+      padding-top: 81px !important;
     }
 }
