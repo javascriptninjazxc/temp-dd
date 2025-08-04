@@ -1468,3 +1468,9 @@
       padding-top: 81px !important;
     }
 }
+@media  (max-width: 760px)  {
+    .bonusBlock-flex {
+        grid-template-columns: 1fr !important;
+    }
+
+}
