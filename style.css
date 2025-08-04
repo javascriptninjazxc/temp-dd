@@ -1463,19 +1463,3 @@
     overflow: hidden;
 }
 
-@media screen and (orientation: landscape) {
-    .modal-dialog {
-        max-width: 90vw;
-        height: auto;
-        margin: auto;
-    }
-
-    .modal-dialog-scrollable {
-        max-height: 90vh;
-    }
-
-    .modal-dialog-scrollable .modal-content {
-        max-height: 90vh;
-        overflow-y: auto;
-    }
-}
