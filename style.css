@@ -1476,7 +1476,7 @@
 }
 
 @media (max-width: 700px) {
-    .profile-settings[data-v-19b16799] {
+    .profile-settings {
         align-items: center;
         flex-direction: column;
         justify-content: center;
