@@ -1468,9 +1468,17 @@
       padding-top: 81px !important;
     }
 }
+
 @media  (max-width: 760px)  {
     .bonusBlock-flex {
         grid-template-columns: 1fr !important;
     }
+}
 
+@media (max-width: 700px) {
+    .profile-settings[data-v-19b16799] {
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
