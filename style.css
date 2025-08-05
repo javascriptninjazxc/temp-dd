@@ -1495,5 +1495,9 @@
 @media  screen and (orientation: landscape) {
     .modal .modal-content {
         width: 54% !important;
+        overflow-y: auto !important;
+    }
+    .modal .wager-modal {
+        overflow-y: auto !important;
     }
 }
