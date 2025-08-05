@@ -1486,4 +1486,9 @@
         display: flex !important;
         justify-content: space-between !important;
     }
+    .promocodes-row .action {
+        display: flex !important;
+        align-items: center!important;
+        justify-content: end!important;
+    }
 }
