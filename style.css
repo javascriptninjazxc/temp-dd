@@ -1477,6 +1477,13 @@
 
 @media (max-width: 700px) {
     .profile-settings-options--bottom {
-        grid-template-columns: 1fr !important;s
+        grid-template-columns: 1fr !important;
+    }
+}
+
+@media screen and (orientation: landscape) {
+    .game-anim .mines-anim {
+        display: flex !important;
+        justify-content: space-between !important;
     }
 }
