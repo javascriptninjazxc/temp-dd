@@ -1584,6 +1584,11 @@
         display: block !important;
     }
 
+    .bonus-tabs {
+        max-width: fit-content !important;
+        width: 100%;
+    }
+
     .bonus-tabs a {
         width: 100% !important;
     }
