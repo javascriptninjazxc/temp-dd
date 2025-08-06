@@ -1559,8 +1559,13 @@
     margin-bottom: 0 !important;
 }
 
-@media (max-width: 800px) and (orientation: landscape) {
+@media (orientation: landscape) {
     .game-anim {
         height: fit-content !important;
     }
-}
+    .modal-content {
+        display: none !important;
+    }
+    }
+
+
