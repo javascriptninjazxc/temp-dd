@@ -1574,3 +1574,7 @@
         background: transparent;
     }
 }
+
+.profile-tabs-settings .bonus-tabs  {
+    flex-wrap: wrap !important;
+}
