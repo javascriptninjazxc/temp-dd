@@ -1558,3 +1558,9 @@
 .game-info-modal {
     margin-bottom: 0 !important;
 }
+
+@media  (orientation: landscape) {
+    .game-anim {
+        height: fit-content !important;
+    }
+}
