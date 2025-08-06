@@ -1655,3 +1655,7 @@
         width: 25px !important;
     }
 }
+
+.modal-content {
+    overflow-y: scroll !important;
+}
