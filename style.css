@@ -1463,13 +1463,13 @@
     overflow: hidden;
 }
 
-@media screen and (orientation: landscape) {
+@media (orientation: landscape) {
     .modal-dialog-centered {
       padding-top: 81px !important;
     }
 }
 
-@media  (max-width: 760px)  {
+@media (max-width: 760px)  {
     .bonusBlock-flex {
         grid-template-columns: 1fr !important;
     }
@@ -1481,7 +1481,7 @@
     }
 }
 
-@media screen and (orientation: landscape) {
+@media (orientation: landscape) {
     .game-anim .mines-anim {
         display: flex !important;
         justify-content: space-between !important;
