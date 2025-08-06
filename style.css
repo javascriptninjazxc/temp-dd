@@ -1463,11 +1463,11 @@
     overflow: hidden;
 }
 
-@media (max-width: 600px) and (orientation: landscape) {
-    .modal-dialog-centered {
-      padding-top: 81px !important;
-    }
-}
+/*@media (max-width: 600px) and (orientation: landscape) {*/
+/*    .modal-dialog-centered {*/
+/*      padding-top: 81px !important;*/
+/*    }*/
+/*}*/
 
 @media (max-width: 760px)  {
     .bonusBlock-flex {
