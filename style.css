@@ -1576,10 +1576,6 @@
 }
 
 @media (max-width: 800px) {
-    .profile-tabs-settings .bonus-tabs  {
-        flex-wrap: wrap !important;
-    }
-
     .bonus-tabs a p {
         display: block !important;
     }
