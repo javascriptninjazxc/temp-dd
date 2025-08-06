@@ -1488,12 +1488,6 @@
     }
 }
 
-@media  screen and (orientation: landscape) {
-    .modal-content-fix {
-        width: 54% !important;
-    }
-}
-
 .promocodes-row .action {
     display: flex !important;
     align-items: center!important;
