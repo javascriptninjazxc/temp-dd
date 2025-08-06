@@ -1563,6 +1563,11 @@
     .game-anim {
         height: fit-content !important;
     }
+    .mines-anim {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 @media (max-height: 754px) {
