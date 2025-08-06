@@ -1563,6 +1563,14 @@
     .game-anim {
         height: fit-content !important;
     }
+}
+
+@media (max-height: 754px) {
+    .darkState .game-info-modal .modal-content {
+        background: #212335;
     }
 
-
+    .darkState .game-info-modal .modal-body {
+        background: transparent;
+    }
+}
