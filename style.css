@@ -1596,27 +1596,41 @@
 }
 
 @media (max-width: 600px) {
+    /*.mines-anim {*/
+    /*    display: grid;*/
+    /*    grid-template-columns: 1fr 1fr 1fr 1fr;*/
+    /*    grid-template-rows: .5fr 1fr;*/
+    /*    gap: 0px 10px;*/
+    /*    grid-template-areas: "ma-info ma-info ma-info-2 ma-info-2"*/
+    /*    "ma-field ma-field ma-field ma-field";*/
+    /*}*/
+
+    /*.ma-info {*/
+    /*    width: 100%;*/
+    /*    grid-area: ma-info;*/
+    /*    box-sizing: border-box;*/
+    /*}*/
+
+    /*.ma-field {*/
+    /*    grid-area: ma-field;*/
+    /*}*/
+
+    /*.ma-info:nth-child(2) {*/
+    /*    grid-area: ma-info-2;*/
+    /*    box-sizing: border-box;*/
+    /*}*/
+
     .mines-anim {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: .5fr 1fr;
-        gap: 0px 10px;
-        grid-template-areas: "ma-info ma-info ma-info-2 ma-info-2"
-        "ma-field ma-field ma-field ma-field";
+        grid-template-columns: repeat(4, 1fr);
+        gap: 0 10px;
     }
 
     .ma-info {
-        width: 100%;
-        grid-area: ma-info;
-        box-sizing: border-box;
+        grid-column: span 2;
     }
 
     .ma-field {
-        grid-area: ma-field;
-    }
-
-    .ma-info:nth-child(2) {
-        grid-area: ma-info-2;
-        box-sizing: border-box;
+        grid-column: span 4;
     }
 }
