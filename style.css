@@ -1575,6 +1575,16 @@
     }
 }
 
-.profile-tabs-settings .bonus-tabs  {
-    flex-wrap: wrap !important;
+@media (max-width: 700px) {
+    .profile-tabs-settings .bonus-tabs  {
+        flex-wrap: wrap !important;
+    }
+
+    .bonus-tabs a p {
+        display: block !important;
+    }
+
+    .bonus-tabs a {
+        width: 100% !important;
+    }
 }
