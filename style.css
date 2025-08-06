@@ -1504,3 +1504,8 @@
     max-width: 100% !important;
     margin: unset !important;
 }
+
+.modal-content {
+    height: 100% !important;
+    overflow-y: scroll !important;
+}
