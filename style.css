@@ -1510,4 +1510,16 @@
         height: 100% !important;
         overflow-y: scroll !important;
     }
+
+    #signIn .modal-dialog {
+        min-width: 100% !important;
+    }
+
+    #signIn .modal-content {
+        width: fit-content !important;
+    }
+
+    #signIn .modal-body {
+        width: 350px !important;
+    }
 }
