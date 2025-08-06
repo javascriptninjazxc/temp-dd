@@ -1554,9 +1554,3 @@
         min-height: 100% !important;
     }
 }
-
-@media screen and (max-width: 1280px) {
-    .modal-content {
-        transform: scale(1) !important;
-    }
-}
