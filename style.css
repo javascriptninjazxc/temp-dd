@@ -1529,3 +1529,22 @@
         margin: auto !important;
     }
 }
+
+@media (max-width: 800px) {
+    .profile-settings-options {
+        width: 100% !important;
+    }
+
+    .profile-settings-options--top {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .profile-photo-upload {
+        margin: 0 auto !important;
+    }
+
+    .profile-settings {
+        flex-direction: column !important;
+    }
+}
