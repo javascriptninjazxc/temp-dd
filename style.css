@@ -1589,18 +1589,3 @@
         width: 100% !important;
     }
 }
-
-@media (max-width: 500px) {
-    .profile-tabs-settings .bonus-tabs  {
-        flex-direction: column !important;
-    }
-
-    .bonus-tabs {
-        max-width: 100% !important;
-        width: 100%;
-    }
-
-    .bonus-tabs a {
-        width: 100% !important;
-    }
-}
