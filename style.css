@@ -1624,7 +1624,7 @@
         display: grid !important;
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: auto auto;
-        gap: 0 10px;
+        gap: 10px;
     }
 
     .ma-info {
