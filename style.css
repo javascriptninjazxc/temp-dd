@@ -1463,7 +1463,7 @@
     overflow: hidden;
 }
 
-@media (orientation: landscape) {
+@media (max-width: 600px) and (orientation: landscape) {
     .modal-dialog-centered {
       padding-top: 81px !important;
     }
@@ -1481,7 +1481,7 @@
     }
 }
 
-@media (orientation: landscape) {
+@media (max-width: 600px) and (orientation: landscape) {
     .game-anim .mines-anim {
         display: flex !important;
         justify-content: space-between !important;
