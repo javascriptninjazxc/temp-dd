@@ -1554,3 +1554,7 @@
         min-height: 100% !important;
     }
 }
+
+.game-info-modal {
+    margin-bottom: 0 !important;
+}
