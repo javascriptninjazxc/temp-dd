@@ -1571,4 +1571,9 @@
     .game-info-modal {
         height: 800px !important;
     }
+
+    .modal-content {
+        margin: 0 !important;
+        height: 100% !important;
+    }
 }
