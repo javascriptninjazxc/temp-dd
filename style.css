@@ -1559,9 +1559,16 @@
     margin-bottom: 0 !important;
 }
 
-@media  (orientation: landscape) {
+@media (orientation: landscape) {
     .game-anim {
         height: fit-content !important;
     }
 
+    .modal-body .flex .justify-content-between .mb-5 {
+        display: none;
+    }
+
+    .game-info-modal {
+        height: 800px !important;
+    }
 }
