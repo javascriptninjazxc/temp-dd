@@ -1575,7 +1575,7 @@
     }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
     .profile-tabs-settings .bonus-tabs  {
         flex-wrap: wrap !important;
     }
