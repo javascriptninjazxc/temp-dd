@@ -1489,7 +1489,7 @@
 }
 
 @media  screen and (orientation: landscape) {
-    .modal .modal-content {
+    .modal-content-fix {
         width: 54% !important;
     }
 }
