@@ -1563,9 +1563,5 @@
     .game-anim {
         height: fit-content !important;
     }
-    .wager-modal {
-        min-height: calc(100% + 25px) !important;
-        height: calc(100% + 25px) !important;
-        max-height: calc(100% + 25px) !important;
-    }
+
 }
