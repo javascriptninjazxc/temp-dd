@@ -1659,3 +1659,6 @@
 .modal-content {
     overflow-y: scroll !important;
 }
+.modal-content-fix {
+    height: 562px !Important;
+}
