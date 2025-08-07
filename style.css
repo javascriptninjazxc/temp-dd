@@ -1669,4 +1669,9 @@
         overflow: scroll !important;
         max-height: 100svh !important;
     }
+
+    .vk-binding-modal .modal-content {
+        overflow: scroll !important;
+        height: 100vh;
+    }
 }
