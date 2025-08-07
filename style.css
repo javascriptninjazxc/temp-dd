@@ -1681,10 +1681,6 @@
     height: 555px !important;
 }
 @media (orientation: landscape) {
-    .referral-detail-modal {
-        overflow: scroll !important;
-        height: 100vh !important;
-    }
     .referral-detail-modal .modal-content {
         overflow: hidden !important;
         height: 100% !important;
