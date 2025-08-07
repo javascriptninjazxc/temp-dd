@@ -1674,3 +1674,9 @@
         max-height: 100svh !important;
     }
 }
+@media (max-width: 800px) and (orientation: landscape) {
+    .country-popup {
+        height: 100vh !important;
+        overflow: scroll !important;
+    }
+}
