@@ -1598,7 +1598,7 @@
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     #signIn .modal-content {
         height: fit-content !important;
     }
