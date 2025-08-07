@@ -1653,7 +1653,7 @@
 
 @media (max-width: 600px) and (orientation: landscape) {
     .modal-content {
-        overflow: hidden !important;
+        overflow: scroll !important;
         margin: auto !important;
     }
 }
