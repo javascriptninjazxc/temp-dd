@@ -1680,3 +1680,11 @@
     .TelegramLinkModal {
     height: 555px !important;
 }
+@media (max-width: 600px) and (orientation: landscape) {
+    .referral-detail-modal {
+        overflow: scroll !important;
+        height: 100vh !important;
+    }
+
+}
+
