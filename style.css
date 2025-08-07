@@ -1674,8 +1674,3 @@
         max-height: 100% !important;
     }
 }
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .page-wrapper .modal {
-        display: flex !important;
-    }
-}
