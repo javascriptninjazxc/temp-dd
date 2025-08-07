@@ -1500,7 +1500,7 @@
         margin: unset !important;
     }
 
-    .modal-content {
+    .game-info-modal .modal-content {
         height: 100% !important;
         overflow-y: scroll !important;
     }
