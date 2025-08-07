@@ -1667,7 +1667,7 @@
     justify-content: center;
 }
 
-@media (orientation: portrait) and (max-width: 768px){
+@media screen and (orientation: portrait){
     #modalWdwInfo .PaymentInfoModal {
         height: 100% !important;
         margin: 0px auto !important;
