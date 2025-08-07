@@ -1678,6 +1678,10 @@
         overflow: hidden !important;
     }
 
+    .modal-content {
+        height: 100vh !important;
+    }
+
     .modal-body {
         overflow: scroll !important;
     }
