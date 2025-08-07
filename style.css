@@ -1669,3 +1669,6 @@
         max-height: 100svh !important;
     }
 }
+.modalRedDetail .modal-content {
+    height: 555px !important;
+}
