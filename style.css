@@ -1676,7 +1676,6 @@
 @media (max-width: 1000px) {
     .modal-dialog, .modal-content {
         overflow: hidden !important;
-        margin: 0 !important;
     }
 
     .modal-body {
