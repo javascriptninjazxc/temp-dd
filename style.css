@@ -1559,7 +1559,7 @@
     margin-bottom: 0 !important;
 }
 
-@media (orientation: landscape) {
+@media (max-width: 800px) {
     .game-anim {
         height: fit-content !important;
     }
