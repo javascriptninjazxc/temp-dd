@@ -1643,3 +1643,7 @@
     overflow: hidden !important;
     overflow-y: scroll !important;
 }
+
+.referral-detail-modal {
+    height: 526px !important;
+}
