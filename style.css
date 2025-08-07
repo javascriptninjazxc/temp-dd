@@ -1651,12 +1651,12 @@
     }
 }
 
-/*@media (max-width: 600px) and (orientation: landscape) {*/
-/*    .modal-content {*/
-/*        overflow: scroll !important;*/
-/*        margin: auto !important;*/
-/*    }*/
-/*}*/
+@media (max-width: 600px) and (orientation: landscape) {
+    .modal-content {
+        overflow: scroll !important;
+        margin: auto !important;
+    }
+}
 
 @media (orientation: landscape) {
     .game-info-modal .modal-dialog {
