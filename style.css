@@ -1659,10 +1659,3 @@
 #modalWdwInfo .modal-dialog {
     width: 100% !important;
 }
-@media (max-width: 800px) {
-    #modalNotification .modal {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-}
