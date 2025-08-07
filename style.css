@@ -1656,6 +1656,10 @@
         overflow: scroll !important;
         margin: auto !important;
     }
+    .country-popup {
+        height: 100vh !important;
+        overflow: scroll !important;
+    }
 }
 
 @media (orientation: landscape) {
