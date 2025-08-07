@@ -1573,6 +1573,16 @@
     }
 }
 
+@media (max-width: 754px) {
+    .darkState .game-info-modal .modal-content {
+        background: #212335;
+    }
+
+    .darkState .game-info-modal .modal-body {
+        background: transparent;
+    }
+}
+
 @media (min-width: 500px) and (max-width: 900px) {
     .bonus-tabs a p {
         display: block !important;
