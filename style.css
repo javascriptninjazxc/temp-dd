@@ -1660,7 +1660,7 @@
     width: 100% !important;
 }
 @media (max-width: 800px) {
-    #modal-notification .modal {
+    #modalNotification .modal {
         display: flex;
         align-items: center;
         justify-content: center;
