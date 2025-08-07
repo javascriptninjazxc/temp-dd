@@ -1644,6 +1644,12 @@
     overflow-y: scroll !important;
 }
 
-.referral-detail-modal {
+.referral-detail-modal .modal-body {
     height: 529px !important;
+}
+.TelegramLinkModal__text {
+    padding: 0 !important;
+}
+.TelegramLinkModal__step {
+    gap: 10px;
 }
