@@ -1685,4 +1685,8 @@
     .modal-body {
         overflow: scroll !important;
     }
+
+    .modal {
+        overflow: hidden !important;
+    }
 }
