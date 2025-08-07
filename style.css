@@ -1426,10 +1426,6 @@
     height: 100%;
 }
 
-@media (max-width: 600px) and (orientation: landscape) {
-
-}
-
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     #page-deposit .page-wrapper .modal {
         zoom: normal !important;
@@ -1455,19 +1451,13 @@
     .balanceMenuOpen {
         left: 50%;
         transform: translateX(-100%);
-}
+    }
 }
 
 .modal-open {
     height: 100svh;
     overflow: hidden;
 }
-
-/*@media (max-width: 600px) and (orientation: landscape) {*/
-/*    .modal-dialog-centered {*/
-/*      padding-top: 81px !important;*/
-/*    }*/
-/*}*/
 
 @media (max-width: 760px)  {
     .bonusBlock-flex {
@@ -1664,7 +1654,7 @@
     justify-content: center;
 }
 
-@media   (orientation: portrait) and (max-width: 768px){
+@media (orientation: portrait) and (max-width: 768px){
     #modalWdwInfo .PaymentInfoModal {
         height: 100% !important;
         margin: 0px auto !important;
