@@ -1426,6 +1426,10 @@
     height: 100%;
 }
 
+@media (max-width: 600px) and (orientation: landscape) {
+
+}
+
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     #page-deposit .page-wrapper .modal {
         zoom: normal !important;
@@ -1451,13 +1455,19 @@
     .balanceMenuOpen {
         left: 50%;
         transform: translateX(-100%);
-    }
+}
 }
 
 .modal-open {
     height: 100svh;
     overflow: hidden;
 }
+
+/*@media (max-width: 600px) and (orientation: landscape) {*/
+/*    .modal-dialog-centered {*/
+/*      padding-top: 81px !important;*/
+/*    }*/
+/*}*/
 
 @media (max-width: 760px)  {
     .bonusBlock-flex {
@@ -1477,7 +1487,7 @@
     justify-content: end!important;
 }
 
-@media (max-width: 800px) and (orientation: portrait) {
+@media (max-width: 800px) {
     .modal-dialog {
         width: 100%;
         height: 100% !important;
@@ -1507,7 +1517,7 @@
     }
 }
 
-@media only screen and (max-width: 1024px) and (orientation: portrait) {
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
     .modal .modal-content {
         margin: auto !important;
     }
@@ -1588,7 +1598,7 @@
     }
 }
 
-@media (max-width: 900px) and (orientation: portrait) { {
+@media (max-width: 900px) {
     #signIn .modal-content {
         height: fit-content !important;
     }
@@ -1654,7 +1664,7 @@
     justify-content: center;
 }
 
-@media (orientation: portrait) and (max-width: 768px){
+@media   (orientation: portrait) and (max-width: 768px){
     #modalWdwInfo .PaymentInfoModal {
         height: 100% !important;
         margin: 0px auto !important;
@@ -1663,7 +1673,7 @@
 }
 
 /* МОЖНО УДАЛИТЬ */
-@media (max-width: 1000px) and (orientation: portrait) {
+@media (max-width: 1000px) {
     .modal-dialog, .modal-content {
         overflow: hidden !important;
     }
