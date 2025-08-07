@@ -1659,13 +1659,13 @@
 }
 
 @media (orientation: landscape) {
-    .game-info-modal .modal-dialog {
+     .modal-dialog {
         overflow: hidden !important;
         height: 100% !important;
         max-height: 100% !important;
     }
 
-    .game-info-modal .modal-body {
+     .modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
     }
