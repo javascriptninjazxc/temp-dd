@@ -1637,6 +1637,7 @@
 }
 
 .modal-content {
+    overflow: hidden !important;
     overflow-y: scroll !important;
 }
 .modal-content-fix {
