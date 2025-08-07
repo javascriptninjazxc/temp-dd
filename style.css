@@ -1653,3 +1653,6 @@
 .TelegramLinkModal__step {
     gap: 10px;
 }
+.rangePick .showDate {
+    text-align: center;
+}
