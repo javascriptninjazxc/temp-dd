@@ -1657,3 +1657,16 @@
         margin: auto !important;
     }
 }
+
+@media (orientation: landscape) {
+    .modal-dialog {
+        overflow: hidden !important;
+        height: 100% !important;
+        max-height: 100% !important;
+    }
+
+    .modal-body {
+        overflow: scroll !important;
+        max-height: 100svh !important;
+    }
+}
