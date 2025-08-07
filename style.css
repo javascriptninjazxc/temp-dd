@@ -1647,15 +1647,27 @@
 .referral-detail-modal .modal-body {
     height: 529px !important;
 }
+
 .TelegramLinkModal__text {
     padding: 0 !important;
 }
+
 .TelegramLinkModal__step {
     gap: 10px;
 }
+
 .rangePick .showDate {
     text-align: center;
 }
+
 #modalWdwInfo .modal-dialog {
     width: 100% !important;
+}
+
+@media  (orientation: landscape) {
+    #modalWdwInfo .PaymentInfoModal {
+        height: 100% !important;
+        margin: 0px auto !important;
+        max-height: 100% !important;
+    }
 }
