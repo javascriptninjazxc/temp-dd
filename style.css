@@ -1669,9 +1669,10 @@
         max-height: 100svh !important;
     }
 }
-.modalRedDetail .modal-content {
+
+   .modalRedDetail .modal-content {
 }
 
-.modalRedDetail .modal-content {
+    .TelegramLinkModal {
     height: 555px !important;
 }
