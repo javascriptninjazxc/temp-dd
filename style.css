@@ -1670,5 +1670,8 @@
     }
 }
 .modalRedDetail .modal-content {
+}
+
+.modalRedDetail .modal-content {
     height: 555px !important;
 }
