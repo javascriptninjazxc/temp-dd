@@ -1673,7 +1673,7 @@
 }
 
 /* МОЖНО УДАЛИТЬ */
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
     .modal-dialog, .modal-content {
         overflow: hidden !important;
     }
