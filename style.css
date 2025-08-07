@@ -1644,6 +1644,7 @@
     overflow-y: scroll !important;
 }
 
+
 .TelegramLinkModal__text {
     padding: 0 !important;
 }
@@ -1668,5 +1669,16 @@
         height: 100% !important;
         margin: 0px auto !important;
         max-height: 100% !important;
+    }
+}
+
+/* МОЖНО УДАЛИТЬ */
+@media (max-width: 600px) {
+    .modal-dialog, .modal-content {
+        overflow: hidden !important;
+    }
+
+    .modal-body {
+        overflow: scroll !important;
     }
 }
