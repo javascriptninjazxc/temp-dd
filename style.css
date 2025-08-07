@@ -1481,13 +1481,6 @@
     }
 }
 
-@media (max-width: 600px) {
-    .game-anim .mines-anim {
-        display: flex !important;
-        justify-content: space-between !important;
-    }
-}
-
 .promocodes-row .action {
     display: flex !important;
     align-items: center!important;
