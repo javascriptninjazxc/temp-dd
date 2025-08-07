@@ -1398,20 +1398,20 @@
     position: sticky;
 }
 
-/*@media only screen and (max-width: 1024px) and (orientation: landscape) {*/
-/*    .page-wrapper .modal {*/
-/*        height: 100vh;*/
-/*        isolation: isolate;*/
-/*        left: 0;*/
-/*        overflow: scroll;*/
-/*        position: fixed;*/
-/*        top: 0;*/
-/*        transform: scale(1) !important;*/
-/*        transform-origin: center left;*/
-/*        width: 100vw;*/
-/*        z-index: 999;*/
-/*    }*/
-/*}*/
+@media only screen and (max-width: 1024px) and (orientation: portrait) {
+    .page-wrapper .modal {
+        height: 100vh;
+        isolation: isolate;
+        left: 0;
+        overflow: scroll;
+        position: fixed;
+        top: 0;
+        transform: scale(1) !important;
+        transform-origin: center left;
+        width: 100vw;
+        z-index: 999;
+    }
+}
 
 /*.modal {*/
 /*    background: rgba(39,43,58,.9) !important;*/
@@ -1523,24 +1523,24 @@
 /*    }*/
 /*}*/
 
-/*@media (max-width: 800px) {*/
-/*    .profile-settings-options {*/
-/*        width: 100% !important;*/
-/*    }*/
+@media (max-width: 800px) {
+    .profile-settings-options {
+        width: 100% !important;
+    }
 
-/*    .profile-settings-options--top {*/
-/*        flex-wrap: wrap;*/
-/*        justify-content: center !important;*/
-/*    }*/
+    .profile-settings-options--top {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
 
-/*    .profile-photo-upload {*/
-/*        margin: 0 auto !important;*/
-/*    }*/
+    .profile-photo-upload {
+        margin: 0 auto !important;
+    }
 
-/*    .profile-settings {*/
-/*        flex-direction: column !important;*/
-/*    }*/
-/*}*/
+    .profile-settings {
+        flex-direction: column !important;
+    }
+}
 
 /*@media (min-width: 576px) {*/
 /*    .modal-dialog-centered {*/
@@ -1669,25 +1669,6 @@
 /*        height: 100% !important;*/
 /*        margin: 0px auto !important;*/
 /*        max-height: 100% !important;*/
-/*    }*/
-/*}*/
-
-/*!* МОЖНО УДАЛИТЬ *!*/
-/*@media (max-width: 1000px) {*/
-/*    .modal-dialog, .modal-content {*/
-/*        overflow: hidden !important;*/
-/*    }*/
-
-/*    .modal-content {*/
-/*        height: 100vh !important;*/
-/*    }*/
-
-/*    .modal-body {*/
-/*        overflow: scroll !important;*/
-/*    }*/
-
-/*    .modal {*/
-/*        overflow: hidden !important;*/
 /*    }*/
 /*}*/
 
