@@ -1652,7 +1652,7 @@
 }
 
 @media (max-width: 600px) and (orientation: landscape) {
-    .modal-content {
+    .game-info-modal .modal-content {
         overflow: scroll !important;
         margin: auto !important;
     }
