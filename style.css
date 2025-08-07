@@ -1596,6 +1596,10 @@
 }
 
 @media (max-width: 600px) {
+    #signIn .modal-content {
+        height: fit-content !important;
+    }
+
     .mines-anim {
         display: grid !important;
         grid-template-columns: repeat(4, 1fr);
