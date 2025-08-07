@@ -1677,13 +1677,3 @@
     .TelegramLinkModal {
     height: 555px !important;
 }
-
-    .referral-detail-modal .modal-content {
-        overflow: hidden !important;
-        height: 100% !important;
-        max-height: 100% !important;
-    }
-   .referral-detail-modal .swiper-container-initialized {
-       overflow: scroll !important;
-   }
-
