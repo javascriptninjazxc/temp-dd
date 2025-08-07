@@ -1649,6 +1649,10 @@
         margin: 0px auto !important;
         max-height: 100% !important;
     }
+    .referral-detail-modal {
+        overflow: scroll !important;
+        height: 100vh;
+    }
 }
 
 @media (max-width: 600px) and (orientation: landscape) {
