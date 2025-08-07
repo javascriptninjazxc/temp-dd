@@ -1487,7 +1487,7 @@
     justify-content: end!important;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 800px) and (orientation: portrait) {
     .modal-dialog {
         width: 100%;
         height: 100% !important;
@@ -1517,7 +1517,7 @@
     }
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
+@media only screen and (max-width: 1024px) and (orientation: portrait) {
     .modal .modal-content {
         margin: auto !important;
     }
@@ -1598,7 +1598,7 @@
     }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 900px) and (orientation: portrait) { {
     #signIn .modal-content {
         height: fit-content !important;
     }
@@ -1673,7 +1673,7 @@
 }
 
 /* МОЖНО УДАЛИТЬ */
-@media (max-width: 1000px) {
+@media (max-width: 1000px) and (orientation: portrait) {
     .modal-dialog, .modal-content {
         overflow: hidden !important;
     }
