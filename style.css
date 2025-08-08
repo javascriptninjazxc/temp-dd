@@ -1681,4 +1681,5 @@
 }
 .TelegramLinkModal {
     height: 555px !important;
+    overflow: scroll !important;
 }
