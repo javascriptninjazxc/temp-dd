@@ -1684,3 +1684,7 @@
     height: 555px !important;
     overflow: scroll !important;
 }
+.binding-modal-content {
+    overflow: scroll !important;
+    height: 100vh !important;
+}
