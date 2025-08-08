@@ -1668,6 +1668,11 @@
         max-height: 100% !important;
     }
 
+    .binding-modal-content {
+        overflow: scroll !important;
+        height: 100vh !important;
+    }
+
     .game-info-modal .modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
@@ -1683,8 +1688,4 @@
 .TelegramLinkModal {
     height: 555px !important;
     overflow: scroll !important;
-}
-.binding-modal-content {
-    overflow: scroll !important;
-    height: 100vh !important;
 }
