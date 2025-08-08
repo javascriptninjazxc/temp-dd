@@ -1677,7 +1677,11 @@
     }
     .referral-detail-modal .swiper-container {
         height: 100% !important;
+        width: 100vh !important;
         overflow-y: auto !important;
+    }
+    .referral-detail-modal .modal-body {
+        width: 100vh !important;
     }
 }
 .TelegramLinkModal {
