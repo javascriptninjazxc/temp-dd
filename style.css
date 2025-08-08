@@ -1674,7 +1674,7 @@
     }
     .referral-detail-modal .swiper-container {
         width: 100vh !important;
-        overflow-y: auto !important;
+        overflow-y: scroll !important;
     }
     .referral-detail-modal .modal-body {
         width: 100vh !important;
