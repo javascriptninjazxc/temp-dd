@@ -1672,11 +1672,7 @@
         overflow: scroll !important;
         max-height: 100svh !important;
     }
-    .referral-detail-modal .modal-body {
-        height: 211px !important;
-    }
     .referral-detail-modal .swiper-container {
-        height: 100% !important;
         width: 100vh !important;
         overflow-y: auto !important;
     }
