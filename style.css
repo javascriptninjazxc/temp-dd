@@ -1672,8 +1672,7 @@
         overflow: scroll !important;
         height: 100vh !important;
     }
-
-    .game-info-modal .modal-body {
+    .modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
     }
