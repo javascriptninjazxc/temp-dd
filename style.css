@@ -1668,7 +1668,7 @@
         max-height: 100% !important;
     }
 
-    .game-info-moda .modal-body {
+    .game-info-modal .modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
     }
