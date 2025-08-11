@@ -1672,9 +1672,6 @@
         width: 100vh !important;
         overflow-y: auto !important;
     }
-    .referral-detail-modal .modal-body {
-        width: 100vh !important;
-    }
     .binding-modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
@@ -1689,4 +1686,9 @@
         flex-direction: column;
     }
 
+}
+@media (min-width: 1025px) and (max-width: 1880px) {
+    .TelegramLinkModal__text {
+        max-width: calc(30%);
+    }
 }
