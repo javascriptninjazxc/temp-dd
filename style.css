@@ -1675,7 +1675,12 @@
     .referral-detail-modal .modal-body {
         width: 100vh !important;
     }
+    .binding-modal-body {
+        overflow: scroll !important;
+        max-height: 100svh !important;
+    }
 }
 .TelegramLinkModal {
     height: 555px !important;
+    overflow: scroll !important;
 }
