@@ -1684,3 +1684,9 @@
     height: 555px !important;
     overflow: scroll !important;
 }
+@media (max-width: 1440px) {
+    .footer_navigation {
+        flex-direction: column;
+    }
+
+}
