@@ -1700,3 +1700,6 @@
 .referral-detail-modal .modal-body {
     scrollbar-width: none;
 }
+.miniDesc {
+    color: #6C779E !Important;
+}
