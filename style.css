@@ -1703,3 +1703,6 @@
 .miniDesc {
     color: #6C779E !Important;
 }
+.darkState .miniDesc {
+    color: #abb2de !important;
+}
