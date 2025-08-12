@@ -1704,3 +1704,6 @@
 .darkState .miniDesc {
     color: #abb2de !important;
 }
+.profile-settings-options--bottom {
+    z-index: -1;
+}
