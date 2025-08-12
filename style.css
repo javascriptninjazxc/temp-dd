@@ -1687,7 +1687,7 @@
     }
 
 }
-@media (min-width: 1025px) and (max-width: 1880px) {
+@media (min-width: 1025px) and (max-width: 1920px) {
     .TelegramLinkModal__text {
         max-width: calc(30%) !important;
     }
