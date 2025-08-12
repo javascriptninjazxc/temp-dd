@@ -1657,7 +1657,7 @@
         margin: auto !important;
     }
 }
-@media (max-width: 800px) and (orientation: landscape)  {
+@media (max-width: 600px) and (orientation: landscape)  {
     .game-info-modal .modal-dialog {
         overflow: hidden !important;
         height: 100% !important;
@@ -1675,17 +1675,6 @@
     .binding-modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
-    }
-    .modal-body {
-        overflow: scroll !important;
-        height: 100vh !important;
-    }
-    .modal-content {
-        overflow: scroll !important;
-    }
-    .modal-dialog {
-        overflow: scroll !important;
-        height: 100vh !important;
     }
 }
 .TelegramLinkModal {
