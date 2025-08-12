@@ -1657,7 +1657,7 @@
         margin: auto !important;
     }
 }
-@media (orientation: landscape) {
+@media (max-width: 600px) and (orientation: landscape)  {
     .game-info-modal .modal-dialog {
         overflow: hidden !important;
         height: 100% !important;
@@ -1678,7 +1678,7 @@
     }
 }
 .TelegramLinkModal {
-    height: 555px !important;
+    height: 639px !important;
     overflow: scroll !important;
 }
 @media (max-width: 1440px) {
@@ -1686,11 +1686,6 @@
         flex-direction: column;
     }
 
-}
-@media (min-width: 1025px) and (max-width: 1920px) {
-    .TelegramLinkModal__text {
-        max-width: calc(28%) !important;
-    }
 }
 @media (min-width: 870px) and (max-width: 1022px) {
     .TelegramLinkModal__text {
