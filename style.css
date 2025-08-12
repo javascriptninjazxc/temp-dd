@@ -1678,7 +1678,7 @@
     }
 }
 .TelegramLinkModal {
-    height: 639px !important;
+    height: 41.688rem !important;
     overflow: scroll !important;
 }
 @media (max-width: 1440px) {
