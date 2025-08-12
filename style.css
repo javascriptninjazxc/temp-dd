@@ -1676,6 +1676,13 @@
         overflow: scroll !important;
         max-height: 100svh !important;
     }
+    .modal-body {
+        overflow: scroll !important;
+        height: 100vh !important;
+    }
+    .modal-content {
+        overflow: scroll !important;
+    }
 }
 .TelegramLinkModal {
     height: 41.688rem !important;
