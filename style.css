@@ -1701,10 +1701,10 @@
 .darkState .miniDesc {
     color: #abb2de !important;
 }
-.changeColorBlock .profile-settings-options--bottom {
+.profile-settings-options--bottom {
     z-index: -2 !Important;
 }
-.changeColorBlock .profile-settings-options--top {
+.profile-settings-options--top {
     z-index: -2 !important;
 }
 .profile-settings-options .label-input {
