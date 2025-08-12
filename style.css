@@ -1704,12 +1704,17 @@
 .darkState .miniDesc {
     color: #abb2de !important;
 }
+
+.profile-settings-options {
+    z-index: -1 !important;
+}
+
 .profile-settings-options--bottom {
-    z-index: -100 !Important;
+    z-index: -1 !Important;
 }
 .profile-settings-options--top {
-    z-index: -100 !important;
+    z-index: -1 !important;
 }
 .profile-settings-options .label-input {
-    z-index: -100 !Important;
+    z-index: -1 !Important;
 }
