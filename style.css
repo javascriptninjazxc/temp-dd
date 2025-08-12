@@ -1705,11 +1705,11 @@
     color: #abb2de !important;
 }
 .profile-settings-options--bottom {
-    z-index: -2 !Important;
+    z-index: -100 !Important;
 }
 .profile-settings-options--top {
-    z-index: -2 !important;
+    z-index: -100 !important;
 }
 .profile-settings-options .label-input {
-    z-index: -2 !Important;
+    z-index: -100 !Important;
 }
