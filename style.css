@@ -1704,3 +1704,9 @@
 .profile-settings-options--bottom {
     z-index: -1 !Important;
 }
+.profile-settings-options--top {
+    z-index: -1 !Important;
+}
+.profile-settings-options .label-input {
+    z-index: -1 !Important;
+}
