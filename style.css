@@ -1678,10 +1678,10 @@
     }
     .modal-body {
         overflow: scroll !important;
+        height: 100vh !important;
     }
     .modal-content {
         overflow: scroll !important;
-        height: 100vh !important;
     }
 }
 .TelegramLinkModal {
