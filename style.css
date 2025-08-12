@@ -1657,26 +1657,7 @@
         margin: auto !important;
     }
 }
-@media (max-width: 600px) and (orientation: landscape)  {
-    .game-info-modal .modal-dialog {
-        overflow: hidden !important;
-        height: 100% !important;
-        max-height: 100% !important;
-    }
 
-    .game-info-modal .modal-body {
-        overflow: scroll !important;
-        max-height: 100svh !important;
-    }
-    .referral-detail-modal .swiper-container {
-        width: 100vh !important;
-        overflow-y: auto !important;
-    }
-    .binding-modal-body {
-        overflow: scroll !important;
-        max-height: 100svh !important;
-    }
-}
 .TelegramLinkModal {
     height: 41.688rem !important;
     overflow: scroll !important;
@@ -1706,4 +1687,24 @@
 }
 .profile-settings-options .label-input {
     z-index: -1;
+}
+@media (orientation: landscape)  {
+    .game-info-modal .modal-dialog {
+        overflow: hidden !important;
+        height: 100% !important;
+        max-height: 100% !important;
+    }
+
+    .game-info-modal .modal-body {
+        overflow: scroll !important;
+        max-height: 100svh !important;
+    }
+    .referral-detail-modal .swiper-container {
+        width: 100vh !important;
+        overflow-y: auto !important;
+    }
+    .binding-modal-body {
+        overflow: scroll !important;
+        max-height: 100svh !important;
+    }
 }
