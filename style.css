@@ -1692,3 +1692,8 @@
         max-width: calc(28%) !important;
     }
 }
+@media (max-width: 1022px) {
+    .TelegramLinkModal__text {
+        max-width: 65% !important;
+    }
+}
