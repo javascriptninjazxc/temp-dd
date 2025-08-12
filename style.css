@@ -1707,3 +1707,6 @@
 .profile-settings-options--bottom {
     z-index: -1;
 }
+.profile-settings-options .label-input {
+    z-index: -1;
+}
