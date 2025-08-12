@@ -1702,8 +1702,11 @@
     color: #abb2de !important;
 }
 .changeColorBlock .profile-settings-options--bottom {
-    z-index: -1 !Important;
+    z-index: -2 !Important;
 }
 .changeColorBlock .profile-settings-options--top {
-    z-index: -1 !Important;
+    z-index: -2 !important;
+}
+.profile-settings-options .label-input {
+    z-index: -2 !Important;
 }
