@@ -1708,3 +1708,12 @@
         max-height: 100svh !important;
     }
 }
+@media (max-width: 700px) {
+    .user-name {
+        z-index: 0;
+    }
+    .imgUser {
+        z-index: -1;
+        position: relative;
+    }
+}
