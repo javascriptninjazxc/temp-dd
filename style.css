@@ -1446,7 +1446,7 @@
     height: 100% !important;
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 870px) and (max-width: 1024px) {
     .balanceMenuOpen {
         left: 50%;
         transform: translateX(-100%);
