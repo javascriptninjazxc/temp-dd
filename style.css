@@ -1713,7 +1713,7 @@
         z-index: 0;
     }
     .imgUser {
-        z-index: -1;
+        z-index: 0;
         position: relative;
     }
     .date-profile {
@@ -1722,4 +1722,7 @@
 }
 .buttoned-list li.completed:before {
     background-color: transparent !important;
+}
+.header {
+    z-index: 10 !Important;
 }
