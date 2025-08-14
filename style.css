@@ -1758,9 +1758,7 @@
         flex-wrap: wrap;
     }
 }
-.enotions-title.enotions-title {
-    font-family: 'Rubik', sans-serif !important;
-}
 .enotions-title {
-    font-family: 'Rubik', sans-serif !important;
+    font-family: 'Rubik';
+    font-weight: 500;
 }
