@@ -1730,3 +1730,7 @@
 .header {
     z-index: 10 !Important;
 }
+.footer {
+    z-index: -1 !important;
+    position: relative;
+}
