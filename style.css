@@ -1713,7 +1713,8 @@
         z-index: 0;
     }
     .imgUser {
-        z-index: 0;
+        z-index: -1 !important;
+        position: relative;
     }
     .date-profile {
         z-index: 0;
