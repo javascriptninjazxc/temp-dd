@@ -1710,3 +1710,34 @@
         max-height: 100svh !important;
     }
 }
+}
+@media (max-width: 700px) {
+    .user-name {
+        z-index: 0;
+    }
+    .imgUser {
+        z-index: -1 !important;
+        position: relative;
+    }
+    .date-profile {
+        z-index: 0;
+    }
+    .userBlock {
+        z-index: 0 !important;
+        position: relative;
+    }
+}
+.buttoned-list li.completed:before {
+    background-color: transparent !important;
+}
+.header {
+    z-index: 10 !Important;
+}
+.footer {
+    z-index: -1 !important;
+    position: relative;
+}
+.avatar-selection {
+    left: 50%;
+    transform: translateX(-50%) !important;
+}
