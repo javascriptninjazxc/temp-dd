@@ -1734,3 +1734,7 @@
     z-index: -1 !important;
     position: relative;
 }
+.avatar-selection {
+    left: 50%;
+    transform: translateX(-50%) !important;
+}
