@@ -1770,27 +1770,3 @@
         height: 100%!important;
     }
 }
-@media (max-width: 700px) {
-    .messages {
-        height: auto !important;
-        min-height: auto !important;
-        max-height: max-content !important;
-    }
-    .chatBlock {
-        height: calc(100vh - 105px);
-        display: flex !important;
-        flex-direction: column !important;
-        justify-content: space-between !important;
-    }
-    .chatBlock {
-        flex: 1;
-        max-height: max-content !important;
-        height: 123px !important;
-    }
-    .chatBlock {
-        background: #fff !important;
-        border-radius: 10px !important;
-        position: relative !important;
-        transition: background .25s !important;
-    }
-}
