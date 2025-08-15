@@ -1785,7 +1785,7 @@
     .chatBlock {
         flex: 1;
         max-height: max-content !important;
-        height: 123px !important !important;
+        height: 123px !important;
     }
     .chatBlock {
         background: #fff !important;
