@@ -1779,6 +1779,7 @@
 .promocodes-modal-title {
     width: fit-content;
 }
-    .profile-settings-options--bottom {
-        flex-wrap: wrap !important;
-    }
+.profile-settings-options--top {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
