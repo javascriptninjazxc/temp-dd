@@ -1773,7 +1773,7 @@
 @media (max-width: 600px) {
     .chatBlock {
         max-height: 100vh !important;
-        height: 100vh !important;
+        height: max-content !important;
     }
 }
 .promocodes-modal-title {
