@@ -1779,3 +1779,8 @@
 .promocodes-modal-title {
     width: fit-content;
 }
+@media (min-width: 1024px) and (max-width: 1525px) {
+    .profile-settings-options--bottom {
+        flex-wrap: wrap !important;
+    }
+}
