@@ -1784,14 +1784,3 @@
     flex-wrap: wrap !important;
 }
 
-@media (max-width: 700px) {
-    .inpChat::placeholder {
-        color: #586ebf; !important;  /* тот же цвет, что и у текста */
-        opacity: 1 !important;;      /* обязательно, иногда по умолчанию 0 */
-        font-family: RubikLight, sans-serif !important;; /* добавь fallback */
-    }
-    .inpChat {
-        transform: translateZ(0) !important;;
-        will-change: transform !important;;
-    }
-}
