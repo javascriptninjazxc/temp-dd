@@ -1784,4 +1784,9 @@
     display: flex !important;
     flex-wrap: wrap !important;
 }
+.modal-dialog {
+    height: 100vh !important;
+    min-height: 100vh;
+    max-height: 100vh;
+}
 
