@@ -1799,3 +1799,9 @@
         height: 100VH !important;
     }
 }
+@media (max-width: 870px) and (orientation: landscape) {
+    .subMenu {
+        left: 50%;
+        transform: translateX(-100%);
+    }
+}
