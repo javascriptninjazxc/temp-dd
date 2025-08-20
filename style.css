@@ -1796,5 +1796,6 @@
     }
     #infoWagerModal .modal-dialog {
         overflow: scroll !important;
+        height: 100VH !important;
     }
 }
