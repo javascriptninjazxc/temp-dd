@@ -1784,14 +1784,4 @@
     display: flex !important;
     flex-wrap: wrap !important;
 }
-@media (max-width: 700px) {
-    #infoWagerModal .wager-modal {
-        height: 350px !important;
-        overflow-y: auto !important;
-    }
-}
-@media (orientation: landscape) {
-    #infoWagerModal .modal-content {
-        margin-top: 30px !important;
-    }
-}
+
