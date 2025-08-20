@@ -1792,7 +1792,7 @@
 }
 @media (orientation: landscape) {
     #infoWagerModal .modal-content {
-        margin-top: 40px !important;
+        margin-top: 150px !important;
     }
     #infoWagerModal .modal-dialog {
         overflow: scroll !important;
