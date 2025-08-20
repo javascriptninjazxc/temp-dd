@@ -1789,4 +1789,7 @@
         height: 350px !important;
         overflow-y: auto !important;
     }
+    #infoWagerModal .modal-content {
+        margin-top: 30px !important;
+    }
 }
