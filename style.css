@@ -1790,7 +1790,7 @@
         overflow-y: auto !important;
     }
 }
-@media (max-width: 700px) and (orientation: landscape) {
+@media (orientation: landscape) {
     #infoWagerModal .modal-content {
         margin-top: 30px !important;
     }
