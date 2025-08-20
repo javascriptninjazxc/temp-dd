@@ -1784,4 +1784,11 @@
     display: flex !important;
     flex-wrap: wrap !important;
 }
-
+@media (max-width: 700px) {
+    .wager-modal {
+        overflow: scroll!important;
+    }
+    .modal-content {
+        overflow: scroll !important;
+    }
+}
