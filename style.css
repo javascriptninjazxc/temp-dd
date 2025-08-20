@@ -1785,10 +1785,8 @@
     flex-wrap: wrap !important;
 }
 @media (max-width: 700px) {
-    .wager-modal {
-        overflow: scroll!important;
-    }
-    .modal-content {
-        overflow: scroll !important;
+    #infoWagerModal .wager-modal {
+        height: 350px !important;
+        overflow-y: auto !important;
     }
 }
