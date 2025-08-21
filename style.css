@@ -1816,10 +1816,3 @@
         overflow-y: auto !important;
     }
 }
-
-@media (max-width: 600px) {
-    .chatBlock {
-        display: grid !important;
-        grid-template-rows: 48px 1fr 50px !important;
-    }
-}
