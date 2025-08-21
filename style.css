@@ -1805,3 +1805,8 @@
         transform: translateX(-100%);
     }
 }
+@media (min-width: 1025px) and (max-width: 1920px) {
+    .TelegramLinkModal__text {
+        max-width: 35% !important;
+    }
+}
