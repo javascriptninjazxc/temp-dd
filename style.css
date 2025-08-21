@@ -1810,3 +1810,9 @@
         max-width: 27% !important;
     }
 }
+@media (orientation: landscape) {
+    .referral-detail-modal .swiper-container {
+        width: 100vh !important;
+        overflow-y: auto !important;
+    }
+}
