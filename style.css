@@ -796,7 +796,7 @@
 }
 
 .messages, .messagesNot {
-    overflow-y: unset !important;
+    overflow-y: initial !important;
 }
 
 /*.chatActive .chatBlock {*/
