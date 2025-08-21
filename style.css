@@ -1816,4 +1816,9 @@
         overflow-y: auto !important;
     }
 }
+@media (max-width: 700px) {
+    .inputChat {
+        margin: 0 !Important;
+    }
+}
 
