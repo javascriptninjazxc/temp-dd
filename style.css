@@ -1772,9 +1772,9 @@
 }
 @media (max-width: 600px) {
     .chatBlock {
-        max-height: 100% !important;
+        max-height: max-content !important;
         height: max-content !important;
-        min-height: 100% !important;
+        min-height: min-content !important;
     }
 }
 .promocodes-modal-title {
@@ -1814,5 +1814,12 @@
     .referral-detail-modal .swiper-container {
         width: 100vh !important;
         overflow-y: auto !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .chatBlock {
+        display: grid !important;
+        grid-template-rows: 48px 1fr 50px !important;
     }
 }
