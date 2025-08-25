@@ -1820,5 +1820,9 @@
     .inputChat {
         margin: 0 !Important;
     }
+    #signIn .modal {
+        min-height: 100vh !important;
+        height: 100vh !important;
+    }
 }
 
