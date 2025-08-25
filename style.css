@@ -1825,4 +1825,7 @@
         height: 100vh !important;
     }
 }
+.TelegramLinkModal__text {
+    max-width: 22% !important;
+}
 
