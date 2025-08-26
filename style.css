@@ -1778,7 +1778,7 @@
 }
 @media (max-width: 600px) {
     .chatBlock {
-        width: 97vw !important;
+        width: 100vw !important;
         max-height: 100dvh !important;
         height: max-content !important;
         min-height: 100dvh !important;
