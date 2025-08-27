@@ -1857,3 +1857,7 @@
 .game-providers-slot--large {
     grid-column: span 2;
 }
+
+.card-profile .vue-load-image {
+    width: 100% !important;
+}
