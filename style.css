@@ -1861,3 +1861,7 @@
 .card-profile .vue-load-image {
     width: 100% !important;
 }
+
+.card-img-top {
+    max-height: 100% !important;
+}
