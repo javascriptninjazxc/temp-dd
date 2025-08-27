@@ -1853,3 +1853,7 @@
     grid-template-columns: repeat(7, 140px) !important;
     grid-auto-flow: dense !important;
 }
+
+.game-providers-slot--large {
+    grid-column: span 2;
+}
