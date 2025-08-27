@@ -1847,3 +1847,9 @@
     border-radius: 0;
     box-shadow: 0 0 12px rgba(255, 82, 82, .7) !important;
 }
+
+.gameList {
+    grid-gap: 14px;
+    grid-template-columns: repeat(7, 140px) !important;
+    grid-auto-flow: dense !important;
+}
