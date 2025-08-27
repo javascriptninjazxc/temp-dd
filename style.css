@@ -960,6 +960,12 @@
     }
 }
 
+@media (max-width: 600px) {
+    .chatBlock {
+        width: 98vw !important;
+    }
+}
+
 .keno-swiper-item__cookie {
     white-space: nowrap;
 }
@@ -1767,6 +1773,7 @@
 }
 @media (max-width: 600px) {
     .chatBlock {
+        width: 100vw !important;
         max-height: 100dvh !important;
         height: max-content !important;
         min-height: 100dvh !important;
