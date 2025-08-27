@@ -1700,11 +1700,6 @@
         max-height: 100svh !important;
     }
 
-    .referral-detail-modal .swiper-container {
-        width: 100vh !important;
-        overflow-y: auto !important;
-    }
-
     .binding-modal-body {
         overflow: scroll !important;
         max-height: 100svh !important;
@@ -1790,7 +1785,8 @@
         overflow-y: auto !important;
     }
 }
-@media (max-width: 700px) and (orientation: landscape) {
+
+@media (orientation: landscape) and (max-width: 700px) {
     #infoWagerModal .modal-content {
         margin-top: 150px !important;
     }
@@ -1799,23 +1795,20 @@
         height: 100VH !important;
     }
 }
+
 @media (max-width: 870px) and (orientation: landscape) {
     .subMenu {
         left: 50%;
         transform: translateX(-100%);
     }
 }
+
 @media (min-width: 1025px) and (max-width: 1920px) {
     .TelegramLinkModal__text {
         max-width: 27% !important;
     }
 }
-@media (max-width: 700px) and  (orientation: landscape) {
-    .referral-detail-modal .swiper-container {
-        width: 100vh !important;
-        overflow-y: auto !important;
-    }
-}
+
 @media (max-width: 700px) {
     .inputChat {
         margin: 0 !Important;
@@ -1825,7 +1818,14 @@
         height: 100vh !important;
     }
 }
+
 .TelegramLinkModal__text {
     max-width: 22% !important;
 }
 
+@media (orientation: landscape) {
+    .referral-detail-modal .swiper-container {
+        width: 100vh !important;
+        overflow-y: auto !important;
+    }
+}
