@@ -1850,7 +1850,7 @@
 
 .gameList {
     grid-gap: 14px;
-    grid-template-columns: repeat(7, 140px) !important;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)) !important;
     grid-auto-flow: dense !important;
 }
 
