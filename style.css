@@ -1836,3 +1836,8 @@
         overflow-y: auto !important;
     }
 }
+@media (max-width: 500px) {
+    .crash-game {
+        height: max-content !important;
+    }
+}
