@@ -1,12 +1,12 @@
 .mainBody {
-        display: grid;
-        grid-template-columns: 240px 70px 1fr;
-        margin: 20px auto auto;
-        max-width: 1440px;
-        width: 90%;
-        gap: 10px !important;
-        box-sizing: content-box;
-    }
+    display: grid;
+    grid-template-columns: 240px 70px 1fr;
+    margin: 20px auto auto;
+    max-width: 1440px;
+    width: 90%;
+    gap: 10px !important;
+    box-sizing: content-box;
+}
 
 .user-avatar img {
     height: 32px;
@@ -855,10 +855,10 @@
         font-size: 0.55rem !important;
     }
 
-    .crash-game .ping {
-        width: fit-content !important;
-        font-size: 11px !important;
-    }
+        .crash-game .ping {
+            width: fit-content !important;
+            font-size: 11px !important;
+        }
 }
 
 .crash-game_history {
@@ -949,9 +949,9 @@
 }
 
 .footer-keno .swiper-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
 }
 
 @media (max-width: 500px) {
@@ -1870,14 +1870,33 @@
     margin-top: 10px !important;
 }
 
+@media (max-width: 1570px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(6, 140px) !important;
+    }
+}
 
-@media (max-width: 1400px) and (min-width: 1280px) and {
+@media (min-width: 1280px) and (max-width: 1400px) {
     .gameList {
         grid-gap: 14px;
         grid-template-columns: repeat(5, 140px) !important;
     }
 }
 
+@media (max-width: 1120px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(5, 140px) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(3, 140px) !important;
+    }
+}
 
 @media (max-width: 430px) {
     .gameList {
@@ -1890,34 +1909,4 @@
     .card .gameList {
         grid-template-columns: repeat(6, 140px) !important;
     }
-}
-@media (max-width: 430px) {
-    .gameList {
-        grid-gap: 14px;
-        grid-template-columns: repeat(3, 126px) !important;
-    }
-}
-@media (max-width: 1570px) {
-    grid-gap: 14px;
-    grid-template-columns: repeat(7, 135px) !important;
-}
-
-@media (max-width: 1120px)   {
-    grid-gap: 14px;
-    grid-template-columns: repeat(6, 145px) !important;
-}
-
-@media (max-width: 770px)   {
-    grid-gap: 14px;
-    grid-template-columns: repeat(5, 135px) !important;
-}
-
-@media (max-width: 600px) {
-    grid-gap: 14px;
-    grid-template-columns: repeat(4, 126px) !important;
-}
-
-@media (max-width: 1270px) {
-    grid-gap: 14px;
-    grid-template-columns: repeat(7, 134px) !important;
 }
