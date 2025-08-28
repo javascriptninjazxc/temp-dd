@@ -1916,3 +1916,6 @@
         grid-template-columns: repeat(4, 140px) !important;
     }
 }
+@media (max-width: 975px) {
+    grid-template-columns: repeat(5, 140px) !important;
+}
