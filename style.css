@@ -1869,3 +1869,15 @@
 .condition-descr {
     margin-top: 10px !important;
 }
+@media (max-width: 1570px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(6, 140px) !important;
+    }
+}
+@media (min-width: 1280px) and (max-width: 1400px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(5, 140px) !important;
+    }
+}
