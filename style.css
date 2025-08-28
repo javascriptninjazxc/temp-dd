@@ -1865,3 +1865,7 @@
 .darkState .descTopMine {
     color: #656f94 !important;
 }
+
+.condition-descr {
+    margin-top: 10px !important;
+}
