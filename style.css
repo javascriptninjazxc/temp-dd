@@ -1932,7 +1932,7 @@
 
 @media (max-width: 614px) {
     .gameList {
-        grid-template-columns: repeat(3, 31.33%) !important;
+        grid-template-columns: repeat(3, 33.33%) !important;
     }
 }
 
