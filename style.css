@@ -1910,12 +1910,6 @@
         grid-template-columns: repeat(6, 132px) !important;
     }
 }
-@media (min-width: 372px) and (max-width: 430px) {
-    .gameList {
-        grid-gap: 14px;
-        grid-template-columns: repeat(3, 126px) !important;
-    }
-}
 @media (min-width: 1418px) and (max-width: 1569px) {
     .gameList {
         grid-template-columns: repeat(6, 140px) !important;
@@ -1951,5 +1945,12 @@
 @media (max-width: 340px) {
     .gameList {
         grid-template-columns: repeat(2, 140px) !important;
+    }
+}
+
+@media (min-width: 372px) and (max-width: 430px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(3, 126px) !important;
     }
 }
