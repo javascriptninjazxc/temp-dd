@@ -1870,12 +1870,6 @@
     margin-top: 10px !important;
 }
 
-@media (max-width: 1570px) {
-    .gameList {
-        grid-gap: 14px;
-        grid-template-columns: repeat(6, 17.285714%) !important;
-    }
-}
 
 @media (min-width: 1280px) and (max-width: 1400px) {
     .gameList {
@@ -1907,12 +1901,12 @@
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     .card .gameList {
-        grid-template-columns: repeat(7, 13.3%) !important;
+        grid-template-columns: repeat(7, 15.5%) !important;
     }
 }
 @media (min-width: 1418px) and (max-width: 1569px) {
     .gameList {
-        grid-template-columns: repeat(6, 140px) !important;
+        grid-template-columns: repeat(6, 15.2%) !important;
     }
 }
 
