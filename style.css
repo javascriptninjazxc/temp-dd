@@ -1920,3 +1920,7 @@
 @media (min-width: 1418px) and (max-width: 1570px) {
     grid-template-columns: repeat(7, 135px) !important;
 }
+
+@media (min-width: 942px) and (max-width: 1120px) {
+    grid-template-columns: repeat(6, 145px) !important;
+}
