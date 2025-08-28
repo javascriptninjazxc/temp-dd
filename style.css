@@ -1845,7 +1845,7 @@
 
 .Vue-Toastification__toast {
     border-radius: 0;
-    box-shadow: 0 0 12px rgba(255, 82, 82, .7) !important;
+    box-shadow: none !important;
 }
 
 .gameList {
