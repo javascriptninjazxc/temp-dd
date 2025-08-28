@@ -1891,24 +1891,24 @@
         grid-template-columns: repeat(6, 140px) !important;
     }
 }
-@media (min-width: 372px) and (max-width: 430px) {
+@media (max-width: 430px) {
     .gameList {
         grid-gap: 14px;
         grid-template-columns: repeat(3, 126px) !important;
     }
 }
-@media (max-width: 1570px) and (min-width: 1418px) {
+@media (max-width: 1570px)) {
     grid-template-columns: repeat(7, 135px) !important;
 }
 
-@media (max-width: 1120px) and (min-width: 942px)  {
+@media (max-width: 1120px)   {
     grid-template-columns: repeat(6, 145px) !important;
 }
 
-@media (max-width: 770px) and  (min-width: 635px)  {
+@media (max-width: 770px)   {
     grid-template-columns: repeat(5, 135px) !important;
 }
 
-@media (max-width: 600px) and (min-width: 474px)  {
+@media (max-width: 600px) {
     grid-template-columns: repeat(4, 126px) !important;
 }
