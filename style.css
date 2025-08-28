@@ -1873,7 +1873,7 @@
 @media (max-width: 1570px) {
     .gameList {
         grid-gap: 14px;
-        grid-template-columns: repeat(7, 13.285714%) !important;
+        grid-template-columns: repeat(6, 17.285714%) !important;
     }
 }
 
