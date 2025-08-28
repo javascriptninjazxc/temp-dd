@@ -1891,12 +1891,6 @@
     }
 }
 
-@media (max-width: 600px) {
-    .gameList {
-        grid-gap: 14px;
-        grid-template-columns: repeat(3, 140px) !important;
-    }
-}
 
 @media (max-width: 430px) {
     .gameList {
@@ -1923,6 +1917,11 @@
 @media (min-width: 942px) and (max-width: 1120px) {
     grid-template-columns: repeat(6, 145px) !important;
 }
+
 @media (min-width: 635px) and (max-width: 770px) {
     grid-template-columns: repeat(5, 135px) !important;
+}
+
+@media (min-width: 474px) and (max-width: 600px) {
+    grid-template-columns: repeat(4, 126px) !important;
 }
