@@ -1907,7 +1907,7 @@
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     .card .gameList {
-        grid-template-columns: repeat(6, 132px) !important;
+        grid-template-columns: repeat(7, 13.3%) !important;
     }
 }
 @media (min-width: 1418px) and (max-width: 1569px) {
