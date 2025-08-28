@@ -1938,7 +1938,7 @@
 
 @media (min-width: 382px) and (max-width: 440px) {
     .gameList {
-        grid-template-columns: repeat(3, 126px) !important;
+        grid-template-columns: repeat(3, 31%) !important;
     }
 }
 
