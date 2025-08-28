@@ -1951,6 +1951,6 @@
 @media (min-width: 340px) and (max-width: 381px) {
     .gameList {
         grid-gap: 14px;
-        grid-template-columns: repeat(3, 33.33%) !important;
+        grid-template-columns: repeat(3, 31.33%) !important;
     }
 }
