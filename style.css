@@ -1946,3 +1946,10 @@
     }
 }
 
+@media (max-width: 614px) {
+    .gameList {
+        grid-template-columns: repeat(3, 140px) !important;
+    }
+}
+
+
