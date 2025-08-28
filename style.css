@@ -1910,3 +1910,9 @@
         grid-template-columns: repeat(6, 140px) !important;
     }
 }
+@media (max-width: 700px) {
+    .gameList {
+        grid-gap: 14px;
+        grid-template-columns: repeat(4, 140px) !important;
+    }
+}
