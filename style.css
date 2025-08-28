@@ -1928,17 +1928,7 @@
     }
 }
 
-@media (max-width: 340px) {
-    .gameList {
-        grid-template-columns: repeat(2, 140px) !important;
-    }
-}
 
-@media (max-width: 440px) {
-    .gameList {
-        grid-template-columns: repeat(3, 126px) !important;
-    }
-}
 
 @media (max-width: 760px) {
     .gameList {
@@ -1952,4 +1942,14 @@
     }
 }
 
+@media (max-width: 440px) {
+    .gameList {
+        grid-template-columns: repeat(3, 126px) !important;
+    }
+}
 
+@media (max-width: 340px) {
+    .gameList {
+        grid-template-columns: repeat(2, 140px) !important;
+    }
+}
