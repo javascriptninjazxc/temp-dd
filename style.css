@@ -1954,3 +1954,6 @@
         grid-template-columns: repeat(3, 31.33%) !important;
     }
 }
+.socketConnection {
+    box-shadow: 0 -3px 20px 0 rgba(27, 127, 66, 0.5) !important;
+}
