@@ -1897,7 +1897,7 @@
         grid-template-columns: repeat(3, 126px) !important;
     }
 }
-@media (max-width: 1570px)) {
+@media (max-width: 1570px) {
     grid-template-columns: repeat(7, 135px) !important;
 }
 
