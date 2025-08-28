@@ -1861,3 +1861,7 @@
 .card-profile .vue-load-image {
     width: 100% !important;
 }
+
+.darkState .descTopMine {
+    color: #656f94 !important;
+}
