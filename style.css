@@ -1948,9 +1948,9 @@
     }
 }
 
-@media (min-width: 372px) and (max-width: 430px) {
+@media (max-width: 372px) {
     .gameList {
         grid-gap: 14px;
-        grid-template-columns: repeat(3, 126px) !important;
+        grid-template-columns: repeat(3, 33.33%) !important;
     }
 }
