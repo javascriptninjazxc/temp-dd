@@ -1898,21 +1898,26 @@
     }
 }
 @media (max-width: 1570px) {
+    grid-gap: 14px;
     grid-template-columns: repeat(7, 135px) !important;
 }
 
 @media (max-width: 1120px)   {
+    grid-gap: 14px;
     grid-template-columns: repeat(6, 145px) !important;
 }
 
 @media (max-width: 770px)   {
+    grid-gap: 14px;
     grid-template-columns: repeat(5, 135px) !important;
 }
 
 @media (max-width: 600px) {
+    grid-gap: 14px;
     grid-template-columns: repeat(4, 126px) !important;
 }
 
 @media (max-width: 1270px) {
+    grid-gap: 14px;
     grid-template-columns: repeat(7, 134px) !important;
 }
