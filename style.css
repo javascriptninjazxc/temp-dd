@@ -1924,7 +1924,7 @@
 
 @media (min-width: 942px) and (max-width: 1120px) {
     .gameList {
-        grid-template-columns: repeat(6, 145px) !important;
+        grid-template-columns: repeat(5, 145px) !important;
     }
 }
 @media (min-width: 635px) and (max-width: 770px) {
