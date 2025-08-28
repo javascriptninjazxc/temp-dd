@@ -1910,12 +1910,25 @@
         grid-template-columns: repeat(6, 140px) !important;
     }
 }
-@media (max-width: 700px) {
+@media (min-width: 372px) and (max-width: 430px) {
     .gameList {
         grid-gap: 14px;
-        grid-template-columns: repeat(4, 140px) !important;
+        grid-template-columns: repeat(3, 126px) !important;
     }
 }
-@media (max-width: 975px) {
-    grid-template-columns: repeat(5, 140px) !important;
+@media (min-width: 1418px) and (max-width: 1569px) {
+    .gameList {
+        grid-template-columns: repeat(7, 135px) !important;
+    }
+}
+
+@media (min-width: 942px) and (max-width: 1120px) {
+    .gameList {
+        grid-template-columns: repeat(6, 145px) !important;
+    }
+}
+@media (min-width: 635px) and (max-width: 770px) {
+    .gameList {
+        grid-template-columns: repeat(5, 135px) !important;
+    }
 }
