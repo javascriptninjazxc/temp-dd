@@ -1905,3 +1905,9 @@
         grid-template-columns: repeat(2, 140px) !important;
     }
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .card .gameList {
+        grid-template-columns: repeat(6, 140px) !important;
+    }
+}
