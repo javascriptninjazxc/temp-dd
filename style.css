@@ -1918,7 +1918,7 @@
 
 @media (min-width: 942px) and (max-width: 1120px) {
     .gameList {
-        grid-template-columns: repeat(5, 145px) !important;
+        grid-template-columns: repeat(5, 18.6%) !important;
     }
 }
 
@@ -1932,7 +1932,7 @@
 
 @media (max-width: 614px) {
     .gameList {
-        grid-template-columns: repeat(3, 140px) !important;
+        grid-template-columns: repeat(3, 31.33%) !important;
     }
 }
 
