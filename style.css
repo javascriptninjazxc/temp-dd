@@ -1848,7 +1848,7 @@
     box-shadow: 0 0 12px rgba(255, 82, 82, .7) !important;
 }
 
-.gameList {
+.game-providers--list {
     grid-gap: 14px;
     grid-template-columns: repeat(6, 140px) !important;
     grid-auto-flow: dense !important;
