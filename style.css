@@ -1871,53 +1871,53 @@
 }
 
 @media (max-width: 1570px) {
-    .gameList {
+    .game-providers--list {
         grid-gap: 14px;
         grid-template-columns: repeat(6, 15.285714%) !important;
     }
 }
 
 @media (min-width: 1280px) and (max-width: 1400px) {
-    .gameList {
+    .game-providers--list {
         grid-gap: 14px;
         grid-template-columns: repeat(6, 121px) !important;
     }
 }
 
 @media (max-width: 1120px) {
-    .gameList {
+    .game-providers--list {
         grid-gap: 14px;
         grid-template-columns: repeat(6, 15.5%) !important;
     }
 }
 
 @media (max-width: 600px) {
-    .gameList {
+    .game-providers--list {
         grid-gap: 14px;
         grid-template-columns: repeat(3, 140px) !important;
     }
 }
 
 @media (max-width: 430px) {
-    .gameList {
+    .game-providers--list {
         grid-gap: 14px;
         grid-template-columns: repeat(3, 110px) !important;
     }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .card .gameList {
+    .card .game-providers--list {
         grid-template-columns: repeat(7, 13.3%) !important;
     }
 }
 @media (min-width: 1418px) and (max-width: 1569px) {
-    .gameList {
+    .game-providers--list {
         grid-template-columns: repeat(6, 140px) !important;
     }
 }
 
 @media (min-width: 942px) and (max-width: 1120px) {
-    .gameList {
+    .game-providers--list {
         grid-template-columns: repeat(5, 18.6%) !important;
     }
 }
@@ -1925,31 +1925,31 @@
 
 
 @media (max-width: 760px) {
-    .gameList {
+    .game-providers--list {
         grid-template-columns: repeat(5, 18.5%) !important;
     }
 }
 
 @media (max-width: 614px) {
-    .gameList {
+    .game-providers--list {
         grid-template-columns: repeat(4, 23.33%) !important;
     }
 }
 
 @media (min-width: 382px) and (max-width: 440px) {
-    .gameList {
+    .game-providers--list {
         grid-template-columns: repeat(3, 31%) !important;
     }
 }
 
 @media (max-width: 340px) {
-    .gameList {
+    .game-providers--list {
         grid-template-columns: repeat(2, 50%) !important;
     }
 }
 
 @media (min-width: 340px) and (max-width: 381px) {
-    .gameList {
+    .game-providers--list {
         grid-gap: 14px;
         grid-template-columns: repeat(3, 31.33%) !important;
     }
