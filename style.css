@@ -1912,7 +1912,7 @@
 }
 @media (min-width: 1418px) and (max-width: 1569px) {
     .game-providers--list {
-        grid-template-columns: repeat(6, 140px) !important;
+        grid-template-columns: repeat(7, 140px) !important;
     }
 }
 
