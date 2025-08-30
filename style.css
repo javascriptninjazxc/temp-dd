@@ -1960,3 +1960,7 @@
 .Vue-Toastification__toast.Vue-Toastification__toast--error.bottom-center.socketConnection {
     box-shadow: 0 -3px 20px 0 rgba(255, 139, 0, 0.4) !important;
 }
+
+.PaymentInfoModal__content payment-info-modal--method {
+    gap: 5px;
+}
