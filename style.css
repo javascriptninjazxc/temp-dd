@@ -1964,3 +1964,7 @@
 .PaymentInfoModal__content payment-info-modal--method {
     gap: 5px;
 }
+
+.PaymentInfoModal__item .PaymentInfoModal__content {
+    gap: 5px;
+}
