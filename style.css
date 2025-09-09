@@ -1954,13 +1954,13 @@
         grid-template-columns: repeat(3, 31.33%) !important;
     }
 }
-.Vue-Toastification__toast.Vue-Toastification__toast--success.bottom-center.socketConnection{
-    box-shadow: 0 -3px 20px 0 rgba(27, 127, 66, 0.5) !important;
-}
+/*.Vue-Toastification__toast.Vue-Toastification__toast--success.bottom-center.socketConnection{*/
+/*    box-shadow: 0 -3px 20px 0 rgba(27, 127, 66, 0.5) !important;*/
+/*}*/
 
-.Vue-Toastification__toast.Vue-Toastification__toast--error.bottom-center.socketConnection {
-    box-shadow: 0 -3px 20px 0 rgba(255, 139, 0, 0.4) !important;
-}
+/*.Vue-Toastification__toast.Vue-Toastification__toast--error.bottom-center.socketConnection {*/
+/*    box-shadow: 0 -3px 20px 0 rgba(255, 139, 0, 0.4) !important;*/
+/*}*/
 
 @media (max-width: 765px) {
     .wb-game--info__dice {
