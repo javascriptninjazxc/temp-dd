@@ -1969,3 +1969,7 @@
     right: -6px;
     top: -2px;
 }
+
+.keno-field .table {
+    grid-template-columns: repeat(8, minmax(0, 85px)) !important;
+}
