@@ -1973,3 +1973,8 @@
 .keno-field .table {
     grid-template-columns: repeat(8, minmax(0, 85px)) !important;
 }
+
+.fa-arrow-up:before {
+    display: inline-block;
+    transform: rotate(180deg) !important;
+}
