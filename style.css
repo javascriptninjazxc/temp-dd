@@ -1978,3 +1978,7 @@
     display: inline-block;
     transform: rotate(180deg) !important;
 }
+
+.bubbles-tools__container .buttonMain {
+    margin-top: 0px !important;
+}
