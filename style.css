@@ -1991,8 +1991,3 @@
 .darkState .wb-game--info__mobile:active, .darkState .wb-game--info__mobile:hover {
     background: transparent !important;
 }
-
-.wb-game--info__mobile img{
-    width: 23px !important;
-    height: 23px !important;
-}
