@@ -2084,11 +2084,19 @@
         gap: 5px;
         grid-template-columns: 1fr 1fr !important;
     }
+
 }
 
 @media (max-width: 250px) {
     .gameList {
         gap: 5px;
         grid-template-columns: 1fr !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .card-profile>div.vue-load-image>img[data-v-df0eae50] {
+        max-height: 0px !important;
+        min-height: 0px !important;
     }
 }
