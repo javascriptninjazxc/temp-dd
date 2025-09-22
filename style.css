@@ -2050,3 +2050,7 @@
         z-index: -1 !important;
         position: relative;
     }
+
+    #mainBlock .home__header {
+        z-index: -1;
+    }
