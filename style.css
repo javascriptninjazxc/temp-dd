@@ -1726,7 +1726,7 @@
         z-index: 0;
     }
     .userBlock {
-        z-index: 0 !important;
+        z-index: -1 !important;
         position: relative;
     }
 
