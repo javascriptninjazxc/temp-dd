@@ -2038,3 +2038,6 @@
     }
 }
 
+.thirdBlock .topMenu {
+    z-index: 0 !important;
+}
