@@ -2003,3 +2003,10 @@
         grid-template-columns: 1fr 1fr 1fr !important;
     }
 }
+
+@media (max-width: 400px) {
+    .gameList {
+        gap: 5px;
+        grid-template-columns: 1fr 1fr !important;
+    }
+}
