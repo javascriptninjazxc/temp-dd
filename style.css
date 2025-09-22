@@ -2096,7 +2096,7 @@
 
 @media (max-width: 992px) {
     .card-profile>div.vue-load-image>img {
-        max-height: 233px !important;g
-        min-height: 205px;
+        max-height: 240px !important;
+        min-height: 240px;
     }
 }
