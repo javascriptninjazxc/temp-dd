@@ -2039,7 +2039,7 @@
 }
 
 .thirdBlock .topMenu {
-    z-index: 0 !important;
+    z-index: 1 !important;
 }
 
 .changeColorBlock {
@@ -2059,4 +2059,33 @@
     .card-profile>div.vue-load-image>img[data-v-df0eae50] {
         min-height: fit-content !important;
     }
+}
+
+@media (max-width: 500px) {
+    .gameList {
+        gap: 5px;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.card-game {
+    border-radius: 10px;
+    height: 100%;
+}
+
+.card-profile .vue-load-image {
+    width: 100% !important;
+}
+
+.vue-load-image {
+    height: 100%;
+}
+
+.card-img-top {
+    height: 100%;
+    object-fit: contain;
+}
+
+.card-overlay {
+    z-index: 2;
 }
