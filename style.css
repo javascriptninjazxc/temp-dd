@@ -2015,7 +2015,7 @@
     }
 }
 
-@media (min-width: 800px) and (max-width: 1920px) {
+@media (max-width: 1920px) {
     .promocodes-modal-mobile {
         display: none !important;
     }
