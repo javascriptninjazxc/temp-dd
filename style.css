@@ -1992,7 +1992,7 @@
     background: transparent !important;
 }
 
-.darkState .secondary {
+.darkState .binding-modal-content button.secondary {
     background: rgba(56, 60, 91, 1);
     color: white;
 }
