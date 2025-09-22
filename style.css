@@ -2045,3 +2045,8 @@
 .changeColorBlock {
     z-index: -1 !important;
 }
+
+    .userBlock {
+        z-index: -1 !important;
+        position: relative;
+    }
