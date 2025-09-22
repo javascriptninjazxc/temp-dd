@@ -1986,3 +1986,8 @@
 .darkState .wb-game--info__dice--mobile:active, .darkState .wb-game--info__dice--mobile:hover {
     background: transparent !important;
 }
+
+
+.darkState .wb-game--info__mobile:active, .darkState .wb-game--info__mobile:hover {
+    background: transparent !important;
+}
