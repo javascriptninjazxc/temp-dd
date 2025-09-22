@@ -1984,5 +1984,5 @@
 }
 
 .darkState .wb-game--info:active, .darkState .wb-game--info:hover {
-    background: transparent;
+    background: transparent !important;
 }
