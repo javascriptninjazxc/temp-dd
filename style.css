@@ -2014,3 +2014,15 @@
         grid-template-columns: 1fr 1fr !important;
     }
 }
+
+@media (min-width: 800px) and (max-width: 1920px) {
+    .promocodes-modal-mobile {
+        display: none !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .promocodes-modal-mobile {
+        display: block !important;
+    }
+}
