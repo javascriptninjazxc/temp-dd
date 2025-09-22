@@ -2041,3 +2041,7 @@
 .thirdBlock .topMenu {
     z-index: 0 !important;
 }
+
+.changeColorBlock {
+    z-index: -1 !important;
+}
