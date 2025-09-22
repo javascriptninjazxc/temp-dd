@@ -2041,7 +2041,7 @@
 .thirdBlock .topMenu {
     z-index: 1 !important;
 }
-
+@media (max-aspect-ratio: )
 .changeColorBlock {
     z-index: -1 !important;
 }
@@ -2056,36 +2056,32 @@
     }
 
 @media (max-width: 600px) {
-    .card-profile>div.vue-load-image>img[data-v-df0eae50] {
-        min-height: fit-content !important;
+    .card-game {
+        border-radius: 10px;
+        height: 100% !important;
+    }
+
+    .card-profile .vue-load-image {
+        width: 100% !important;
+    }
+
+    .vue-load-image {
+        height: 100% !important;
+    }
+
+    .card-img-top {
+        height: 100% !important;
+        object-fit: contain !important;
+    }
+
+    .card-overlay {
+        z-index: 2;
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .gameList {
         gap: 5px;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr !important;
     }
-}
-
-.card-game {
-    border-radius: 10px;
-    height: 100%;
-}
-
-.card-profile .vue-load-image {
-    width: 100% !important;
-}
-
-.vue-load-image {
-    height: 100%;
-}
-
-.card-img-top {
-    height: 100%;
-    object-fit: contain;
-}
-
-.card-overlay {
-    z-index: 2;
 }
