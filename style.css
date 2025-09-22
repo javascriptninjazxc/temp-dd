@@ -2002,6 +2002,10 @@
         gap: 5px;
         grid-template-columns: 1fr 1fr 1fr !important;
     }
+
+    .bubbles-tools__container .buttonMain[data-v-70f5a200] {
+        margin: 0 !important;
+    }
 }
 
 @media (max-width: 400px) {
