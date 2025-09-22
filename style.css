@@ -1991,3 +1991,8 @@
 .darkState .wb-game--info__mobile:active, .darkState .wb-game--info__mobile:hover {
     background: transparent !important;
 }
+
+.darkState .secondary {
+    background: rgba(56, 60, 91, 1);
+    color: white;
+}
