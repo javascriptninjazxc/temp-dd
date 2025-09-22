@@ -1992,7 +1992,7 @@
     background: transparent !important;
 }
 
-.wb-game--info__mobile {
+.wb-game--info__mobile img{
     width: 23px !important;
     height: 23px !important;
 }
