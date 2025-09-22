@@ -2025,4 +2025,10 @@
     .promocodes-modal-mobile {
         display: block !important;
     }
+
+    .promocodes-timer__issued-value {
+        position: relative;
+        top: -9px;
+    }
 }
+
