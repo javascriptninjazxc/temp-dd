@@ -1996,3 +1996,10 @@
     background: rgba(56, 60, 91, 1);
     color: white;
 }
+
+@media (max-width: 500px) {
+    .gameList {
+        gap: 5px;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
