@@ -2054,3 +2054,9 @@
     #mainBlock .home__header {
         z-index: -1;
     }
+
+@media (max-width: 600px) {
+    .card-profile>div.vue-load-image>img[data-v-df0eae50] {
+        min-height: fit-content !important;
+    }
+}
