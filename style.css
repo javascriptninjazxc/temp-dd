@@ -1983,6 +1983,6 @@
     margin-top: 0px !important;
 }
 
-.darkState .wb-game--info:active, .darkState .wb-game--info:hover {
+.darkState .wb-game--info__dice--mobile:active, .darkState .wb-game--info__dice--mobile:hover {
     background: transparent !important;
 }
