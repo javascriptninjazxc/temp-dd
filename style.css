@@ -2038,10 +2038,3 @@
     }
 }
 
-@media (max-width: 764px) {
-    .wb-game--info__dice--mobile {
-        display: none !important;
-    }
-}
-
-
