@@ -2098,7 +2098,7 @@
     }
 }
 
-.darkState .modal-content .swiper-slide .TelegramLinkModal__text {
+.darkState .TelegramLinkModal__text--current {
     color: rgb(69, 200, 161) !important;
 }
 
