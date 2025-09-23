@@ -1957,12 +1957,6 @@
 /*    box-shadow: 0 -3px 20px 0 rgba(255, 139, 0, 0.4) !important;*/
 /*}*/
 
-@media (max-width: 765px) {
-    .wb-game--info__dice {
-        position: relative !important;
-        top: -131px !important;
-    }
-}
 
 .user-avatar .user-notifications {
     position: absolute;
