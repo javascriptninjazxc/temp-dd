@@ -2108,6 +2108,5 @@
 }
 
 .darkState .TelegramLinkModal__text {
-    color: rgb(69, 200, 161);
-    line-height: 34px;
+    color: rgb(69, 200, 161) !important;
 }
