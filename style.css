@@ -2038,9 +2038,6 @@
     }
 }
 
-.thirdBlock .topMenu {
-    z-index: 1 !important;
-}
 @media (max-aspect-ratio: )
 .changeColorBlock {
     z-index: -1 !important;
