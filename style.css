@@ -1121,7 +1121,7 @@
 }
 
 .topMenu {
-    z-index: 1 !important;
+    z-index: 0 !important;
 }
 
 .avatar-modal {
@@ -2039,7 +2039,7 @@
 }
 
 .thirdBlock .topMenu {
-    z-index: 1 !important;
+    z-index: 0 !important;
 }
 @media (max-aspect-ratio: )
 .changeColorBlock {
