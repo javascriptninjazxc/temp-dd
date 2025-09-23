@@ -2110,3 +2110,7 @@
 .darkState .modal-content .swiper-slide .TelegramLinkModal__text {
     color: rgb(69, 200, 161) !important;
 }
+
+.games-modal {
+    min-width: 380px;
+}
