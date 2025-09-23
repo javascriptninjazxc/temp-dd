@@ -2100,3 +2100,14 @@
         min-height: 240px;
     }
 }
+
+@media (min-width: 1025px) and (max-width: 1975px) {
+    #modalRedDetail .modal-content {
+        width: 394px !Important;
+    }
+}
+
+.darkState .TelegramLinkModal__text {
+    color: rgb(69, 200, 161);
+    line-height: 34px;
+}
