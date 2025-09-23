@@ -2114,9 +2114,3 @@
 .games-modal {
     min-width: 380px;
 }
-
-.promocodes-label .base-input-btn {
-    text-transform: uppercase;
-    background: #ff9e0a !important;
-    color: #fff !important;
-}
