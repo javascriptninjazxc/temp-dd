@@ -2106,7 +2106,8 @@
     min-width: 380px;
 }
 
-.darkState .wb-game--info__keno {
+.darkState .wb-game--info__keno:active, .darkState .wb-game--info__keno:hover {
     background: #9F8FF8 !important;
 }
+
 
