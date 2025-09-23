@@ -2105,3 +2105,8 @@
 .games-modal {
     min-width: 380px;
 }
+
+.darkState .wb-game--info__keno {
+    background: #9F8FF8 !important;
+}
+
