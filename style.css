@@ -2115,4 +2115,6 @@
     background: #ff9e0a !important;
 }
 
-
+.darkState .wb-game--info p {
+    color: rgb(104, 114, 152);
+}
