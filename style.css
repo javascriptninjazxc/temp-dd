@@ -2122,3 +2122,10 @@
 #modalRedDetail .modal-content {
     height: 674px !important;
 }
+
+@media (max-width: 500px) {
+    .topMenu {
+        z-index: 1 !important;
+    }
+}
+
