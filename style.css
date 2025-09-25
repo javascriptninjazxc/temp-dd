@@ -2129,3 +2129,8 @@
     }
 }
 
+. wb-game--info__keno-mobile {
+    position: relative;
+    top: -50px;
+}
+
