@@ -2153,3 +2153,7 @@
     z-index: -1;
     position: relative;
 }
+
+#mainBlock {
+    z-index: -1;
+}
