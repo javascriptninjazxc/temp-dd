@@ -2134,3 +2134,7 @@
     top: -50px;
 }
 
+.crash-game_container {
+    z-index: -1 ;
+    position: relative;
+}
