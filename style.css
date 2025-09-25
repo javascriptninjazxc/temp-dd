@@ -2157,3 +2157,8 @@
 #mainBlock {
     z-index: -1;
 }
+
+.window {
+    z-index: -1;
+    position: relative;
+}
