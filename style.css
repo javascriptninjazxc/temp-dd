@@ -2167,3 +2167,13 @@
     z-index: -1;
     position: relative;
 }
+
+.games  {
+    z-index: -1;
+    position: relative;
+}
+
+.mines-container {
+    z-index: -1;
+    position: relative;
+}
