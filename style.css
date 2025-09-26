@@ -2162,3 +2162,8 @@
     z-index: -1;
     position: relative;
 }
+
+.crash-game_container {
+    z-index: -1;
+    position: relative;
+}
