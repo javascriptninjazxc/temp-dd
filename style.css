@@ -2182,3 +2182,7 @@
     z-index: -1;
     position: relative;
 }
+
+.chatTop .autoScroll {
+    transform: rotate(180deg);
+}
