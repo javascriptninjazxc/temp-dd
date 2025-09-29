@@ -1996,3 +1996,9 @@
         background: transparent !important;
     }
 }
+
+@media (max-width: 500px) {
+    .mines-mob__bid .buttonMain {
+        margin: 0 !important;
+    }
+}
