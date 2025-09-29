@@ -1972,3 +1972,21 @@
 .faq-container {
     z-index: 1 !important;
 }
+
+.jackpot-tutorial-mobile {
+    display: none;
+}
+
+.jackpot-tutorial-pc {
+    display: flex;
+}
+
+@media screen and (max-width: 768px) {
+    .jackpot-tutorial-pc {
+        display: none;
+    }
+
+    .jackpot-tutorial-mobile {
+        display: block;
+    }
+}
