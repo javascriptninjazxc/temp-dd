@@ -1968,3 +1968,7 @@
         top: -131px !important;
     }
 }
+
+.faq-container {
+    z-index: 1 !important;
+}
