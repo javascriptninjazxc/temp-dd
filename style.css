@@ -1990,3 +1990,9 @@
         display: block;
     }
 }
+
+@media (max-width: 768px) {
+    .darkState .wb-game--info:active, .darkState .wb-game--info:hover {
+        background: transparent !important;
+    }
+}
