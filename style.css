@@ -2012,3 +2012,7 @@
         background-color: #9F8FF8 !important;
     }
 }
+
+.user-avatar .user-notifications {
+    top: -2px !important;
+}
