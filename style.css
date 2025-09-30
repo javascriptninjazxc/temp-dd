@@ -1461,9 +1461,11 @@
     }
 }
 
-.modal-open {
-    height: 100dvh;
-    overflow: hidden;
+@media (max-width: 1024px) and (orientation: landscape) {
+    .modal-open {
+        height: 100dvh;
+        overflow: hidden;
+    }
 }
 
 /*!*@media (max-width: 600px) and (orientation: landscape) {*!*/
