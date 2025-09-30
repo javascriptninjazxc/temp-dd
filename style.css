@@ -2027,3 +2027,7 @@
     z-index: -1 !important;
     position: relative;
 }
+
+.darkState .wb-game--info:active, .darkState .wb-game--info:hover {
+    background: #9f8ff8 !important;
+}
