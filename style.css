@@ -1142,9 +1142,11 @@
     margin-bottom: 15px;
 }
 
-.modal-open .topMenu {
-    z-index: 0 !important;
-}
+/*.modal-open .topMenu {*/
+/*    z-index: 0 !important;*/
+/*}*/
+
+
 @media (max-width: 500px) {
     .balanceMenuOpen .buttonsBlock a {
         margin: 0 !important;
@@ -1162,13 +1164,13 @@
     margin-top: 7px !important;
 }
 
-.modal-open .topMenu {
-    z-index: 0 !important;
-}
+/*.modal-open .topMenu {*/
+/*    z-index: 0 !important;*/
+/*}*/
 
-.modal-open .secondBlock {
-    z-index: 0 !important;
-}
+/*.modal-open .secondBlock {*/
+/*    z-index: 0 !important;*/
+/*}*/
 @media (max-width: 500px) {
     .promocodes-label .base-input-wrapper .base-input-btn {
         margin: 0 !important;
@@ -1461,7 +1463,7 @@
 
 @media (max-width: 1024px) and (orientation: landscape) {
     .modal-open {
-        height: 100svh;
+        height: 100dvh;
         overflow: hidden;
     }
 }
