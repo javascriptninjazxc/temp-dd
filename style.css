@@ -2020,3 +2020,8 @@
 .darkState .wb-game--info:active, .darkState .wb-game--info:hover {
     background: transparent !important;
 }
+
+.mines-container {
+    z-index: -1 !important;
+    position: relative;
+}
