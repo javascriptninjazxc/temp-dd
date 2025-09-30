@@ -2002,3 +2002,13 @@
         margin: 0 !important;
     }
 }
+
+.darkState {
+    .crash-game_spin-btn {
+        background-color: #9F8FF8 !important;
+    }
+
+    .crash-game_spin-btn {
+        background-color: #9F8FF8 !important;
+    }
+}
