@@ -2016,3 +2016,7 @@
 .user-avatar .user-notifications {
     top: -2px !important;
 }
+
+.darkState .wb-game--info:active, .darkState .wb-game--info:hover {
+    background: transparent !important;
+}
