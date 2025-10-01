@@ -2037,3 +2037,7 @@
         margin: 0 !important;
     }
 }
+
+.game-crash img {
+    width: 28px !important;
+}
