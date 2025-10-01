@@ -1142,10 +1142,9 @@
     margin-bottom: 15px;
 }
 
-/*.modal-open .topMenu {*/
-/*    z-index: 0 !important;*/
-/*}*/
-
+.modal-open .topMenu {
+    z-index: 0 !important;
+}
 
 @media (max-width: 500px) {
     .balanceMenuOpen .buttonsBlock a {
@@ -1164,13 +1163,13 @@
     margin-top: 7px !important;
 }
 
-/*.modal-open .topMenu {*/
-/*    z-index: 0 !important;*/
-/*}*/
+.modal-open .topMenu {
+    z-index: 0 !important;
+}
 
-/*.modal-open .secondBlock {*/
-/*    z-index: 0 !important;*/
-/*}*/
+.modal-open .secondBlock {
+    z-index: 0 !important;
+}
 @media (max-width: 500px) {
     .promocodes-label .base-input-wrapper .base-input-btn {
         margin: 0 !important;
@@ -1468,11 +1467,11 @@
     }
 }
 
-/*!*@media (max-width: 600px) and (orientation: landscape) {*!*/
-/*!*    .modal-dialog-centered {*!*/
-/*!*      padding-top: 81px !important;*!*/
-/*!*    }*!*/
-/*!*}*!*/
+/*@media (max-width: 600px) and (orientation: landscape) {*/
+/*    .modal-dialog-centered {*/
+/*      padding-top: 81px !important;*/
+/*    }*/
+/*}*/
 
 @media (max-width: 760px)  {
     .bonusBlock-flex {
@@ -1535,11 +1534,11 @@
     }
 }
 
-/*@media (min-width: 576px) {*/
-/*    .modal-dialog-centered {*/
-/*        min-height: 100% !important;*/
-/*    }*/
-/*}*/
+@media (min-width: 576px) {
+    .modal-dialog-centered {
+        min-height: 100% !important;
+    }
+}
 
 .game-info-modal {
     margin-bottom: 0 !important;
