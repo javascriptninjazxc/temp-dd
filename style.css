@@ -2031,3 +2031,9 @@
 .darkState .wb-game--info:active, .darkState .wb-game--info:hover {
     background: #9f8ff8 !important;
 }
+
+@media screen and (max-width: 500px) {
+    .play-button .buttonMain {
+        margin: 0 !important;
+    }
+}
