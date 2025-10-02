@@ -2040,3 +2040,7 @@
 .game-crash img {
     width: 28px !important;
 }
+
+.v2-modal-open {
+    overflow: hidden;
+}
