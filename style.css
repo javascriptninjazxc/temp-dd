@@ -2007,6 +2007,6 @@
     color: #9f8ff8 !important;
 }
 
-.historyDate time {
+.paymentTime--active {
     color: #aab5dd !important;
 }
