@@ -2002,3 +2002,11 @@
         margin: 0 !important;
     }
 }
+
+.historyDate time {
+    color: #aab5dd !important;
+}
+
+.paymentTime {
+    color: #9f8ff8 !important;
+}
