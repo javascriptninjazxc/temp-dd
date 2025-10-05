@@ -2030,6 +2030,6 @@
     width: 100% !important;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 968px) {
     grid-template-columns: 1fr;
 }
