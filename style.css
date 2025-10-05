@@ -2032,6 +2032,6 @@
 
 @media (max-width: 968px) {
     .promocodes-wrapper {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr !important;
     }
 }
