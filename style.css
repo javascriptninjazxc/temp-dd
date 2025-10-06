@@ -2035,3 +2035,12 @@
 .sumInputBlock .buttonMain {
     margin: 0 !important;
 }
+
+@media screen and (max-width: 768px) {
+    .freespins-item-left img {
+        height: 139px !important;
+        min-height: 139px !important;
+        border-radius: 6px;
+        max-width: 104px;
+    }
+}
