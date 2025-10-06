@@ -9,8 +9,8 @@
 }
 
 .user-avatar img {
-    height: 37px;
-    width: 36px;
+    height: 40px;
+    width: 40px;
 }
 
 .user-avatar {
@@ -1849,7 +1849,7 @@
 
 .crashNotification {
     border-radius: 0;
-    box-shadow: 0 0 12px rgba(255, 82, 82, .7) !important;
+    box-shadow: 0 0 12px #4caf50 !important;
 }
 
 .game-providers--list {
@@ -2020,7 +2020,12 @@
 }
 
 .user-avatar .user-notifications {
+    right: -4px !important;
+    width: 0 !important;
+    top: -1px !important;
     position: absolute;
-    right: -7px !important;
-    top: -4px !important;
+}
+
+.user-avatar {
+    overflow: hidden;
 }
