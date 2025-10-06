@@ -2030,7 +2030,7 @@
     margin: 0px !important;
 }
 
-.user-avatar__container .user-notifications {
+.user-notifications {
     right: -4px !important;
     width: 0 !important;
     top: -1px !important;
