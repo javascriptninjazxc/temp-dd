@@ -8,10 +8,7 @@
     box-sizing: content-box;
 }
 
-.user-avatar img {
-    height: 40px;
-    width: 40px;
-}
+
 
 .user-avatar {
     width: 44px;
@@ -2027,10 +2024,15 @@
     border-radius: 26px !important;
 }
 
-.user-avatar {
-    overflow: hidden;
-}
-
 .paymentTime--active {
     color: #304574 !important;
+}
+
+.user-avatar img {
+    height: 40px;
+    width: 40px;
+}
+
+.user-avatar {
+    overflow: hidden;
 }
