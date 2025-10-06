@@ -2035,3 +2035,7 @@
     height: 40px;
     width: 40px;
 }
+
+.darkState .sumInputBlock .buttonMain {
+    margin: 0px !important;
+}
