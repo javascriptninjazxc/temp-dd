@@ -2008,10 +2008,6 @@
     color: #aab5dd !important;
 }
 
-.sumInputBlock .payButton {
-    margin: 0 !important;
-}
-
 .user-avatar__container .user-notifications {
     right: -4px !important;
     width: 0 !important;
@@ -2034,4 +2030,8 @@
 .user-avatar img {
     height: 40px;
     width: 40px;
+}
+
+.sumInputBlock .buttonMain {
+    margin: 0 !important;
 }
