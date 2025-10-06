@@ -2008,10 +2008,20 @@
     color: #aab5dd !important;
 }
 
+.user-avatar__container .user-notifications {
+    right: -4px !important;
+    width: 0 !important;
+    top: -1px !important;
+    position: absolute;
+}
+
 .user-avatar img {
     border-radius: 26px !important;
 }
 
+.user-avatar {
+    overflow: hidden;
+}
 
 .paymentTime--active {
     color: #304574 !important;
@@ -2024,18 +2034,4 @@
 
 .sumInputBlock .buttonMain {
     margin: 0 !important;
-}
-
-.user-avatar__container .user-notifications {
-    right: -4px !important;
-    width: 0 !important;
-    top: -1px !important;
-    position: absolute;
-}
-
-.freespins-item-left img {
-    height: 139px !important;
-    min-height: 139px !important;
-    border-radius: 6px;
-    max-width: 104px;
 }
