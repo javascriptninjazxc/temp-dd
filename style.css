@@ -2031,3 +2031,6 @@
     overflow: hidden;
 }
 
+.paymentTime--active {
+    color: #304574 !important;
+}
