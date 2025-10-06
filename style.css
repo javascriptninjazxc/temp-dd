@@ -9,8 +9,8 @@
 }
 
 .user-avatar img {
-    height: 32px;
-    width: 33px;
+    height: 37px;
+    width: 36px;
 }
 
 .user-avatar {
@@ -1469,7 +1469,8 @@
     }
 }
 
-/*!*@media (max-width: 600px) and (orientation: landscape) {*!*/
+/*!*@media (max-width
+: 600px) and (orientation: landscape) {*!*/
 /*!*    .modal-dialog-centered {*!*/
 /*!*      padding-top: 81px !important;*!*/
 /*!*    }*!*/
@@ -2016,4 +2017,10 @@
 
 .sumInputBlock .payButton {
     margin: 0 !important;
+}
+
+.user-avatar .user-notifications {
+    position: absolute;
+    right: -7px !important;
+    top: -4px !important;
 }
