@@ -1128,8 +1128,11 @@
     z-index: 100 !important;
 }
 
-.darkState .topMenu {
-    z-index: 2 !important;
+
+@media (max-width: 500px) {
+    .darkState .topMenu {
+        z-index: 2 !important;
+    }
 }
 
 .modal-welvura {
