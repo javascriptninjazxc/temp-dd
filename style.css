@@ -2007,9 +2007,6 @@
     }
 }
 
-.paymentTime {
-    color: #9f8ff8 !important;
-}
 
 .paymentTime--active {
     color: #aab5dd !important;
@@ -2033,3 +2030,4 @@
 .user-avatar {
     overflow: hidden;
 }
+
