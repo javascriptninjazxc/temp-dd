@@ -2010,3 +2010,7 @@
 .paymentTime--active {
     color: #aab5dd !important;
 }
+
+.payButton {
+    margin: 0 !important;
+}
