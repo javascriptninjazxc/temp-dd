@@ -2019,7 +2019,7 @@
     margin: 0 !important;
 }
 
-.user-avatar .user-notifications {
+.user-avatar__container .user-notifications {
     right: -4px !important;
     width: 0 !important;
     top: -1px !important;
