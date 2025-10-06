@@ -2035,3 +2035,7 @@
         grid-template-columns: 1fr !important;
     }
 }
+
+.sumInputBlock .payButton {
+    margin-top: 0 !important;
+}
