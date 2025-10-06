@@ -2026,6 +2026,10 @@
     position: absolute;
 }
 
+.user-avatar img {
+    border-radius: 26px !important;
+}
+
 .user-avatar {
     overflow: hidden;
 }
