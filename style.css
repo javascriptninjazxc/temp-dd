@@ -2055,3 +2055,7 @@
 .freespins-item-date {
     color: #BBC0D3 !important;
 }
+
+.mainBody .titleWindow {
+    padding: 24px !important;
+}
