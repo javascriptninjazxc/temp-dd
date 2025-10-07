@@ -2088,3 +2088,9 @@
 .v2-game-info-modal .modal-body  {
     background: #F0F1F6;
 }
+
+@media (max-width: 700px) {
+    .bubbles-settings {
+        border-radius: 0 !important;
+    }
+}
