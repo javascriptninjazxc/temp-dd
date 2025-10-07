@@ -2039,3 +2039,7 @@
 .darkState .paymentTime {
     color: #9f8ff8 !important;
 }
+
+.titleWindow {
+    padding: 24px !important;
+}
