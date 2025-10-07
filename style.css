@@ -2076,3 +2076,7 @@
     font-family: 'Rubik';
     font-weight: 600;
 }
+
+.bubbles-game .buttonMain {
+    margin: 0 !important;
+}
