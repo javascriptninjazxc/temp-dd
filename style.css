@@ -2069,3 +2069,10 @@
         position: absolute;
     }
 }
+
+.enotions-title {
+    color: #9F8FF8;
+    font-size: 14px;
+    font-family: 'Rubik';
+    font-weight: 600;
+}
