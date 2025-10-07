@@ -2071,7 +2071,7 @@
 }
 
 .enotions-title {
-    color: #9F8FF8;
+    color: #304574;;
     font-size: 14px;
     font-family: 'Rubik';
     font-weight: 600;
@@ -2083,4 +2083,8 @@
 
 .bubbles-game .buttonMain {
     margin: 0 !important;
+}
+
+.v2-game-info-modal .modal-body  {
+    background: #F0F1F6;
 }
