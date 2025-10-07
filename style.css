@@ -2063,3 +2063,12 @@
 .mainBody .showTitlePC {
     padding: 15px 20px !important;
 }
+
+@media (max-width: 1024px) {
+    .user-notifications {
+        right: -9px !important;
+        width: 0 !important;
+        top: -6px !important;
+        position: absolute;
+    }
+}
