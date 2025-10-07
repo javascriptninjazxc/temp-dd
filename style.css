@@ -2077,6 +2077,10 @@
     font-weight: 600;
 }
 
+.darkState .enotions-title {
+    color: #9F8FF8;
+}
+
 .bubbles-game .buttonMain {
     margin: 0 !important;
 }
