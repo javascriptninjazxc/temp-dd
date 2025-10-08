@@ -2101,3 +2101,11 @@
 .errBlock .miniDesc {
     gap: 5px;
 }
+
+.tablePromoRow:nth-child(2n + 1) {
+    background: #1d1f30 !important
+}
+
+.tablePromoRow:nth-child(2n) {
+    background: #292b43 !important;
+}
