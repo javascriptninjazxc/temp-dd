@@ -2109,3 +2109,7 @@
 .darkState .tablePromoRow:nth-child(2n) {
     background: #292b43 !important;
 }
+
+.darkState .walletBlock .buttonMain {
+    margin: 0 !important;
+}
