@@ -2116,3 +2116,8 @@
 ..mines-anim .ma-info span {
     font-size: 9px !important;
 }
+
+.v2-modal-wrapper__body .modal-body{
+    width: 400px !important;
+    max-width: 400px !important;
+}
