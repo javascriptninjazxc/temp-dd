@@ -2017,7 +2017,7 @@
     overflow: hidden;
 }
 
-.paymentTime--active {
+.darkState .paymentTime--active {
     color: #304574 !important;
 }
 
