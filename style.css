@@ -2097,3 +2097,7 @@
     width: 12px;
     height: 12px;
 }
+
+.errBlock .miniDesc {
+    gap: 5px;
+}
