@@ -1448,7 +1448,7 @@
 
 .game-info-modal {
     width: 100% !important;
-    height: 100% !important;
+    height: fit-content !important;
 }
 
 @media (min-width: 870px) and (max-width: 1024px) {
@@ -2109,7 +2109,6 @@
 .darkState .tablePromo .tablePromoRow:nth-child(2n) {
     background: #292b43 !important;
 }
-
 .darkState .walletBlock .buttonMain {
     margin: 0 !important;
 }
