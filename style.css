@@ -2092,3 +2092,8 @@
         border-radius: 0 !important;
     }
 }
+
+.miniDesc img {
+    width: 12px;
+    height: 12px;
+}
