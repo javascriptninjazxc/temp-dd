@@ -2004,9 +2004,6 @@
 }
 
 
-.paymentTime--active {
-    color: #aab5dd !important;
-}
 
 .user-avatar__container .user-notifications {
     right: -4px !important;
@@ -2021,10 +2018,6 @@
 
 .user-avatar {
     overflow: hidden;
-}
-
-.paymentTime--active {
-    color: #aab5dd !important;
 }
 
 .user-avatar img {
