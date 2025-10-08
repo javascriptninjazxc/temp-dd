@@ -2102,11 +2102,11 @@
     gap: 5px;
 }
 
-.darkState .tablePromoRow:nth-child(2n + 1) {
+.darkState .tablePromo .tablePromoRow:nth-child(2n + 1) {
     background: #1d1f30 !important
 }
 
-.darkState .tablePromoRow:nth-child(2n) {
+.darkState .tablePromo .tablePromoRow:nth-child(2n) {
     background: #292b43 !important;
 }
 
