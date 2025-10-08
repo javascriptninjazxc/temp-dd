@@ -2112,3 +2112,7 @@
 .darkState .walletBlock .buttonMain {
     margin: 0 !important;
 }
+
+..mines-anim .ma-info span {
+    font-size: 9px !important;
+}
