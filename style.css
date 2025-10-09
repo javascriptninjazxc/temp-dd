@@ -2112,7 +2112,7 @@
     font-size: 9px !important;
 }
 
-.v2-modal-wrapper__body .modal-body{
+.v2-game-info-modal  .modal-body{
     width: 400px !important;
     max-width: 400px !important;
 }
