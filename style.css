@@ -1977,11 +1977,6 @@
     display: flex;
 }
 
-.window .settings {
-    position: relative !important;
-    z-index: -1 !important;
-}
-
 @media screen and (max-width: 768px) {
     .jackpot-tutorial-pc {
         display: none;
@@ -2127,4 +2122,9 @@
     .game-providers--list {
         grid-template-columns: repeat(4, 23.33%) !important;
     }
+}
+
+.settings {
+    position: relative !important;
+    z-index: -1 !important;
 }
