@@ -2121,3 +2121,9 @@
     width: 400px !important;
     max-width: 400px !important;
 }
+
+@media (max-width: 614px) {
+    .game-providers--list {
+        grid-template-columns: repeat(4, 23.33%) !important;
+    }
+}
