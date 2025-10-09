@@ -1936,11 +1936,6 @@
     }
 }
 
-@media (min-width: 382px) and (max-width: 440px) {
-    .game-providers--list {
-        grid-template-columns: repeat(3, 31%) !important;
-    }
-}
 
 @media (max-width: 340px) {
     .game-providers--list {
