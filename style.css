@@ -2124,13 +2124,13 @@
     }
 }
 
-<<<<<<< HEAD
+
 .darkState .wb-game--info__crash:active, .darkState .wb-game--info__crash:hover {
     background: #9F8FF8 !important;
 }
-=======
+
 .settings {
     position: relative !important;
     z-index: -1 !important;
 }
->>>>>>> e42e504163d234fdcb9797c77241fd27d532b840
+
