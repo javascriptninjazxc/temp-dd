@@ -2122,3 +2122,7 @@
         grid-template-columns: repeat(4, 23.33%) !important;
     }
 }
+
+.darkState .wb-game--info__crash:active, .darkState .wb-game--info__crash:hover {
+    background: #9F8FF8 !important;
+}
