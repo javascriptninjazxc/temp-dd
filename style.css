@@ -2125,7 +2125,7 @@
 }
 
 
-.darkState .wb-game--info__crash:active, .darkState .wb-game--info__crash:hover {
+.darkState .wb-game--info__crash:hover {
     background: #9F8FF8 !important;
 }
 
