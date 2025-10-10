@@ -2138,3 +2138,8 @@
     position: relative !important;
     z-index: 0 !important;
 }
+
+.settings__inner {
+    position: relative !important;
+    z-index: 0 !important;
+}
