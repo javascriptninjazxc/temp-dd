@@ -2128,3 +2128,7 @@
     position: relative !important;
     z-index: -1 !important;
 }
+
+.walletMenuOpen[data-v-707a0062] {
+    height: fit-content !important;
+}
