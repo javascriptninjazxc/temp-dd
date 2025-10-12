@@ -2149,3 +2149,8 @@
         max-width: 90px !important;
     }
 }
+
+.modal-open .titleWindow {
+    z-index: -1 !important;
+    position: relative !important;
+}
