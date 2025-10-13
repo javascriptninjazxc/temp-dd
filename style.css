@@ -1448,7 +1448,7 @@
 
 .game-info-modal {
     width: 100% !important;
-    height: 100% !important;
+    height: fit-content !important;
 }
 
 @media (min-width: 870px) and (max-width: 1024px) {
@@ -1936,11 +1936,6 @@
     }
 }
 
-@media (min-width: 382px) and (max-width: 440px) {
-    .game-providers--list {
-        grid-template-columns: repeat(3, 31%) !important;
-    }
-}
 
 @media (max-width: 340px) {
     .game-providers--list {
@@ -1967,10 +1962,6 @@
         position: relative !important;
         top: -131px !important;
     }
-}
-
-.faq-container {
-    z-index: 1 !important;
 }
 
 .jackpot-tutorial-mobile {
@@ -2004,10 +1995,13 @@
 }
 
 
-.paymentTime--active {
-    color: #aab5dd !important;
-}
 
+.user-avatar__container .user-notifications {
+    right: -4px !important;
+    width: 0 !important;
+    top: -1px !important;
+    position: absolute;
+}
 
 .user-avatar img {
     border-radius: 26px !important;
@@ -2017,22 +2011,141 @@
     overflow: hidden;
 }
 
-.darkState .paymentTime--active {
-    color: #304574 !important;
-}
-
 .user-avatar img {
     height: 40px;
     width: 40px;
 }
 
-.darkState .walletBlock .buttonMain {
-    margin: 0px !important;
+.sumInputBlock .buttonMain {
+    margin: 0 !important;
 }
 
-.user-avatar__container .user-notifications {
-    right: -4px !important;
-    width: 0 !important;
-    top: -1px !important;
-    position: absolute;
+.darkState .paymentTime {
+    color: #9f8ff8 !important;
+}
+
+
+.freespins-item-right-top {
+    color: #BBC0D3 !important;
+}
+
+.freespins-item-title {
+    color: #414663 !important;
+}
+
+.freespins-item-date {
+    color: #BBC0D3 !important;
+}
+
+.mainBody .SectionGamesOneWin_section_N5az_ {
+    padding: 24px !important;
+}
+
+.mainBody .showTitlePC {
+    padding: 15px 20px !important;
+}
+
+@media (max-width: 1024px) {
+    .user-avatar__container .user-notifications {
+        right: -9px !important;
+        width: 0 !important;
+        top: -6px !important;
+        position: absolute;
+    }
+}
+
+.enotions-title {
+    color: #304574;;
+    font-size: 14px;
+    font-family: 'Rubik';
+    font-weight: 600;
+}
+
+.darkState .enotions-title {
+    color: #9F8FF8;
+}
+
+.bubbles-game .buttonMain {
+    margin: 0 !important;
+}
+
+.v2-game-info-modal .modal-body  {
+    background: #F0F1F6;
+}
+
+@media (max-width: 700px) {
+
+    .bubbles-right {
+        border-radius: 12px 12px 0 0 !important;
+    }
+
+    .bubbles-settings {
+        border-radius: 0 !important;
+    }
+}
+
+.miniDesc img {
+    width: 12px;
+    height: 12px;
+}
+
+.errBlock .miniDesc {
+    gap: 5px;
+}
+
+.darkState .tablePromo .tablePromoRow:nth-child(2n + 1) {
+    background: #1d1f30 !important
+}
+
+.darkState .tablePromo .tablePromoRow:nth-child(2n) {
+    background: #292b43 !important;
+}
+.darkState .walletBlock .buttonMain {
+    margin: 0 !important;
+}
+
+.mines-anim .ma-info span {
+    font-size: 9px !important;
+}
+
+.v2-game-info-modal  .modal-body{
+    width: 400px !important;
+    max-width: 400px !important;
+}
+
+@media (max-width: 614px) {
+    .game-providers--list {
+        grid-template-columns: repeat(4, 23.33%) !important;
+    }
+}
+
+
+.darkState .wb-game--info__crash:hover {
+    background: #9F8FF8 !important;
+}
+
+.settings {
+    position: relative !important;
+    z-index: -1 !important;
+}
+
+.faq-container__inner {
+    position: relative !important;
+    z-index: 0 !important;
+}
+
+.settings__inner {
+    position: relative !important;
+    z-index: 0 !important;
+}
+
+@media screen and (max-width: 500px) {
+    .bid-history-table td.datetime {
+        max-width: 90px !important;
+    }
+}
+
+.modal-open .titleWindow {
+    z-index: -1 !important;
+    position: relative !important;
 }
