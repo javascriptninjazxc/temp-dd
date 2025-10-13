@@ -2150,7 +2150,7 @@
     position: relative !important;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 810px) {
     .promocodes-timer__issued {
         align-items: center;
         display: flex;
