@@ -2183,7 +2183,6 @@
 
 @media (max-width: 967px) {
     .promocodes-wrapper {
-        display: flex;
-        flex-direction: column;
+        grid-template-columns: 1fr !important;
     }
 }
