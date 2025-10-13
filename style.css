@@ -2149,3 +2149,33 @@
     z-index: -1 !important;
     position: relative !important;
 }
+
+@media (max-width: 700px) {
+    .promocodes-timer__issued {
+        align-items: center;
+        display: flex;
+        height: calc(100% - 8px);
+        justify-content: space-between;
+    }
+
+    .promocodes-timer__issued-mobile{
+        flex-direction: column;
+    }
+
+    .promocodes-timer-main[data-v-32aac11c] {
+        align-items: unset;
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    .promocodes-modal-main {
+        display: grid;
+        margin-bottom: 10px;
+        grid-template-columns: 1fr 1fr;
+        align-items: unset;
+        border-radius: 6px;
+        padding: 10px;
+    }
+
+}
