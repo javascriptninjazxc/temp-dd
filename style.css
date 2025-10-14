@@ -2326,16 +2326,18 @@
 
 
 
-@media (max-width: 500px) {
+
+
+@media (min-width: 500px) and (max-width: 800px) {
     .card-game {
-        width: calc(100% / 2 - 5px) !important;
+        width: calc(100% / 4 - 5px) !important;
         height: 100% !important;
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 500px) {
     .card-game {
-        width: calc(100% / 4 - 5px) !important;
+        width: calc(100% / 2 - 5px) !important;
         height: 100% !important;
     }
 }
