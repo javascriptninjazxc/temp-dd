@@ -2203,7 +2203,7 @@
     }
 
     .navbar-balance {
-        gap: unset;
+        gap: 4px;
         padding: 6px 9px;
     }
 }
@@ -2212,16 +2212,6 @@
     .cell {
         height: inherit;
         max-width: 60px;
-    }
-
-    .page-wrapper::-webkit-scrollbar {
-        width: 0;
-        display: none;
-    }
-
-    #app::-webkit-scrollbar {
-        width: 0;
-        display: none;
     }
 }
 
