@@ -2203,6 +2203,15 @@
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
     .leftBlock {
-        padding: 0px !important;
+        padding: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    body, html {
+        zoom: 1;
+        font-size: 100% !important;
+        overflow-x: hidden;
+        width: 100%;
     }
 }
