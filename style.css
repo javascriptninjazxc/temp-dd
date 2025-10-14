@@ -2220,6 +2220,10 @@
     .navbar-balance__delimiter, .navbar-balance__wallet {
          margin-bottom: 0;
     }
+
+    .vozWin {
+        font-size: 58px !important;
+    }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
