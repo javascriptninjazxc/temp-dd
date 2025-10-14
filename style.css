@@ -2307,3 +2307,11 @@
     flex-wrap: wrap !important;
     gap: 5px !important;
 }
+
+@media (min-width: 992px) {
+    .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
+        max-height: unset;
+        min-height: unset;
+        min-width: unset;
+    }
+}
