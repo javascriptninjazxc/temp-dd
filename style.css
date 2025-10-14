@@ -2216,6 +2216,10 @@
     .navbar-balance__wallet {
          margin-bottom: 0 !important;
     }
+
+    .navbar-balance__delimiter, .navbar-balance__wallet {
+         margin-bottom: 0;
+    }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
