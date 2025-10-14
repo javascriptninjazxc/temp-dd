@@ -2332,7 +2332,7 @@
     height: 167px;
 }
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
     .card-game {
         width: calc(100% / 3 - 5px) !important;
         height: 100% !important;
