@@ -1776,7 +1776,7 @@
         width: 100vw !important;
         max-height: 100vh !important;
         height: max-content !important;
-        min-height: 100vh !important;
+        min-height: 100% !important;
     }
 }
 .promocodes-modal-title {
