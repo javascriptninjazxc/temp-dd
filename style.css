@@ -2207,3 +2207,10 @@
         padding: 6px 9px;
     }
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .cell {
+        height: inherit;
+        max-width: 60px;
+    }
+}
