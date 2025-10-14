@@ -2224,3 +2224,9 @@
         display: none;
     }
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .keno-tools__autochoose .buttonMain {
+        font-size: 12px !important;
+    }
+}
