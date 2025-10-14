@@ -2218,4 +2218,9 @@
         width: 0;
         display: none;
     }
+
+    #app::-webkit-scrollbar {
+        width: 0;
+        display: none;
+    }
 }
