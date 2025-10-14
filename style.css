@@ -2301,3 +2301,9 @@
         background: #000;
     }
 }
+
+.game-providers--list {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 5px !important;
+}
