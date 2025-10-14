@@ -2162,7 +2162,7 @@
         flex-direction: column;
     }
 
-    .promocodes-timer-main[data-v-32aac11c] {
+    .promocodes-timer-main {
         align-items: unset;
         display: flex;
         gap: 10px;
@@ -2177,6 +2177,21 @@
         border-radius: 6px;
         padding: 10px;
         background: #fff;
+    }
+
+    .promocodes-cell-mobile-right {
+        text-align: center;
+    }
+
+    .promocodes-footer {
+        align-items: center;
+        display: flex;
+        flex-direction: column !important;
+        gap: 10px !important;
+    }
+
+    .promocodes-footer-left {
+        width: 100%;
     }
 
 }
