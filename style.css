@@ -2213,6 +2213,11 @@
         height: inherit;
         max-width: 60px;
     }
+
+    body::-webkit-scrollbar, html::-webkit-scrollbar {
+        width: 0 !important;
+        display: none !important;
+    }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
