@@ -2288,6 +2288,7 @@
 
 .card-game {
     width: calc(100% / 5 - 5px);
+    height: 100% !important;
 }
 
 @media (min-width: 992px) {
@@ -2314,4 +2315,8 @@
         min-height: unset !important;
         min-width: unset !important;
     }
+}
+
+.startDemo {
+    width: 75px !important;
 }
