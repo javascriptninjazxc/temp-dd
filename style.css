@@ -1773,10 +1773,10 @@
 }
 @media (max-width: 600px) {
     .chatBlock {
-        width: 100vw !important;
-        max-height: 100svh !important;
-        height: max-content !important;
-        min-height: 100svh !important;
+        width: 100%;
+        min-height: 100lvh;
+        height: auto;
+        max-height: none;
     }
 }
 .promocodes-modal-title {
