@@ -2203,7 +2203,7 @@
     }
 
     .navbar-balance {
-        gap: 4px;
+        gap: 0;
         padding: 6px 9px;
         right: unset;
         position: relative;
