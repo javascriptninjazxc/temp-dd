@@ -2323,3 +2323,11 @@
 .startGame img {
     height: 100% !important;
 }
+
+.vue-load-image {
+    height: 167px;
+}
+
+.card-profile {
+    height: 167px;
+}
