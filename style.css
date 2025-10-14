@@ -2200,3 +2200,9 @@
         width: 100% !important;
     }
 }
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .leftBlock {
+        padding: 0px !important;
+    }
+}
