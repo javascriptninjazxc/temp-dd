@@ -2210,7 +2210,7 @@
     }
 
     .navbar-balance div {
-        display: flex;
+        display: block;
     }
 
     .navbar-balance__wallet {
