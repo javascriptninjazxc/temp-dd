@@ -2331,3 +2331,9 @@
 .card-profile {
     height: 167px;
 }
+
+@media (min-width: 500px) {
+    .card-game {
+        width: calc(100% / 3 - 5px);
+    }
+}
