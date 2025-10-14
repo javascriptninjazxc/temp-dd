@@ -2324,13 +2324,7 @@
     height: 100% !important;
 }
 
-.vue-load-image {
-    height: 167px;
-}
 
-.card-profile {
-    height: 167px;
-}
 
 @media (max-width: 500px) {
     .card-game {
