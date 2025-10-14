@@ -2319,3 +2319,7 @@
 .startDemo {
     width: 75px !important;
 }
+
+.startGame img {
+    height: 100% !important;
+}
