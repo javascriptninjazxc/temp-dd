@@ -2213,4 +2213,9 @@
         height: inherit;
         max-width: 60px;
     }
+
+    .page-wrapper::-webkit-scrollbar {
+        width: 0;
+        display: none;
+    }
 }
