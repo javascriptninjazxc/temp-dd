@@ -2214,9 +2214,15 @@
         max-width: 60px;
     }
 
-    body::-webkit-scrollbar, html::-webkit-scrollbar {
-        width: 0 !important;
-        display: none !important;
+    html, body {
+        scrollbar-width: none;      /* Firefox */
+        -ms-overflow-style: none;   /* IE и Edge Legacy */
+    }
+
+    html::-webkit-scrollbar,
+    body::-webkit-scrollbar {
+        width: 0;
+        height: 0;
     }
 }
 
