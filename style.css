@@ -795,30 +795,11 @@
     overflow-y: unset !important;
 }
 
-/*.chatActive .chatBlock {*/
-/*    margin-top: 88px !important;*/
-/*}*/
-
 @media (max-width: 500px) {
     .leftBlock {
         top: 0 !important;
     }
 }
-
-/*
-
-.topMenu .header {
-        padding: 0 !important;
-    margin-top: 15px;
-}
-
-@media (max-width: 500px) {
-    .menu {
-        margin-top: calc(34px + 15px + 15px) !important;
-    }
-}
-
- */
 
 .thirdBlock {
     height: auto !important;
@@ -1773,10 +1754,10 @@
 }
 @media (max-width: 600px) {
     .chatBlock {
-        width: 100vw !important;
-        max-height: 100svh !important;
-        height: max-content !important;
-        min-height: 100svh !important;
+        width: 100%;
+        min-height: 100svh;
+        height: auto;
+        max-height: none;
     }
 }
 .promocodes-modal-title {
@@ -2204,4 +2185,82 @@
 
 .PaymentInfoModal__content {
     gap: 3px;
+}
+
+.chat--compact {
+    width: 100% !important;
+}
+
+@media (max-width: 600px) {
+    .chatBlock {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .leftBlock {
+        padding: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    body, html {
+        zoom: 1;
+        font-size: 100% !important;
+        overflow-x: hidden;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .headTwo .logo {
+        font-size: 20px !important;
+    }
+
+    .navbar-balance {
+        gap: 0;
+        padding: 6px 9px;
+        right: unset;
+        position: relative;
+    }
+
+    .navbar-balance div {
+        display: block;
+    }
+
+    .navbar-balance__wallet {
+         margin-bottom: 0 !important;
+    }
+
+    .navbar-balance__delimiter, .navbar-balance__wallet {
+         margin-bottom: 0;
+    }
+
+    .vozWin {
+        font-size: 58px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .cell {
+        height: inherit;
+        max-width: 60px;
+    }
+
+    html, body {
+        scrollbar-width: none;      /* Firefox */
+        -ms-overflow-style: none;   /* IE и Edge Legacy */
+    }
+
+    html::-webkit-scrollbar,
+    body::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+    .keno-tools__autochoose .buttonMain {
+        font-size: 12px !important;
+    }
 }
