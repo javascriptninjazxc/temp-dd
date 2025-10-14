@@ -2190,3 +2190,7 @@
 .PaymentInfoModal__content {
     gap: 3px;
 }
+
+.chat--compact {
+    width: 100% !important;
+}
