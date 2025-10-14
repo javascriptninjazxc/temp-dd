@@ -1774,9 +1774,9 @@
 @media (max-width: 600px) {
     .chatBlock {
         width: 100vw !important;
-        max-height: 100svh !important;
+        max-height: 100vh !important;
         height: max-content !important;
-        min-height: 100svh !important;
+        min-height: 100vh !important;
     }
 }
 .promocodes-modal-title {
