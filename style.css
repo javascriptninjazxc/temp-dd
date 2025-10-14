@@ -2208,6 +2208,10 @@
         right: unset;
         position: relative;
     }
+
+    .navbar-balance div {
+        display: flex;
+    }
 }
 
 @media only screen and (max-width: 1024px) and (orientation: landscape) {
