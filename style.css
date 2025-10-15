@@ -2265,7 +2265,7 @@
     }
 }
 
-.card-game *[data-v-22a9ed13] {
+.gamesSlots .card-game *[data-v-22a9ed13] {
     width: 100%;
     max-width: 100%;
     aspect-ratio: 4 / 3;
@@ -2273,7 +2273,7 @@
     border-radius: 8px;
 }
 
-.card-profile[data-v-22a9ed13] {
+.gamesSlots .card-profile[data-v-22a9ed13] {
     align-items: center;
     box-shadow: 0 5px 20px rgba(159, 143, 248, .149);
     display: flex;
@@ -2281,17 +2281,17 @@
     position: relative;
 }
 
-.game-providers-slot--large {
+.gamesSlots .game-providers-slot--large {
     width: calc(100% / 5 - 5px);
 }
 
-.card-game {
+.gamesSlots .card-game {
     width: calc(100% / 5 - 5px);
     height: 100% !important;
 }
 
 @media (min-width: 992px) {
-    .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
+    .gamesSlots .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
         width: 100%;
         object-fit: cover;
         max-width: 100%;
@@ -2302,25 +2302,25 @@
     }
 }
 
-.game-providers--list {
+.gamesSlots .game-providers--list {
     display: flex !important;
     flex-wrap: wrap !important;
     gap: 5px !important;
 }
 
 
-    .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
+.gamesSlots .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
         max-height: unset !important;
         min-height: unset !important;
         min-width: unset !important;
     }
 
 
-.startDemo {
+.gamesSlots startDemo {
     width: 75px !important;
 }
 
-.startGame img {
+.gamesSlots .startGame img {
     height: 100% !important;
 }
 
@@ -2329,14 +2329,14 @@
 
 
 @media (min-width: 500px) and (max-width: 800px) {
-    .card-game {
+    .gamesSlots .card-game {
         width: calc(100% / 4 - 5px) !important;
         height: 100% !important;
     }
 }
 
 @media (max-width: 500px) {
-    .card-game {
+    .gamesSlots .card-game {
         width: calc(100% / 2 - 5px) !important;
         height: 100% !important;
     }
