@@ -2364,3 +2364,7 @@
         align-items: unset !important;
     }
 }
+
+.v2-modal-open {
+    overflow-x: hidden !important;
+}
