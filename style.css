@@ -2368,3 +2368,14 @@
 .v2-modal-open {
     overflow: hidden !important;
 }
+
+
+@media (max-width: 666px) {
+    .dice-container {
+        transition: transform 0.25s ease;
+    }
+
+    .dice-container:focus-within {
+        transition: transform 0.25s ease;
+    }
+}
