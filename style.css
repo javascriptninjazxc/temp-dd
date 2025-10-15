@@ -2343,7 +2343,14 @@
 }
 
 
-.freespins-item {
-    width: 100% !important;
-}
 
+
+@media (max-width: 500px) {
+    .freespins-items-container {
+        width: 98% !important;
+    }
+
+    .freespins-item {
+        width: 100% !important;
+    }
+}
