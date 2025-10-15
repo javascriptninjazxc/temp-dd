@@ -2342,9 +2342,8 @@
     }
 }
 
-@media (max-width: 600px) {
-    .freespins-items-container {
-        width: 95% !important;
-    }
+
+.freespins-item {
+    width: 100% !important;
 }
 
