@@ -2357,6 +2357,10 @@
 
 @media (max-width: 810px) {
     .promocodes-timer__label {
-        width: 177px !important;
+        width: 192px !important;
+    }
+
+    .promocodes-timer-main-mobile {
+        align-items: unset !important;
     }
 }
