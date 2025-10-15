@@ -2379,3 +2379,15 @@
         transition: transform 0.25s ease;
     }
 }
+
+html, body {
+    height: auto !important;
+    min-height: 100% !important;
+    overflow-y: auto !important;
+}
+
+.thirdBlock {
+    min-height: calc(100svh - 95px) !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+}
