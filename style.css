@@ -2419,3 +2419,10 @@ input#walletNumber[data-v-6cf3898a] {
 .card-overlay {
     gap: 6px !important;
 }
+
+.startDemo {
+    width: 104px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
