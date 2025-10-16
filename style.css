@@ -2409,8 +2409,8 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 6px 6px 6px 6px !important;
 }
 
-.startDemo {
-    width: 105 !important;
+.startDemo span {
+    width: 105px !important;
     justify-content: center !important;
     display: flex !important;
     align-items: center !important;
