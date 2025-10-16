@@ -2404,3 +2404,7 @@ html, body {
 .crash-game_container--no-animation .crash-game_bottom--loading::before {
     background: transparent !important;
 }
+
+input#walletNumber[data-v-6cf3898a] {
+    border-radius: 6px 6px 6px 6px !important;
+}
