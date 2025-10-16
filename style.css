@@ -2390,3 +2390,9 @@ html, body {
     padding-bottom: 40px !important;
     position: relative !important;
 }
+
+@media (max-width: 450px) {
+    .buttonMain-freespins[data-v-211809cd] {
+        width: 96% !important;
+    }
+}
