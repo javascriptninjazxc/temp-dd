@@ -2416,13 +2416,12 @@ input#walletNumber[data-v-6cf3898a] {
     align-items: center !important;
 }
 
-.gamesSlots .card-overlay {
-    gap: 6px !important;
-}
 
 .gamesSlots .startDemo {
     width: 104px !important;
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
+    top: 13px;
+    position: relative;
 }
