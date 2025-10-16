@@ -2400,3 +2400,7 @@ html, body {
 .crash-game_container--no-animation .crash-game_top--loading::before {
     background: transparent !important;
 }
+
+.crash-game_container--no-animation .crash-game_bottom--loading::before {
+    background: transparent !important;
+}
