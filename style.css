@@ -2409,20 +2409,20 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 6px 6px 6px 6px !important;
 }
 
-.startDemo span {
+.gamesSlots .startDemo span {
     width: 105px !important;
     justify-content: center !important;
     display: flex !important;
     align-items: center !important;
 }
 
-.card-overlay {
+.gamesSlots .card-overlay {
     gap: 6px !important;
 }
 
-.startDemo {
-    width: 104px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.gamesSlots .startDemo {
+    width: 104px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
