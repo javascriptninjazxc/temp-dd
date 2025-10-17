@@ -2455,3 +2455,8 @@ input#walletNumber[data-v-6cf3898a] {
 .footer-keno .swiper-container {
     contain: inline-size;
 }
+
+.keno-anim .ka-field .cell .cookie-image, .keno-anim .ka-field .cell.win img {
+    height: 22px;
+    width: 21px;
+}
