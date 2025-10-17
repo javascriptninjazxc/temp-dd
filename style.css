@@ -2442,3 +2442,12 @@ input#walletNumber[data-v-6cf3898a] {
     user-select: none !important;
     pointer-events: none !important;
 }
+
+.keno-field .table {
+    grid-template-columns: repeat(8,minmax(0, 74px)) !important;
+}
+
+.keno-field {
+    box-sizing: border-box !important;
+    width: auto !important;
+}
