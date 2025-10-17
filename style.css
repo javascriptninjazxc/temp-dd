@@ -2437,3 +2437,8 @@ input#walletNumber[data-v-6cf3898a] {
 .wallet-number--rounded {
     border-radius: 6px !important;
 }
+
+.user-notifications {
+    user-select: none !important;
+    pointer-events: none !important;
+}
