@@ -2451,3 +2451,7 @@ input#walletNumber[data-v-6cf3898a] {
 .keno-field .cell {
     min-width: 100% !important;
 }
+
+.footer-keno .swiper-container {
+    contain: inline-size;
+}
