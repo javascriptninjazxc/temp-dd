@@ -2425,3 +2425,7 @@ input#walletNumber[data-v-6cf3898a] {
     top: 13px;
     position: relative;
 }
+
+.v2-modal-open {
+    height: 100vh !important;
+}
