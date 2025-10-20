@@ -2469,8 +2469,3 @@ input#walletNumber[data-v-6cf3898a] {
 .v2-modal-open {
     height: 100% !important;
 }
-
-.v2-modal-open .thirdBlock {
-    height: 1vh !important;
-    overflow: hidden !important;
-}
