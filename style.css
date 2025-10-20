@@ -2485,5 +2485,5 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .histFlow {
-    height: 410px !important;
+    max-height: 410px !important;
 }
