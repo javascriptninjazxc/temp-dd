@@ -2545,3 +2545,8 @@ input#walletNumber[data-v-6cf3898a] {
     overflow-y: auto !important;
 }
 
+@media (max-width: 500px) {
+    .historyHead[data-v-5607ba53] {
+        grid-template-columns: 1.4fr 1.5fr 2.2fr 1.9fr 1fr 1.1fr !important;
+    }
+}
