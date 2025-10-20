@@ -2500,3 +2500,8 @@ input#walletNumber[data-v-6cf3898a] {
     }
 }
 
+.payment-container {
+    z-index: 5 !important;
+    position: relative;
+}
+
