@@ -808,7 +808,7 @@
 
 .topMenu {
     position: relative !important;
-    z-index: 2 !important;
+    z-index: 4 !important;
 }
 
 .modalBlock {
