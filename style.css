@@ -2487,3 +2487,16 @@ input#walletNumber[data-v-6cf3898a] {
 .historyBlock .histFlow {
     max-height: 410px !important;
 }
+
+@media (max-width: 500px) {
+    .payoutBlock .historyBlock {
+        overflow: hidden;
+        overflow-y: auto;
+        height: 440px;
+    }
+    .payoutBlock .historyEl[data-v-089e90e9] {
+        padding: 0;
+        grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr .7fr !important;
+    }
+}
+
