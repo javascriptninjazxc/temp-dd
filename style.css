@@ -2474,4 +2474,12 @@ input#walletNumber[data-v-6cf3898a] {
     position: relative !important;
 }
 
+.modal-open .payoutBlock {
+    z-index: -2 !important;
+    position: relative !important;
+}
+
+.withdrawWrapper-container {
+    z-index: 2 !important;
+}
 
