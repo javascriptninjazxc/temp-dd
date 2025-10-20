@@ -2460,3 +2460,8 @@ input#walletNumber[data-v-6cf3898a] {
     height: 22px !important;
     width: 21px !important;
 }
+
+.leftBlock {
+    width: 100% !important;
+    min-width: 100% !important;
+}
