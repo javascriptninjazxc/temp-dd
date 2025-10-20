@@ -2528,3 +2528,7 @@ input#walletNumber[data-v-6cf3898a] {
 .showBlock {
     background: unset !important;
 }
+
+.payment-container {
+    border-radius: 6px !important;
+}
