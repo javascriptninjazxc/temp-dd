@@ -2461,7 +2461,7 @@ input#walletNumber[data-v-6cf3898a] {
     width: 21px !important;
 }
 
-/*.leftBlock {*/
-/*    width: 100% !important;*/
-/*    min-width: 100% !important;*/
-/*}*/
+.chatActive .leftBlock {
+    width: 100% !important;
+    min-width: 100% !important;
+}
