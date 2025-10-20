@@ -2182,165 +2182,131 @@
     }
 }
 
-.PaymentInfoModal__content {
-    gap: 3px;
-}
 
-.chat--compact {
-    width: 100% !important;
-}
 
-@media (max-width: 600px) {
-    .chatBlock {
+
+@media (max-width: 500px) {
+    .freespins-items-container {
+        width: 98% !important;
+    }
+
+    .freespins-item {
         width: 100% !important;
     }
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .leftBlock {
-        padding: 0 !important;
+@media (max-width: 810px) {
+    .promocodes-timer__label {
+        width: 192px !important;
+    }
+
+    .promocodes-timer-main-mobile {
+        align-items: unset !important;
     }
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    body, html {
-        zoom: 1;
-        font-size: 100% !important;
-        overflow-x: hidden;
-        width: 100%;
+.v2-modal-open {
+    overflow: hidden !important;
+}
+
+
+@media (max-width: 666px) {
+    .dice-container {
+        transition: transform 0.25s ease;
+    }
+
+    .dice-container:focus-within {
+        transition: transform 0.25s ease;
     }
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .headTwo .logo {
-        font-size: 20px !important;
-    }
+html, body {
+    height: auto !important;
+    min-height: 100% !important;
+    overflow-y: auto !important;
+}
 
-    .navbar-balance {
-        gap: 0;
-        padding: 6px 9px;
-        right: unset;
-        position: relative;
-    }
+.thirdBlock {
+    min-height: calc(100svh - 95px) !important;
+    padding-bottom: 40px !important;
+    position: relative !important;
+}
 
-    .navbar-balance div {
-        display: block;
-    }
-
-    .navbar-balance__wallet {
-         margin-bottom: 0 !important;
-    }
-
-    .navbar-balance__delimiter, .navbar-balance__wallet {
-         margin-bottom: 0;
-    }
-
-    .vozWin {
-        font-size: 58px !important;
+@media (max-width: 450px) {
+    .buttonMain-freespins[data-v-211809cd] {
+        width: 96% !important;
     }
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .cell {
-        height: inherit;
-        max-width: 60px;
-    }
-
-    html, body {
-        scrollbar-width: none;      /* Firefox */
-        -ms-overflow-style: none;   /* IE и Edge Legacy */
-    }
-
-    html::-webkit-scrollbar,
-    body::-webkit-scrollbar {
-        width: 0;
-        height: 0;
-    }
+.crash-game_container--no-animation .crash-game_top--loading::before {
+    background: transparent !important;
 }
 
-@media only screen and (max-width: 1024px) and (orientation: landscape) {
-    .keno-tools__autochoose .buttonMain {
-        font-size: 12px !important;
-    }
+.crash-game_container--no-animation .crash-game_bottom--loading::before {
+    background: transparent !important;
 }
 
-.gamesSlots .card-game *[data-v-22a9ed13] {
-    width: 100%;
-    max-width: 100%;
-    aspect-ratio: 4 / 3;
-    overflow: hidden;
-    border-radius: 8px;
+input#walletNumber[data-v-6cf3898a] {
+    border-radius: 6px 6px 6px 6px !important;
 }
 
-.gamesSlots .card-profile[data-v-22a9ed13] {
-    align-items: center;
-    box-shadow: 0 5px 20px rgba(159, 143, 248, .149);
-    display: flex;
-    justify-content: center;
+.gamesSlots .startDemo span {
+    width: 105px !important;
+    justify-content: center !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+
+.gamesSlots .startDemo {
+    width: 104px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    top: 13px;
     position: relative;
 }
 
-.gamesSlots .game-providers-slot--large {
-    width: calc(100% / 5 - 5px);
+.v2-modal-open {
+    height: 100vh !important;
 }
 
-.gamesSlots .card-game {
-    width: calc(100% / 5 - 5px);
-    height: 100% !important;
+.modal-open {
+    height: 100vh !important;
 }
 
-@media (min-width: 992px) {
-    .gamesSlots .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
-        width: 100%;
-        object-fit: cover;
-        max-width: 100%;
-        aspect-ratio: 4 / 3;
-        overflow: hidden;
-        border-radius: 8px;
-        background: #000;
-    }
+.wallet-number--rounded {
+    border-radius: 6px !important;
 }
 
-.gamesSlots .game-providers--list {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 5px !important;
+.user-notifications {
+    user-select: none !important;
+    pointer-events: none !important;
 }
 
-
-.gamesSlots .card-img-top.error[data-v-22a9ed13], .card-img-top.preloader[data-v-22a9ed13], .card-profile>div.vue-load-image>img[data-v-22a9ed13] {
-        max-height: unset !important;
-        min-height: unset !important;
-        min-width: unset !important;
-    }
-
-
-.gamesSlots startDemo {
-    width: 75px !important;
+.keno-field {
+    box-sizing: border-box !important;
+    width: auto !important;
 }
 
-.gamesSlots .startGame img {
-    height: 100% !important;
+.keno-field .cell {
+    min-width: 100% !important;
 }
 
-
-
-
-
-@media (min-width: 500px) and (max-width: 800px) {
-    .gamesSlots .card-game {
-        width: calc(100% / 4 - 5px) !important;
-        height: 100% !important;
-    }
+.footer-keno .swiper-container {
+    contain: inline-size;
 }
 
-@media (max-width: 500px) {
-    .gamesSlots .card-game {
-        width: calc(100% / 2 - 5px) !important;
-        height: 100% !important;
-    }
+.keno-anim .ka-field .cell .cookie-image, .keno-anim .ka-field .cell.win img {
+    height: 22px !important;
+    width: 21px !important;
 }
 
+.chatActive .leftBlock {
+    width: 100% !important;
+    min-width: 100% !important;
+}
 
-
-
+.v2-modal-open {
+    height: auto !important;
+}
