@@ -2505,3 +2505,22 @@ input#walletNumber[data-v-6cf3898a] {
     position: relative;
 }
 
+.historyDate {
+    border-radius: 6px;
+}
+
+.imgSystem  {
+    border-radius: 6px;
+}
+
+.walletHistory {
+    border-radius: 6px;
+}
+
+.thisAmount {
+    border-radius: 6px
+}
+
+.historyEl {
+    gap: 3px !important;
+}
