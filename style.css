@@ -2481,5 +2481,6 @@ input#walletNumber[data-v-6cf3898a] {
 
 .withdrawWrapper-container {
     z-index: 2 !important;
+    position: relative;
 }
 
