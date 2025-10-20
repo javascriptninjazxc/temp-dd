@@ -2474,8 +2474,4 @@ input#walletNumber[data-v-6cf3898a] {
     position: relative !important;
 }
 
-.modal-open .payoutBlock {
-    z-index: -10 !important;
-    position: relative !important;
-}
 
