@@ -2484,3 +2484,6 @@ input#walletNumber[data-v-6cf3898a] {
     position: relative;
 }
 
+.historyBlock .histFlow {
+    max-height: 0 !important;
+}
