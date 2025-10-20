@@ -2467,5 +2467,5 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .v2-modal-open {
-    height: 100% !important;
+    height: auto !important;
 }
