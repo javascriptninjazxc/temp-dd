@@ -2544,3 +2544,8 @@ input#walletNumber[data-v-6cf3898a] {
 .infoWagerModal-top {
     overflow-y: auto !important;
 }
+
+.chat-component {
+    z-index: 5 ;
+    position: relative ;
+}
