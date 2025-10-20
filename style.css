@@ -2478,3 +2478,7 @@ input#walletNumber[data-v-6cf3898a] {
     z-index: -10 !important;
     position: relative !important;
 }
+
+.modal-open .country-select-container .modal  {
+    z-index: 222 !important;
+}
