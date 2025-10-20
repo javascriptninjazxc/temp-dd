@@ -2492,7 +2492,7 @@ input#walletNumber[data-v-6cf3898a] {
     .payoutBlock .historyBlock {
         overflow: hidden;
         overflow-y: auto;
-        height: 440px;
+        height: 435px;
     }
     .payoutBlock .historyEl[data-v-089e90e9] {
         padding: 0;
