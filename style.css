@@ -2483,3 +2483,7 @@ input#walletNumber[data-v-6cf3898a] {
     z-index: 2 !important;
     position: relative;
 }
+
+.histFlow {
+    height: 410px !important;
+}
