@@ -2550,3 +2550,7 @@ input#walletNumber[data-v-6cf3898a] {
         grid-template-columns: 1.4fr 1.5fr 2.2fr 1.9fr 1fr 1.1fr !important;
     }
 }
+
+.game-info-item.keno-anim {
+    height: 100% !important;
+}
