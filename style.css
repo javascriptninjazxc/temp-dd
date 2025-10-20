@@ -2470,7 +2470,7 @@ input#walletNumber[data-v-6cf3898a] {
     height: auto !important;
 }
 
-.modal-open .window .withdrawWrapper {
+.modal-open .withdrawWrapper {
     position: relative !important;
 }
 
