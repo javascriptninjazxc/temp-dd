@@ -2547,7 +2547,7 @@ input#walletNumber[data-v-6cf3898a] {
 
 @media (max-width: 500px) {
     .historyHead[data-v-5607ba53] {
-        grid-template-columns: 1.4fr 1.5fr 2.2fr 1.9fr !important;
+        grid-template-columns: 1.4fr 1.5fr 2.2fr !important;
     }
 
     .historyEl[data-v-5607ba53] {
@@ -2584,4 +2584,8 @@ input#walletNumber[data-v-6cf3898a] {
 
 .darkState .historyEl {
     background: unset !important;
+}
+
+.chat-modal-open .chat-component {
+    z-index: 1 !important;
 }
