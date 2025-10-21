@@ -2587,17 +2587,17 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .darkState .historyDate {
-    background: #202335 !important;
+    background-color: #383b5a !important;
 }
 
 .darkState .imgSystem  {
-    background: #202335 !important;
+    background-color: #383b5a !important;
 }
 
 .darkState .walletHistory {
-    background: #202335 !important
+    background-color: #383b5a !important;
 }
 
 .darkState .thisAmount {
-    background: #202335 !important;
+    background-color: #383b5a !important;
 }
