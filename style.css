@@ -2585,3 +2585,19 @@ input#walletNumber[data-v-6cf3898a] {
 .darkState .historyEl {
     background: unset !important;
 }
+
+.darkState .historyDate {
+    background: #202335 !important;
+}
+
+.darkState .imgSystem  {
+    background: #202335 !important;
+}
+
+.darkState .walletHistory {
+    background: #202335 !important
+}
+
+.darkState .thisAmount {
+    background: #202335 !important;
+}
