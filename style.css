@@ -2570,3 +2570,8 @@ input#walletNumber[data-v-6cf3898a] {
     padding: 0px 10px !important;
 }
 
+.historyEl > div {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
