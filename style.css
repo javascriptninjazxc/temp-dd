@@ -2483,22 +2483,6 @@ input#walletNumber[data-v-6cf3898a] {
     position: relative;
 }
 
-.historyBlock .histFlow {
-    max-height: 410px !important;
-}
-
-@media (max-width: 500px) {
-    .payoutBlock .historyBlock {
-        overflow: hidden;
-        overflow-y: auto;
-        height: 435px;
-    }
-    .payoutBlock .historyEl[data-v-089e90e9] {
-        padding: 0;
-        grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr .7fr !important;
-    }
-}
-
 .payment-container {
     z-index: 5 !important;
     position: relative;
@@ -2520,23 +2504,10 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 6px !important;
 }
 
-.historyEl {
-    gap: 3px !important;
-}
-
 .showBlock {
     background: unset !important;
 }
 
-.historyEl {
-    grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
-    gap: 3px !important;
-
-}
-
-.historyHead {
-    grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
-}
 .payment-container {
     border-radius: 6px !important;
 }
@@ -2545,51 +2516,10 @@ input#walletNumber[data-v-6cf3898a] {
     overflow-y: auto !important;
 }
 
-@media (max-width: 500px) {
-    .historyHead[data-v-5607ba53] {
-        grid-template-columns: 1.4fr 1.5fr 2.2fr !important;
-    }
-
-    .historyEl[data-v-5607ba53] {
-        grid-template-columns: 2fr .8fr 3.2fr 1.9fr !important;
-        padding: 0;
-    }
-}
-
 .game-info-item.keno-anim {
     height: 100% !important;
 }
 
 .modal-open {
     height: unset !important;
-}
-
-
-
-.historyEl .payment-container {
-    padding: 0px 10px !important;
-}
-
-.historyEl > div {
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-}
-
-@media (max-width: 500px) {
-    .historyEl {
-        grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
-    }
-}
-
-.darkState .historyEl {
-    background: unset !important;
-}
-
-.chat-modal-open .chat-component {
-    z-index: 1 !important;
-}
-
-.darkState .historyBlock .historyEl:nth-child(odd)>div, .historyDeposits .histFlow .historyEl:nth-child(odd)>div {
-    background-color: #383b5a !important;
 }
