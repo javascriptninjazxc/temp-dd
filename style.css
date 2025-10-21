@@ -2589,3 +2589,7 @@ input#walletNumber[data-v-6cf3898a] {
 .chat-modal-open .chat-component {
     z-index: 1 !important;
 }
+
+.darkState .historyBlock .historyEl:nth-child(odd)>div, .historyDeposits .histFlow .historyEl:nth-child(odd)>div {
+    background-color: #383b5a !important;
+}
