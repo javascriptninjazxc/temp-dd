@@ -2532,56 +2532,17 @@ input#walletNumber[data-v-6cf3898a] {
     grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
 }
 
-/*.historyHead .historyHead__id {*/
-/*    max-width: 80px;*/
-/*    min-width: 80px;*/
-/*}*/
-
-/*.historyHead .historyHead__system {*/
-/*    max-width: 80px;*/
-/*    min-width: 80px;*/
-/*}*/
-
-/*.historyHead .historyHead__received {*/
-/*    max-width: 130px;*/
-/*    min-width: 130px;*/
-/*}*/
-
-/*.historyHead__amount {*/
-/*    min-width: 100px;*/
-/*    max-width: 100px;*/
-/*}*/
-
-/*.historyHead__status {*/
-/*    min-width: 115px;*/
-/*    max-width: 115px;*/
-/*}*/
-
-/*.historyEl .historyDate {*/
-/*    max-width: 80px;*/
-/*    min-width: 80px;*/
-/*}*/
-
-/*.historyEl .imgSystem {*/
-/*    max-width: 80px;*/
-/*    min-width: 80px;*/
-/*}*/
-
-/*.historyEl .walletHistory {*/
-/*    max-width: 130px;*/
-/*    min-width: 130px;*/
-/*}*/
-
-/*.historyEl .thisAmount {*/
-/*    min-width: 100px;*/
-/*    max-width: 100px;*/
-/*}*/
-
-/*.historyEl .payment-container {*/
-/*    min-width: 115px;*/
-/*    max-width: 115px;*/
-/*}*/
-
 .window {
     position: relative;
+}
+
+@media (max-width: 500px) {
+    .historyHead {
+        grid-template-columns: 1.4fr 1.5fr 2.2fr 1.9fr !important;
+    }
+
+    .historyEl {
+        grid-template-columns: 2.0fr 0.8fr 3.2fr 1.9fr !important;
+        padding: 0;
+    }
 }
