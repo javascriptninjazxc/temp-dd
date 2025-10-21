@@ -2564,7 +2564,7 @@ input#walletNumber[data-v-6cf3898a] {
     height: unset !important;
 }
 
-.historyEl>div  {
+.histFlow .historyEl>div  {
     padding: 0 !important;
 }
 
