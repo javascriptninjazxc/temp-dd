@@ -2567,3 +2567,7 @@ input#walletNumber[data-v-6cf3898a] {
 .historyEl>div  {
     padding: 0 !important;
 }
+
+.historyEl .payment-container {
+    padding: 0px 10px !important;
+}
