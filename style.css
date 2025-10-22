@@ -2560,4 +2560,8 @@ input#walletNumber[data-v-6cf3898a] {
     #infoWagerModal .infoWagerModal-top {
         max-height: 438px !important;
     }
+
+    .statusInfo {
+        overflow: unset !important;
+    }
 }
