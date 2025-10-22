@@ -1441,7 +1441,7 @@
 
 @media (max-width: 1024px) and (orientation: landscape) {
     .modal-open {
-        height: 100svh;
+        min-height: 100svh;
         overflow: hidden;
     }
 }
@@ -2430,7 +2430,7 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .modal-open {
-    height: 100vh !important;
+    min-height: 100vh !important;
 }
 
 .wallet-number--rounded {
