@@ -2528,6 +2528,10 @@ input#walletNumber[data-v-6cf3898a] {
         grid-template-columns: 2.0fr 0.8fr 3.2fr 1.9fr !important;
         padding: 0;
     }
+
+    .statusInfo {
+        text-overflow:  unset !important;
+    }
 }
 
 .historyDate {
