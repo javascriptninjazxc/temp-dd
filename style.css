@@ -2520,9 +2520,6 @@ input#walletNumber[data-v-6cf3898a] {
     height: 100% !important;
 }
 
-.modal-open {
-    height: unset !important;
-}
 
 .historyHead {
     grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
