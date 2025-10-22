@@ -2530,3 +2530,6 @@ input#walletNumber[data-v-6cf3898a] {
     }
 }
 
+.historyDate {
+    border-radius: 6px 0px 0px 6px !important;
+}
