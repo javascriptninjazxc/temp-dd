@@ -1767,7 +1767,7 @@
     display: flex !important;
     flex-wrap: wrap !important;
 }
-@media (max-width: 500px) {
+@media (max-width: 700px) {
     #infoWagerModal .wager-modal {
         height: 421px !important;
     }
