@@ -2495,7 +2495,7 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .payment-container {
-    border-radius: 6px !important;
+    border-radius: 0px 6px 6px 0px !important;
 }
 
 .infoWagerModal-top {
