@@ -1769,7 +1769,7 @@
 }
 @media (max-width: 700px) {
     #infoWagerModal .wager-modal {
-        height: 403px !important;
+        height: 421px !important;
     }
 }
 
@@ -1778,7 +1778,6 @@
         margin-top: 150px !important;
     }
     #infoWagerModal .modal-dialog {
-        overflow: scroll !important;
         height: 100VH !important;
     }
 }
@@ -2536,4 +2535,8 @@ input#walletNumber[data-v-6cf3898a] {
 
 .historyDate {
     border-radius: 6px 0px 0px 6px !important;
+}
+
+.infoWagerModal-top {
+    overflow-y: auto !important;
 }
