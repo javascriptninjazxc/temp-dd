@@ -2541,3 +2541,9 @@ input#walletNumber[data-v-6cf3898a] {
 .infoWagerModal-top {
     overflow-y: auto !important;
 }
+
+@media (max-width: 344px) {
+    #infoWagerModal .wager-modal {
+        height: 421px !important;
+    }
+}
