@@ -2574,7 +2574,3 @@ input#walletNumber[data-v-6cf3898a] {
 .chat-modal-open .thirdBlock {
     z-index: -1 !important;
 }
-
-.chat-modal-open .secondBlock {
-    z-index: -1 !important;
-}
