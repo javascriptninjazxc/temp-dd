@@ -2565,3 +2565,12 @@ input#walletNumber[data-v-6cf3898a] {
         overflow: unset !important;
     }
 }
+
+.secondBlock {
+    position: relative !important;
+    z-index: -1;
+}
+
+.chat-modal-open .thirdBlock {
+    z-index: -1 !important;
+}
