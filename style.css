@@ -2547,10 +2547,3 @@ input#walletNumber[data-v-6cf3898a] {
         height: 421px !important;
     }
 }
-
-@media (min-width: 500px) and (max-width: 650px) {
-    #infoWagerModal .modal-body{
-        height: 65vh !important;
-    }
-
-}
