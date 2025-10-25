@@ -2571,11 +2571,5 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .statusInfo {
-    max-width: max-content !important;
-}
-
-@media (max-width: 560px) {
-    .statusInfo {
-        max-width: max-content !important;
-    }
+    max-width: fit-content !important;
 }
