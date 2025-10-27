@@ -2570,6 +2570,6 @@ input#walletNumber[data-v-6cf3898a] {
     z-index: -1 !important;
 }
 
-.PaymentInfoModal__content .statusInfo {
-    max-width: fit-content !important;
+.TelegramLinkModal {
+    position: unset !important;
 }
