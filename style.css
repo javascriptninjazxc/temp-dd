@@ -2577,3 +2577,7 @@ input#walletNumber[data-v-6cf3898a] {
 .rang__arrow--right {
     right: -20px !important;
 }
+
+.rang__arrow--left {
+    left: -20px !important;
+}
