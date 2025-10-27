@@ -2582,7 +2582,11 @@ input#walletNumber[data-v-6cf3898a] {
     left: -20px !important;
 }
 
-.blockRef .blockSelect {
-    display: flex;
-    flex-wrap: wrap;
+
+@media  (max-width: 700px) {
+
+    .blockRef .blockSelect {
+        display: block !Important;
+    }
+
 }
