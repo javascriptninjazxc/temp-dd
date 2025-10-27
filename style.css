@@ -2581,3 +2581,8 @@ input#walletNumber[data-v-6cf3898a] {
 .rang__arrow--left {
     left: -20px !important;
 }
+
+.blockRef .blockSelect {
+    display: flex;
+    flex-wrap: wrap;
+}
