@@ -2654,3 +2654,7 @@ input#walletNumber[data-v-6cf3898a] {
 .historyTable {
     height: 100% !important;
 }
+
+.avatar-modal  {
+    border-radius: 16px !important;
+}
