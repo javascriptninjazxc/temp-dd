@@ -2597,10 +2597,6 @@ input#walletNumber[data-v-6cf3898a] {
 
 
 @media (orientation: landscape) {
-    .historyBlock {
-        width: 829px !Important;
-        min-width: 829px !important;
-    }
 
     .payoutBlock {
         display: grid !important;
