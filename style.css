@@ -2619,6 +2619,15 @@ input#walletNumber[data-v-6cf3898a] {
     }
 
     .info-wager-modal-content {
+        grid-template-columns: 1fr !important;
+        width: 100% !important;
+    }
+
+    .modal-body:first-child {
+        border-radius: 14px !important;
+    }
+
+    .info-wager-modal-content {
         max-width: 100% !important;
     }
 }
