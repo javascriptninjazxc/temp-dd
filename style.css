@@ -2595,8 +2595,7 @@ input#walletNumber[data-v-6cf3898a] {
     background: #212335 !important;
 }
 
-
-@media @media only screen and (max-width: 1100px) and (orientation: landscape) {
+ @media only screen and (max-width: 1100px) and (orientation: landscape) {
 
     .payoutBlock {
         display: grid !important;
