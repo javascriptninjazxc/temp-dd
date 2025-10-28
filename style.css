@@ -2606,3 +2606,9 @@ input#walletNumber[data-v-6cf3898a] {
         max-height: 100% !important;
     }
 }
+
+@media (min-aspect-ratio: 3/4) and (max-aspect-ratio: 4/3) {
+    .wager-modal:nth-child(1) {
+        max-height: 100% !important;
+    }
+}
