@@ -2607,6 +2607,22 @@ input#walletNumber[data-v-6cf3898a] {
     }
 }
 
+@media screen and (max-width: 600px) {
+    .wager-modal:nth-child(1) {
+        max-height: 100% !important;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .wager-modal:nth-child(1) {
+        max-height: 100% !important;
+    }
+
+    .info-wager-modal-content {
+        max-width: 100% !important;
+    }
+}
+
 @media (min-aspect-ratio: 3/4) and (max-aspect-ratio: 4/3) {
     .wager-modal:nth-child(1) {
         max-height: 100% !important;
