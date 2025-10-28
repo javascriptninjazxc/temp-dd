@@ -2594,3 +2594,16 @@ input#walletNumber[data-v-6cf3898a] {
 .darkState .avatar-modal {
     background: #212335 !important;
 }
+
+
+@media (max-width: 1024px) and (orientation: landscape)  {
+
+    .payoutBlock {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+    }
+
+    .base-modal__content .modal-body {
+        max-height: 100% !important;
+    }
+}
