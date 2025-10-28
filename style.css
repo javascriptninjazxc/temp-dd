@@ -2606,3 +2606,13 @@ input#walletNumber[data-v-6cf3898a] {
         max-height: 100% !important;
     }
 }
+
+.historyHead__amount {
+    left: -9px;
+    position: relative;
+}
+
+.historyHead__status {
+    left: -14px;
+    position: relative;
+}
