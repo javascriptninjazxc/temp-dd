@@ -2595,6 +2595,16 @@ input#walletNumber[data-v-6cf3898a] {
     background: #212335 !important;
 }
 
-.base-modal__content  .modal-body {
-    height: 100% !important;
+
+@media (aspect-ratio: 9/16) {
+    body::after {
+        content: "9:16";
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        background: black;
+        color: white;
+        padding: 4px 8px;
+        font-size: 12px;
+    }
 }
