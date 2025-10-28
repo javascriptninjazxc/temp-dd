@@ -2594,3 +2594,7 @@ input#walletNumber[data-v-6cf3898a] {
 .darkState .avatar-modal {
     background: #212335 !important;
 }
+
+.base-modal__content  .modal-body {
+    height: 100% !important;
+}
