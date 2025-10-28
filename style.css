@@ -2608,6 +2608,6 @@ input#walletNumber[data-v-6cf3898a] {
     }
 
     .base-modal__content .modal-body {
-        height: 100% !important;
+        max-height: 100% !important;
     }
 }
