@@ -2606,4 +2606,8 @@ input#walletNumber[data-v-6cf3898a] {
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
     }
+
+    .base-modal__content .modal-body {
+        height: 100% !important;
+    }
 }
