@@ -2663,9 +2663,7 @@ input#walletNumber[data-v-6cf3898a] {
     max-height: 490px !important;
 }
 
-.payoutBlock .walletBlock {
-    min-width: fit-content;
-}
+
 
 .imgSystem>img {
     height: 36px !important;
