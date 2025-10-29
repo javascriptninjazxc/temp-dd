@@ -2660,7 +2660,7 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .withdrawWrapper-containe .histFlow {
-    max-height: 100% !important;
+    max-height: 490px !important;
 }
 
 .payoutBlock .walletBlock {
