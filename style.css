@@ -2671,3 +2671,8 @@ input#walletNumber[data-v-6cf3898a] {
     height: 36px !important;
     width: 36px !important;
 }
+
+.PaymentInfoModal__content {
+    word-break: break-all;
+    white-space: normal;
+}
