@@ -2659,7 +2659,7 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 16px !important;
 }
 
-.histFlow {
+.withdrawWrapper-containe .histFlow {
     max-height: 100% !important;
 }
 
