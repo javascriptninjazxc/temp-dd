@@ -2662,3 +2662,7 @@ input#walletNumber[data-v-6cf3898a] {
 .histFlow {
     max-height: 100% !important;
 }
+
+.payoutBlock .walletBlock {
+    min-width: fit-content;
+}
