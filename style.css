@@ -2658,3 +2658,11 @@ input#walletNumber[data-v-6cf3898a] {
 .avatar-modal  {
     border-radius: 16px !important;
 }
+
+.histFlow {
+    max-height: 100% !important;
+}
+
+.payoutBlock .walletBlock {
+    min-width: fit-content;
+}
