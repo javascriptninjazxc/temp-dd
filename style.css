@@ -2504,11 +2504,11 @@ input#walletNumber[data-v-6cf3898a] {
 
 
 .historyHead {
-    grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
+    grid-template-columns: .5fr .8fr 1.3fr 1fr 1fr !important;
 }
 
 .historyEl {
-    grid-template-columns: .8fr .8fr 1.3fr 1fr 1fr !important;
+    grid-template-columns: .5fr .8fr 1.3fr 1fr 1fr !important;
 }
 
 .window {
