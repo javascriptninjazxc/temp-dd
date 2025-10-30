@@ -2677,6 +2677,7 @@ input#walletNumber[data-v-6cf3898a] {
 
 .withdraw__input-wrapper {
     position: relative;
+    display: flex;
 }
 
 .withdraw__bank-icon {
