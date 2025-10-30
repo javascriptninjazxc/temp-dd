@@ -2731,9 +2731,13 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .input-coin-block {
-    position: relative;
+    position: relative !important;
 }
 
-.inp .wallet-crypto__input {
-    background: rgba(56, 59, 90, 1);
+.input-coin-block .wallet-crypto__input {
+    background: rgba(56, 59, 90, 1) !important;
+}
+
+.input-coin-block .wallet-crypto__input {
+    padding: 0 40px !important;
 }
