@@ -2659,12 +2659,20 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 16px !important;
 }
 
-.histFlow {
-    max-height: 100% !important;
+.withdrawWrapper-container .histFlow {
+    max-height: 490px !important;
 }
 
-.payoutBlock .walletBlock {
-    min-width: fit-content;
+
+
+.imgSystem>img {
+    height: 36px !important;
+    width: 36px !important;
+}
+
+.PaymentInfoModal__content {
+    word-break: break-all;
+    white-space: normal;
 }
 
 .withdraw__input-wrapper {
