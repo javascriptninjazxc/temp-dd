@@ -2764,3 +2764,7 @@ input#walletNumber[data-v-6cf3898a] {
 .darkState .walletBlock .inp {
     color: #AAB5DD !important;
 }
+
+.darkState .inp__default {
+    color: #657396 !important;
+}
