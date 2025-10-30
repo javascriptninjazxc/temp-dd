@@ -2772,8 +2772,8 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .darkState .depositSys .network__item:hover {
-    color: #000000 !important;
-    border: 1px solid #383b5a !important;
+    color: #fff !important;
+    border: 1px solid transparent!important;
     background: #9f8ff8 !important;
 }
 
