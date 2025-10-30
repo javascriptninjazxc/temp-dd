@@ -2741,3 +2741,8 @@ input#walletNumber[data-v-6cf3898a] {
 .input-coin-block .wallet-crypto__input {
     padding: 0 40px !important;
 }
+
+.darkState .network__item {
+    color: #9f8ff8;
+    border: 1px solid #383b5a;
+}
