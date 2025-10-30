@@ -2705,7 +2705,7 @@ input#walletNumber[data-v-6cf3898a] {
     width: 100% !important;
 }
 
-.inner-input__wallet {
+.walletBlock .inner-input__wallet {
     width: 100% !important;
 }
 
