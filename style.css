@@ -2734,6 +2734,6 @@ input#walletNumber[data-v-6cf3898a] {
     position: relative;
 }
 
-.wallet-crypto__input {
+.inp .wallet-crypto__input {
     background: rgba(56, 59, 90, 1);
 }
