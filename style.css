@@ -2769,3 +2769,9 @@ input#walletNumber[data-v-6cf3898a] {
     color: #6c779e !important;
     line-height: 41px;
 }
+
+.darkState .network__item .selectSystem, .selectSystem:hover {
+    color: #000000 !important;
+    border: 1px solid #383b5a !important;
+    background: #9f8ff8 !important;
+}
