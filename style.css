@@ -2724,6 +2724,7 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .walletMenu__item {
+    height: fit-content !important;
     display: flex;
     align-items: center;
 }
