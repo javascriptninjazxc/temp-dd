@@ -2765,7 +2765,7 @@ input#walletNumber[data-v-6cf3898a] {
     color: #AAB5DD !important;
 }
 
-.darkState .payoutBlock .inp__default {
+.darkState .payoutBlock .walletBlock .inp__default {
     color: #6c779e !important;
     line-height: 41px;
 }
