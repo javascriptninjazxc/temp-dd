@@ -2743,8 +2743,8 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .darkState .network__item {
-    color: #9f8ff8;
-    border: 1px solid #383b5a;
+    color: #9f8ff8 !important;
+    border: 1px solid #383b5a !important;
 }
 
 .darkState .network__item--active {
