@@ -2728,6 +2728,7 @@ input#walletNumber[data-v-6cf3898a] {
     height: fit-content !important;
     display: flex;
     align-items: center;
+    word-break: break-all;
 }
 
 .input-coin-block {
