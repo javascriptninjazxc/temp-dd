@@ -2691,7 +2691,11 @@ input#walletNumber[data-v-6cf3898a] {
     padding: 0 35px;
 }
 
-.walletBlock input {
+.darkState .walletBlock input {
+    background: rgba(56, 59, 90, 1) !important;
+}
+
+.darkState .walletBlock select {
     background: rgba(56, 59, 90, 1) !important;
 }
 
