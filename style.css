@@ -2791,4 +2791,5 @@ input#walletNumber[data-v-6cf3898a] {
 
 .converter__input {
     padding: 0 40px !important;
+    box-sizing: border-box !important;
 }
