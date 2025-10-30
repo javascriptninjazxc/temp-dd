@@ -2690,3 +2690,15 @@ input#walletNumber[data-v-6cf3898a] {
 .withdraw__bank-select {
     padding: 0 35px;
 }
+
+.walletBlock input {
+    background: rgba(56, 59, 90, 1) !important;
+}
+
+.wallet-number__input-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: rgba(101, 115, 150, 1);
+}
