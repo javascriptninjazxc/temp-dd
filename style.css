@@ -2728,3 +2728,11 @@ input#walletNumber[data-v-6cf3898a] {
     display: flex;
     align-items: center;
 }
+
+.input-coin-block {
+    position: relative;
+}
+
+.wallet-crypto__input {
+    background: rgba(56, 59, 90, 1);
+}
