@@ -2707,3 +2707,7 @@ input#walletNumber[data-v-6cf3898a] {
     transform: translateY(-50%);
     color: rgba(101, 115, 150, 1);
 }
+
+.walletBlock .inner-input {
+    box-sizing: border-box;
+}
