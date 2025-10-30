@@ -2674,19 +2674,3 @@ input#walletNumber[data-v-6cf3898a] {
     word-break: break-all;
     white-space: normal;
 }
-
-.withdraw__input-wrapper {
-    position: relative;
-}
-
-.withdraw__bank-icon {
-    position: absolute;
-    z-index: 1;
-    top: 50%;
-    transform: translateY(-50%);
-    left: 10px;
-}
-
-.withdraw__bank-select {
-    padding: 0 35px;
-}
