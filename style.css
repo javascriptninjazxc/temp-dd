@@ -2746,3 +2746,9 @@ input#walletNumber[data-v-6cf3898a] {
     color: #9f8ff8;
     border: 1px solid #383b5a;
 }
+
+.darkState .network__item--active {
+    color: #000000 !important;
+    border: 1px solid #383b5a !important;
+    background: #9f8ff8 !important;
+}
