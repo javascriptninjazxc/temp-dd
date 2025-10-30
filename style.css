@@ -2794,3 +2794,7 @@ input#walletNumber[data-v-6cf3898a] {
     padding: 0 40px !important;
     box-sizing: border-box !important;
 }
+
+.withdraw-fk-wallet .miniDesc {
+    color: #6c779e !important;
+}
