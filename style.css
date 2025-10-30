@@ -2756,3 +2756,7 @@ input#walletNumber[data-v-6cf3898a] {
 .deposit__input {
     box-sizing: border-box !important;
 }
+
+.darkState .historyDate, .labelInp, .thisAmount {
+    color: #AAB5DD !important;
+}
