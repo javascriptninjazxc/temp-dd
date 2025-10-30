@@ -2775,3 +2775,8 @@ input#walletNumber[data-v-6cf3898a] {
     border: 1px solid #383b5a !important;
     background: #9f8ff8 !important;
 }
+
+.withdraw-tag__input {
+    box-sizing: border-box !important;
+    padding: 0 40px !important;
+}
