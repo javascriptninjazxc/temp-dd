@@ -2784,3 +2784,11 @@ input#walletNumber[data-v-6cf3898a] {
 .withdraw-tag-wrapper {
     position: relative;
 }
+
+.converter {
+    position: relative;
+}
+
+.converter__input {
+    padding: 0 40px !important;
+}
