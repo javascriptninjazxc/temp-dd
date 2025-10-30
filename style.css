@@ -2722,3 +2722,8 @@ input#walletNumber[data-v-6cf3898a] {
 .walletBlock .inner-input {
     box-sizing: border-box;
 }
+
+.walletMenu__item {
+    display: flex;
+    align-items: center;
+}
