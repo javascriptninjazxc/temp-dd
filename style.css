@@ -2740,6 +2740,11 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .input-coin-block .wallet-crypto__input {
+    display: flex;
+    align-items: center;
+}
+
+.input-coin-block .wallet-crypto__input {
     padding: 0 40px !important;
 }
 
