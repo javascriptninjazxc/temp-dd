@@ -2803,3 +2803,9 @@ input#walletNumber[data-v-6cf3898a] {
 .withdraw-fk-wallet .miniDesc {
     color: #6c779e !important;
 }
+
+@media (max-width: 500px) {
+    .historyBlock {
+        overflow-y: auto !important;
+    }
+}
