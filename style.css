@@ -2764,7 +2764,7 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .darkState .walletBlock .inp {
-    color: #AAB5DD ;
+    color: #AAB5DD !important;
 }
 
 .darkState .payoutBlock .walletBlock .inp__default {
@@ -2806,6 +2806,6 @@ input#walletNumber[data-v-6cf3898a] {
     }
 }
 
-.historyDate .labelInp {
-    color: #6C779E !important;
+.labelInp {
+    color: #6C779E !important !important;
 }
