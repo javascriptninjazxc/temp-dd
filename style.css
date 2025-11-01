@@ -2763,10 +2763,6 @@ input#walletNumber[data-v-6cf3898a] {
     box-sizing: border-box !important;
 }
 
-.darkState .historyDate, .labelInp, .thisAmount {
-    color: #AAB5DD ;
-}
-
 .darkState .walletBlock .inp {
     color: #AAB5DD ;
 }
