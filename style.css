@@ -2764,11 +2764,11 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .darkState .historyDate, .labelInp, .thisAmount {
-    color: #AAB5DD !important;
+    color: #AAB5DD ;
 }
 
 .darkState .walletBlock .inp {
-    color: #AAB5DD !important;
+    color: #AAB5DD ;
 }
 
 .darkState .payoutBlock .walletBlock .inp__default {
