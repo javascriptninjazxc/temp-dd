@@ -2810,6 +2810,10 @@ input#walletNumber[data-v-6cf3898a] {
     }
 }
 
-.labelInp {
-    color: #6C779E;
+.historyDate .labelInp {
+    color: #6C779E !important;
+}
+
+.darkState .historyDate, .labelInp {
+    color: #AAB5DD;
 }
