@@ -2844,3 +2844,8 @@ input#walletNumber[data-v-6cf3898a] {
     }
 
 }
+
+.condition-wrapper-right-content-more span  {
+    font-family: RubikBold !important;
+    font-weight: 500 !important;
+}
