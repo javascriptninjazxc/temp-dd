@@ -2819,5 +2819,5 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .modal-open .bottom-menu{
-    z-index: 0 !important;
+    z-index: -1 !important;
 }
