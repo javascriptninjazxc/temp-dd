@@ -2827,3 +2827,20 @@ input#walletNumber[data-v-6cf3898a] {
     left: 8px;
     top: -2px;
 }
+
+@media screen and (min-width: 700px) and (max-width: 2000px) {
+    .historyHead__id {
+        left: -12px;
+        position: relative;
+    }
+
+    .historyHead__amount {
+        left: -17px;
+    }
+
+    .historyHead__status {
+        left: -45px;
+        position: relative;
+    }
+
+}
