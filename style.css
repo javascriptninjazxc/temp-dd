@@ -2849,3 +2849,7 @@ input#walletNumber[data-v-6cf3898a] {
     font-family: RubikBold !important;
     font-weight: 500 !important;
 }
+
+.darkState .bottom-menu {
+    background: rgba(54, 57, 78, .4) !important;
+}
