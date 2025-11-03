@@ -2828,7 +2828,7 @@ input#walletNumber[data-v-6cf3898a] {
     top: -2px;
 }
 
-@media screen and (min-width: 700px) and (max-width: 2000px) {
+@media screen and (min-width: 700px) and (max-width: 2100px) {
     .historyHead__id {
         left: -12px!important;
         position: relative;
