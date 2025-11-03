@@ -2830,16 +2830,16 @@ input#walletNumber[data-v-6cf3898a] {
 
 @media screen and (min-width: 700px) and (max-width: 2000px) {
     .historyHead__id {
-        left: -12px;
+        left: -12px!important;
         position: relative;
     }
 
     .historyHead__amount {
-        left: -17px;
+        left: -17px !important;
     }
 
     .historyHead__status {
-        left: -45px;
+        left: -45px!important;
         position: relative;
     }
 
