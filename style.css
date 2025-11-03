@@ -2821,3 +2821,9 @@ input#walletNumber[data-v-6cf3898a] {
 .modal-open .bottom-menu{
     z-index: -1 !important;
 }
+
+.paginate_button {
+    position: relative;
+    left: 8px;
+    top: -2px;
+}
