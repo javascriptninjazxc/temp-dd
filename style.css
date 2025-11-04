@@ -2857,3 +2857,23 @@ input#walletNumber[data-v-6cf3898a] {
 .historyEl {
     column-gap: 3px !important;
 }
+
+.historyDate {
+    border-radius: 6px !important;
+}
+
+.imgSystem {
+    border-radius: 6px !important;
+}
+
+.walletHistory {
+    border-radius: 6px !important;
+}
+
+.thisAmount  {
+    border-radius: 6px !important;
+}
+
+.payment-container {
+    border-radius: 6px !important;
+}
