@@ -2890,11 +2890,11 @@ input#walletNumber[data-v-6cf3898a] {
 
 .bottom-menu[data-v-9d9f4450] {
     backdrop-filter: blur(16px);
-    background: rgba(245, 246, 250, .40);
-    border: 1px solid rgba(53, 83, 169, .1);
+    background: rgba(245, 246, 250, .40) !important;
+    border: 1px solid rgba(53, 83, 169, .1) !important;
     border-radius: 99px;
     bottom: 5px;
-    box-shadow: 0 2px 42px 0 rgba(0, 0, 0, .10);
+    box-shadow: 0 2px 42px 0 rgba(0, 0, 0, .10) !important;
     box-sizing: border-box;
     left: 50%;
     max-width: 500px;
