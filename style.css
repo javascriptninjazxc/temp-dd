@@ -2894,3 +2894,9 @@ input#walletNumber[data-v-6cf3898a] {
         height: 385px !important;
     }
 }
+
+.showBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
