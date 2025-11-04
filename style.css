@@ -2853,3 +2853,7 @@ input#walletNumber[data-v-6cf3898a] {
 .darkState .bottom-menu {
     background: rgba(54, 57, 78, .4) !important;
 }
+
+.historyEl {
+    column-gap: 3px !important;
+}
