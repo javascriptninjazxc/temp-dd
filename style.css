@@ -2893,3 +2893,7 @@ input#walletNumber[data-v-6cf3898a] {
         box-shadow: none !important;
     }
 }
+
+.info-wager-modal-content .modal-body {
+    max-height: 100% !important;
+}
