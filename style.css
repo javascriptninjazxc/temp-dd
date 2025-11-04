@@ -2877,3 +2877,6 @@ input#walletNumber[data-v-6cf3898a] {
 .payment-container {
     border-radius: 6px !important;
 }
+.playGame {
+    margin: 0px !important;
+}
