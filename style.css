@@ -2493,10 +2493,6 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 0px 6px 6px 0px !important;
 }
 
-.infoWagerModal-top {
-    overflow-y: auto !important;
-}
-
 .game-info-item.keno-anim {
     height: 100% !important;
 }
@@ -2533,9 +2529,6 @@ input#walletNumber[data-v-6cf3898a] {
     border-radius: 6px 0px 0px 6px !important;
 }
 
-.infoWagerModal-top {
-    overflow-y: auto !important;
-}
 
 @media (max-width: 344px) {
     #infoWagerModal .wager-modal {
@@ -2552,9 +2545,6 @@ input#walletNumber[data-v-6cf3898a] {
 
 
 @media (max-width: 500px) {
-    #infoWagerModal .infoWagerModal-top {
-        max-height: 438px !important;
-    }
 
     .statusInfo {
         overflow: unset !important;
