@@ -2888,19 +2888,8 @@ input#walletNumber[data-v-6cf3898a] {
     color: #9f8ff8;
 }
 
-
-.darkState .bottom-menu[data-v-9d9f4450] {
-    backdrop-filter: blur(16px);
-    background: rgba(54, 57, 78, .8);
-    border: 1px solid rgba(53, 83, 169, .1);
-    border-radius: 99px;
-    bottom: 5px;
-    box-shadow: 0 2px 42px 0 rgba(0, 0, 0, .1);
-    box-sizing: border-box;
-    left: 50%;
-    max-width: 500px;
-    padding: 12px 10px;
-    position: fixed;
-    transform: translateX(-50%);
-    width: calc(100% - 20px);
+@media (max-width: 1024px) {
+    .secondBlock {
+        box-shadow: none !important;
+    }
 }
