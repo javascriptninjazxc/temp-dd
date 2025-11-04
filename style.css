@@ -2884,3 +2884,7 @@ input#walletNumber[data-v-6cf3898a] {
 .bottom-nav__item {
     filter: grayscale(0) !important;
 }
+
+.promocodes-nav__title {
+    color: #9f8ff8;
+}
