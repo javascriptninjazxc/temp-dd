@@ -2880,3 +2880,7 @@ input#walletNumber[data-v-6cf3898a] {
 .wb-game--form .playGame {
     margin: 0px !important;
 }
+
+.bottom-nav__item {
+    filter: grayscale(0) !important;
+}
