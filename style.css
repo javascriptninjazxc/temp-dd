@@ -2914,3 +2914,9 @@ input#walletNumber[data-v-6cf3898a] {
     transform: translateY(-50%);
     left: 12px;
 }
+
+.showBlock img {
+    top: 0 !important;
+    transform: none !important;
+    left: 0 !important;
+}
