@@ -2563,11 +2563,11 @@ input#walletNumber[data-v-6cf3898a] {
     position: unset !important;
 }
 
-.rang__arrow--right {
+.TelegramLinkModal .rang__arrow--right {
     right: -20px !important;
 }
 
-.rang__arrow--left {
+.TelegramLinkModal .rang__arrow--left {
     left: -20px !important;
 }
 
@@ -2919,6 +2919,16 @@ input#walletNumber[data-v-6cf3898a] {
     top: 0 !important;
     transform: none !important;
     left: 0 !important;
+}
+
+.faq-header .faq-card:hover {
+        box-shadow: unset !important;
+}
+
+a.paginate_button {
+    left: 0;
+    top: 0;
+    bottom: 0;
 }
 
 .deposit__input {
