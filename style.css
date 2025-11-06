@@ -2936,6 +2936,16 @@ a.paginate_button {
     margin: 0 !important;
 }
 
+span.paginate_button {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    position: static;
+    align-items: center;
+    margin: 0 !important;
+}
+
 .deposit__input {
     width: 100%;
 }
