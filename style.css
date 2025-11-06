@@ -2921,8 +2921,9 @@ input#walletNumber[data-v-6cf3898a] {
     left: 0 !important;
 }
 
-.faq-header .faq-card:hover {
-        box-shadow: unset !important;
+.faq-header .faq-card {
+    box-shadow: none !important;
+    transition: none;
 }
 
 a.paginate_button {
