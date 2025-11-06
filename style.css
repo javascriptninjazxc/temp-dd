@@ -2930,6 +2930,9 @@ a.paginate_button {
     left: 0;
     top: 0;
     bottom: 0;
+    display: flex;
+    position: static;
+    align-items: center;
 }
 
 .deposit__input {
