@@ -2951,3 +2951,7 @@ a.paginate_button {
 .repost-card {
     grid-template-columns: 1fr 1fr !Important;
 }
+
+.paging_simple_numbers {
+    gap: 5px;
+}
