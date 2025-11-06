@@ -2920,3 +2920,7 @@ input#walletNumber[data-v-6cf3898a] {
     transform: none !important;
     left: 0 !important;
 }
+
+.deposit__input {
+    width: 100%;
+}
