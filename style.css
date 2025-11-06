@@ -2933,6 +2933,7 @@ a.paginate_button {
     display: flex;
     position: static;
     align-items: center;
+    margin: 0 !important;
 }
 
 .deposit__input {
