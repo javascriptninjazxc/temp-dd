@@ -2923,7 +2923,7 @@ input#walletNumber[data-v-6cf3898a] {
 
 .faq-header .faq-card {
     box-shadow: none !important;
-    transition: none;
+    transition: none !important;
 }
 
 a.paginate_button {
