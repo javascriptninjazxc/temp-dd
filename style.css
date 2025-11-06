@@ -2934,3 +2934,11 @@ a.paginate_button {
 .deposit__input {
     width: 100%;
 }
+
+.rang-container .rang__arrow--right{
+    right: 0 !important;
+}
+
+.rang-container .rang__arrow--left {
+    left: 0 !important;
+}
