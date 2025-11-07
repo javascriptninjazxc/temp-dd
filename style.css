@@ -2948,6 +2948,10 @@ a.paginate_button {
     grid-template-columns: 1fr 1fr !Important;
 }
 
+.paging_simple_numbers {
+    gap: 5px;
+}
+
 .rang-container .rang__arrow {
     display: block !important;
 }
