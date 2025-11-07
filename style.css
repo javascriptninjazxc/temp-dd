@@ -2979,3 +2979,7 @@ span.paginate_button {
 .rang-container .rang__arrow--left {
     display: block !important;
 }
+
+.deposit__input {
+    width: 100%;
+}
