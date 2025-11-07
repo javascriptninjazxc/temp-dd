@@ -2993,3 +2993,7 @@ span.paginate_button {
         display: none !important;
     }
 }
+
+.quest {
+    z-index: 0 !Important;
+}
