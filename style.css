@@ -2975,3 +2975,7 @@ span.paginate_button {
 .rang-container .rang__arrow {
     display: block !important;
 }
+
+.rang-container .rang__arrow--left {
+    display: block !important;
+}
