@@ -2983,3 +2983,13 @@ span.paginate_button {
 .deposit__input {
     width: 100%;
 }
+
+@media (min-width: 1200px) {
+    .rang-container .rang__arrow {
+        display: none !important;
+    }
+
+    .rang-container .rang__arrow--left {
+        display: none !important;
+    }
+}
