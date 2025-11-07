@@ -2952,6 +2952,26 @@ a.paginate_button {
     gap: 5px;
 }
 
+a.paginate_button {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    position: static;
+    align-items: center;
+    margin: 0 !important;
+}
+
+span.paginate_button {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    position: static;
+    align-items: center;
+    margin: 0 !important;
+}
+
 .rang-container .rang__arrow {
     display: block !important;
 }
