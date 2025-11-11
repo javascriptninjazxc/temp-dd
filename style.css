@@ -2997,3 +2997,16 @@ span.paginate_button {
 .quest {
     z-index: 0 !Important;
 }
+
+@media (min-width: 370px) and (max-width: 410px) {
+   .transactions .transactions__td[data-v-1a2e8729] {
+        padding: 8px 7px !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .historyBlock {
+        overflow: hidden !important;
+        overflow-y: auto !important;
+    }
+}
