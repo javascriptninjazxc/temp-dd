@@ -3066,3 +3066,7 @@ span.paginate_button {
         font-size: 11px;
     }
 }
+
+.welcome-modal__brand {
+    width: 48px!important;
+}
