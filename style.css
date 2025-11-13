@@ -3010,3 +3010,41 @@ span.paginate_button {
         overflow-y: auto !important;
     }
 }
+
+.transactions {
+    width: 100% !important;
+    display: block !important;
+    border-collapse: separate !important;
+    border-spacing: 3px 0px !important;
+}
+
+.transactions thead {
+    display: table !important;
+    width: 100% !important;
+    table-layout: fixed !important;
+}
+
+.transactions tbody {
+    display: block ;
+    max-height: 500px;
+    overflow-y: auto !important;
+    overflow: hidden;
+    width: 100%;
+}
+
+.transactions tr {
+    display: table
+    width: 100%;
+    table-layout: fixed;
+}
+
+.transactions td {
+    padding: 7px 14px !important;
+}
+
+.transactions td {
+    padding: 5px 8px !important;
+}
+
+.transactions th:nth-child(1),
+.transactions td:nth-child(1) { width: 60px; }
