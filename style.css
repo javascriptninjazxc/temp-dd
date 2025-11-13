@@ -3049,6 +3049,8 @@ span.paginate_button {
 .transactions th:nth-child(1),
 .transactions td:nth-child(1) { width: 60px; }
 
-.transactions th:nth-child(1), .transactions td:nth-child(2) {
-    width: 90px;
+@media (max-width: 430px) {
+    .transactions th:nth-child(1), .transactions td:nth-child(2) {
+        width: 90px;
+    }
 }
