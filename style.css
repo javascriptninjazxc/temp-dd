@@ -3054,3 +3054,9 @@ span.paginate_button {
         width: 90px;
     }
 }
+
+@media (max-width: 439px) {
+    .transactions__text[data-v-7243eddd] {
+        font-size: 11px;
+    }
+}
