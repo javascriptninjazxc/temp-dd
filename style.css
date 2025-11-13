@@ -3011,3 +3011,28 @@ span.paginate_button {
     }
 }
 
+.transactions {
+    width: 100% !important;
+    display: block !important;
+    border-collapse: separate !important;
+    border-spacing: 3px 0px !important;
+}
+
+.transactions thead {
+    display: table !important;
+    width: 100% !important;
+    table-layout: fixed !important;
+}
+
+.transactions tbody {
+    display: block !important;
+    max-height: 500px !important;
+    overflow-y: auto !important;
+    width: 100% !important;
+}
+
+.transactions tr {
+    display: table !important;
+    width: 100% !important;
+    table-layout: fixed !important;
+}
