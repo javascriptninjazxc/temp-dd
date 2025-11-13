@@ -3070,3 +3070,10 @@ span.paginate_button {
 .welcome-modal__brand {
     width: 48px!important;
 }
+
+@media screen and (max-width: 1024px) {
+    .secondBlock {
+        overflow: hidden !important;
+        overflow-x: hidden !important;
+    }
+}
