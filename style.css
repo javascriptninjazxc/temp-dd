@@ -3011,3 +3011,16 @@ span.paginate_button {
     }
 }
 
+@media (max-width: 1555px) {
+    .payoutBlock {
+        gap: 10px !important;
+        grid-template-columns: 1fr 1fr !important;
+    }
+
+    .historyBlock {
+        width: 100% !important;
+        grid-column: span 2 !Important;
+        box-sizing: border-box;
+    }
+
+}
