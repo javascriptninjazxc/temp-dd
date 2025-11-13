@@ -3040,3 +3040,7 @@ span.paginate_button {
 .transactions td {
     padding: 7px 14px !important;
 }
+
+.transactions td {
+    padding: 5px 8px !important;
+}
