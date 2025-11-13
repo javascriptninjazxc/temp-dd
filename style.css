@@ -3025,16 +3025,17 @@ span.paginate_button {
 }
 
 .transactions tbody {
-    display: block !important;
-    max-height: 500px !important;
+    display: block ;
+    max-height: 500px;
     overflow-y: auto !important;
-    width: 100% !important;
+    overflow: hidden;
+    width: 100%;
 }
 
 .transactions tr {
-    display: table !important;
-    width: 100% !important;
-    table-layout: fixed !important;
+    display: table
+    width: 100%;
+    table-layout: fixed;
 }
 
 .transactions td {
@@ -3044,3 +3045,6 @@ span.paginate_button {
 .transactions td {
     padding: 5px 8px !important;
 }
+
+.transactions th:nth-child(1),
+.transactions td:nth-child(1) { width: 60px; }
