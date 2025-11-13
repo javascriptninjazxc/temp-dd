@@ -3025,7 +3025,6 @@ span.paginate_button {
 }
 
 .transactions tbody {
-    display: block ;
     max-height: 500px;
     overflow-y: auto !important;
     overflow: hidden;
