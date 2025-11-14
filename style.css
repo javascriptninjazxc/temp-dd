@@ -3071,14 +3071,13 @@ span.paginate_button {
     width: 48px!important;
 }
 
-<<<<<<< HEAD
 .walletMenu>div {
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
-=======
+}
+
 @media screen and (max-width: 1024px) {
     .secondBlock {
         overflow: hidden !important;
         overflow-x: hidden !important;
     }
->>>>>>> 4e6f154817e16413a8ef61c4ee681b0c16a3d782
 }
