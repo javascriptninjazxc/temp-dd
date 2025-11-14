@@ -3091,3 +3091,6 @@ span.paginate_button {
 .modal-open .bottom-menu {
     z-index: 0 !important;
 }
+.modal-open * {
+    z-index: unset !important;
+}
