@@ -3087,3 +3087,7 @@ span.paginate_button {
 .input#walletNumber {
     border-radius: 6px !important;
 }
+
+.modal-open .bottom-menu {
+    z-index: 0 !important;
+}
