@@ -3100,3 +3100,7 @@ span.paginate_button {
 .modalBlock .modal1 .textEnter span {
     color: #3566fb !important;
 }
+
+.game-history-item__count {
+    color: #aab5dd !important;
+}
