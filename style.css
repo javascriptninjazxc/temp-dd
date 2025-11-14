@@ -3081,3 +3081,7 @@ span.paginate_button {
         overflow-x: hidden !important;
     }
 }
+
+.input#walletNumber {
+    border-radius: 6px !important;
+}
