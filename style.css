@@ -3092,3 +3092,11 @@ span.paginate_button {
     width: 48px;
     height: 48px;
 }
+
+.darkState .modalBlock .modal1 .textEnter span {
+    color: #7265fd !important;
+}
+
+.modalBlock .modal1 .textEnter span {
+    color: #3566fb !important;
+}
