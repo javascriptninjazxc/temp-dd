@@ -2583,6 +2583,7 @@ input#walletNumber[data-v-6cf3898a] {
  @media only screen and (max-width: 1100px) and (orientation: landscape) {
 
     .payoutBlock {
+        display: grid !important;
         grid-template-columns: 1fr !important;
     }
 
@@ -3098,4 +3099,10 @@ span.paginate_button {
 
 .game-history-item__count {
     color: #aab5dd !important;
+}
+
+@media screen and (max-width: 767px) and (orientation: landscape) {
+    .payoutBlock {
+        display: block !important;
+    }
 }
