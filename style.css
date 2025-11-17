@@ -3119,3 +3119,10 @@ span.paginate_button {
 .transactions th:nth-child(1), .transactions td:nth-child(1) {
     width: 68px !important;
 }
+
+@media (max-width: 459px) {
+    .quest-btn {
+        position: absolute;
+        bottom: 5px;
+    }
+}
