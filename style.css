@@ -3118,3 +3118,7 @@ span.paginate_button {
     opacity: 1;
     height: fit-content !Important;
 }
+
+.transactions th:nth-child(1), .transactions td:nth-child(1) {
+    width: 68px !important;
+}
