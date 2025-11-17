@@ -3104,7 +3104,3 @@ span.paginate_button {
 .game-history-item__count {
     color: #aab5dd !important;
 }
-
-.cell .isWin {
-    background-image: url('/public/images/logo-cookie.svg') !important;
-}
