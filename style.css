@@ -3132,5 +3132,9 @@ span.paginate_button {
     .repost-card--large {
         grid-column: span 2 !important;
     }
+
+    .quest {
+        height: 225px;
+    }
 }
 
