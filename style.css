@@ -3114,13 +3114,11 @@ span.paginate_button {
     overflow: hidden;
     transition: transform 0.25s ease, opacity 0.25s ease;
     height: auto !important;
-    display: none !important;
 }
 
 .walletMenuOpen {
     transform: scaleY(1);
     opacity: 1;
-    display: block !important;
 }
 
 .transactions th:nth-child(1), .transactions td:nth-child(1) {
