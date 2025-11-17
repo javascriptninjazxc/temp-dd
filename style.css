@@ -3106,3 +3106,14 @@ span.paginate_button {
         display: block !important;
     }
 }
+
+.walletMenu {
+    transform: scaleY(0);
+    opacity: 0;
+    transition: all 0.25s ease;
+}
+
+.walletMenuOpen {
+    transform: scaleY(1);
+    opacity: 1;
+}
