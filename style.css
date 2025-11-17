@@ -3108,16 +3108,17 @@ span.paginate_button {
 }
 
 .walletMenu {
+    transform-origin: top;
     transform: scaleY(0);
     opacity: 0;
-    transition: all 0.25s ease;
-    transform-origin: top;
+    overflow: hidden;
+    transition: transform 0.25s ease, opacity 0.25s ease;
+    height: auto !important;
 }
 
 .walletMenuOpen {
     transform: scaleY(1);
     opacity: 1;
-    height: fit-content !Important;
 }
 
 .transactions th:nth-child(1), .transactions td:nth-child(1) {
