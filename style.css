@@ -3122,7 +3122,7 @@ span.paginate_button {
     width: 68px !important;
 }
 
-@media (max-width: 459px) {
+@media (max-width: 488px) {
     .quest-btn {
         position: absolute;
         bottom: 5px;
