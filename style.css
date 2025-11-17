@@ -3129,8 +3129,8 @@ span.paginate_button {
 
     }
 
-    .repost-card--large {
-        grid-column: span 2 !important;
+    .repost-card {
+        grid-template-columns: 1fr !important;
     }
 
     .quest {
