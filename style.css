@@ -3125,4 +3125,8 @@ span.paginate_button {
         position: absolute;
         bottom: 5px;
     }
+
+    .repost-card--large {
+        grid-column: span 2 !important;
+    }
 }
