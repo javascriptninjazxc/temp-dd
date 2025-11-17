@@ -3116,4 +3116,5 @@ span.paginate_button {
 .walletMenuOpen {
     transform: scaleY(1);
     opacity: 1;
+    height: fit-content !Important;
 }
