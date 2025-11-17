@@ -3112,8 +3112,8 @@ span.paginate_button {
     transform: scaleY(0);
     opacity: 0;
     overflow: hidden;
-    transition: transform 0.25s ease, opacity 0.25s ease;
     height: auto !important;
+    transition: transform .25s ease, opacity .25s ease;
 }
 
 .walletMenuOpen {
