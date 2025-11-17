@@ -3101,6 +3101,10 @@ span.paginate_button {
     color: #3566fb !important;
 }
 
+.game-history-item__count {
+    color: #aab5dd !important;
+}
+
 .cell .isWin {
     background-image: url('/public/images/logo-cookie.svg') !important;
 }
