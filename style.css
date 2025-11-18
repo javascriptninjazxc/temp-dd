@@ -3153,3 +3153,6 @@ span.paginate_button {
 }
 
 
+.rang-container {
+    height: 100vh !important;
+}
