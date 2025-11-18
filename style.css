@@ -3143,4 +3143,6 @@ span.paginate_button {
 
 .amount .showBlock {
     margin: 0 !important;
+    width: 16px !Important;
+    height: 16px  !Important;
 }
