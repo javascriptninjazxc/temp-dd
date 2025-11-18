@@ -3156,3 +3156,8 @@ span.paginate_button {
 .rang-container {
     height: 100vh !important;
 }
+
+.darkState .amount .pending {
+    background-color: #fc9a07 !important;
+    color: #fff !important;
+}
