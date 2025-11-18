@@ -3147,3 +3147,7 @@ span.paginate_button {
     height: 16px  !Important;
     background: unset !Important;
 }
+
+.date-cell .date {
+    font-weight: 500 !important;
+}
