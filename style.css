@@ -3155,3 +3155,9 @@ span.paginate_button {
 .rang-container {
     height: auto;
 }
+
+@media (orientation: landscape) and (max-height: 600px) {
+    .rang-container {
+        min-height: fit-content /* подбираешь под свой UI */
+    }
+}
