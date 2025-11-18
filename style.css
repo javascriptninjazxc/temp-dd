@@ -3161,3 +3161,10 @@ span.paginate_button {
     background-color: #fc9a07 !important;
     color: #fff !important;
 }
+
+@media screen and (max-width: 500px) {
+    .transactions__td .showBlock {
+        top: 0 !important;
+        right: 0 !important;
+    }
+}
