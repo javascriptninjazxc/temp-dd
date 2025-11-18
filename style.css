@@ -3145,4 +3145,5 @@ span.paginate_button {
     margin: 0 !important;
     width: 16px !Important;
     height: 16px  !Important;
+    background: unset !Important;
 }
