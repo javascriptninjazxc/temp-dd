@@ -3151,3 +3151,7 @@ span.paginate_button {
 .date-cell .date {
     font-weight: 500 !important;
 }
+
+.rang-container {
+    height: auto;
+}
