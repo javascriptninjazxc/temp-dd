@@ -3168,3 +3168,11 @@ span.paginate_button {
         right: 0 !important;
     }
 }
+
+.Vue-Toastification__toast.Vue-Toastification__toast--success.bottom-center.socketConnection, .Vue-Toastification__toast.Vue-Toastification__toast--success.crashNotification,
+.Vue-Toastification__toast.Vue-Toastification__toast--error.crashNotification {
+    border-radius: 16px !important;
+    min-height: 45px !important;
+    padding: 7px 20px 7px !important;
+    min-width: auto !important;
+}
