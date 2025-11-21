@@ -3180,3 +3180,9 @@ span.paginate_button {
 .walletMenuOpen {
     height: 170px !important;
 }
+
+@media (max-width: 810px) {
+    .bonus-tabs {
+        flex-wrap: wrap;
+    }
+}
