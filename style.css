@@ -3176,3 +3176,7 @@ span.paginate_button {
     padding: 7px 20px 7px !important;
     min-width: auto !important;
 }
+
+.walletMenuOpen {
+    height: 170px !important;
+}
