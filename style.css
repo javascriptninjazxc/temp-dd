@@ -2804,7 +2804,7 @@ input#walletNumber[data-v-6cf3898a] {
 }
 
 .modal-open .bottom-menu{
-    z-index: -1 !important;
+    z-index: 0 !important;
 }
 
 .paginate_button {
@@ -3190,3 +3190,4 @@ span.paginate_button {
         flex-wrap: wrap !important;
     }
 }
+
