@@ -3181,12 +3181,12 @@ span.paginate_button {
     height: 170px !important;
 }
 
+.bonus-tabs-container .bonus-tabs[data-v-33e86d38] {
+    flex-wrap: unset;
+}
+
 @media (max-width: 810px) {
     .bonus-tabs {
         flex-wrap: wrap !important;
     }
-}
-
-.bonus-tabs[data-v-33e86d38] {
-    flex-wrap: unset !important;
 }
