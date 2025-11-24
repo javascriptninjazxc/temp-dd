@@ -3194,3 +3194,17 @@ span.paginate_button {
 .darkState .auth-loader-fill {
     background: #9f8ff8;
 }
+
+.errBlock .miniDesc {
+    text-align: center;
+}
+
+.walletBlock .errBlock {
+    background: rgb(44, 122, 234, .10) !important;
+}
+
+.walletBlock .withdraw-fk-wallet .miniDesc {
+    color: #6C779e !important;
+}
+
+
