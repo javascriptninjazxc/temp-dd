@@ -3196,3 +3196,16 @@ span.paginate_button {
 }
 
 
+.withdraw-fk-wallet .miniDesc {
+    text-align: center;
+}
+
+.walletBlock .withdraw-fk-wallet {
+    background: rgb(44, 122, 234, .10) !important;
+}
+
+.walletBlock .withdraw-fk-wallet .miniDesc {
+    color: #6C779e !important;
+}
+
+
