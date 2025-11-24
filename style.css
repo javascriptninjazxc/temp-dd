@@ -3200,9 +3200,6 @@ span.paginate_button {
     text-align: center;
 }
 
-.payoutBlock-payment .walletBlock .withdraw-fk-wallet {
-    background: rgb(44, 122, 234, .10) !important;
-}
 
 .walletBlock .withdraw-fk-wallet .miniDesc {
     color: #6C779e !important;
