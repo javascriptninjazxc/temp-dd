@@ -3192,7 +3192,7 @@ span.paginate_button {
 }
 
 .darkState .auth-loader-fill {
-    background: #9f8ff8;
+    background: #9f8ff8 !important;
 }
 
 
