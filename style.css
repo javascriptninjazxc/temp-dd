@@ -3208,3 +3208,7 @@ span.paginate_button {
 .darkState .walletBlock .withdraw-fk-wallet .miniDesc {
     color: #aab5dd !important;
 }
+
+.darkState .menu>a:hover {
+    color: #9f8ff8 !important;
+}
