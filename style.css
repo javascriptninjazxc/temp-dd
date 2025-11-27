@@ -1122,7 +1122,7 @@
 }
 
 .modal-open .topMenu {
-    z-index: 1 !important;
+    z-index: 0 !important;
 }
 @media (max-width: 500px) {
     .balanceMenuOpen .buttonsBlock a {
@@ -3211,4 +3211,16 @@ span.paginate_button {
 
 .darkState .menu>a:hover {
     color: #9f8ff8 !important;
+}
+
+.topBlock>.text {
+    color: #55628f !important;
+}
+
+.darkState .topBlock>.text {
+    color: #7080b6 !important;
+}
+
+.darkState .menu-container p {
+    color: #7080b6 !important;
 }
