@@ -3225,6 +3225,6 @@ span.paginate_button {
     color: #7080b6 !important;
 }
 
-.walletBlock .buttonMain {
+.payoutBlock .walletBlock .buttonMain {
     margin-top: 0px !important;
 }
