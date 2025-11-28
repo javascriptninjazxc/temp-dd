@@ -3224,3 +3224,7 @@ span.paginate_button {
 .darkState .menu-container p {
     color: #7080b6 !important;
 }
+
+.walletBlock .buttonMain {
+    margin-top: 0px !important;
+}
