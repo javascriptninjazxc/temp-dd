@@ -3229,7 +3229,8 @@ span.paginate_button {
     margin: 0px !important;
 }
 
-#modalNotification .stick {
-    min-height: 572px;
-    height: 100px;
+
+
+#modalNotification .modal-overflow {
+    max-height: 610px !important;
 }
