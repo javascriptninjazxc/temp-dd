@@ -3228,3 +3228,8 @@ span.paginate_button {
 .payoutBlock .walletBlock .buttonMain {
     margin: 0px !important;
 }
+
+#modalNotification .stick {
+    min-height: 572px;
+    height: 100px;
+}
