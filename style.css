@@ -3230,7 +3230,12 @@ span.paginate_button {
 }
 
 
-
 #modalNotification .modal-overflow {
     max-height: 610px !important;
+}
+
+@media (max-width: 700px) {
+    #modalNotification .modal-overflow {
+        max-height: 793px !important;
+    }
 }
