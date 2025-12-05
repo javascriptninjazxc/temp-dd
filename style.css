@@ -3137,10 +3137,6 @@ span.paginate_button {
     }
 }
 
-.buttonMain {
-    box-shadow: rgb(163 78 244 / 20%) 0px 5px 23px 0px !important;
-}
-
 .amount .showBlock {
     margin: 0 !important;
     width: 16px !Important;
