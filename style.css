@@ -3235,3 +3235,7 @@ span.paginate_button {
         max-height: 793px !important;
     }
 }
+
+.darkState .condition-content__title {
+    color: #657396 !important;
+}
