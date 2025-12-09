@@ -3271,3 +3271,20 @@ span.paginate_button {
     top: 14px;
     width: 80px;
 }
+
+#modalNotification .stack {
+    height: 100%;
+    flex: 1;
+}
+
+#modalNotification .modal-body {
+    min-height: 700px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+#modalNotification  .modal-overflow {
+    visibility: visible;
+    height: 100%;
+}
