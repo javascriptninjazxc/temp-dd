@@ -3293,6 +3293,6 @@ span.paginate_button {
     padding: 6px !important;
 }
 
-#refList_paginate, #refList_paginate span {
+#refList_paginate, #refList_paginate span a {
     padding: 6px !important;
 }
