@@ -3227,7 +3227,7 @@ span.paginate_button {
 
 
 #modalNotification .modal-overflow {
-    max-height: 610px !important;
+    max-height: 660px !important;
 }
 
 @media (max-width: 700px) {
