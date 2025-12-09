@@ -3288,3 +3288,8 @@ span.paginate_button {
     visibility: visible;
     height: 100%;
 }
+
+
+.paginate_button {
+    padding: 6px !important;
+}
