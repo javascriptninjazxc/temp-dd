@@ -3251,3 +3251,13 @@ span.paginate_button {
         padding-bottom: 0 !important;
     }
 }
+
+.modal-body .dataTables_wrapper .dataTables_paginate {
+    float: unset !important;
+}
+
+#refList_paginate, #refList_paginate span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
