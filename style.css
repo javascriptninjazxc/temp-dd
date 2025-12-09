@@ -3239,3 +3239,15 @@ span.paginate_button {
 .darkState .condition-content__title {
     color: #657396 !important;
 }
+
+.date-profile {
+    padding: 10px !important;
+}
+
+@media (max-width: 500px) {
+    .modalBlock {
+        overflow-y: unset !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+}
