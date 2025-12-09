@@ -3289,7 +3289,6 @@ span.paginate_button {
     height: 100%;
 }
 
-
-.paginate_button {
+#modalNotification .dataTables_wrapper .dataTables_paginate .paginate_button {
     padding: 6px !important;
 }
