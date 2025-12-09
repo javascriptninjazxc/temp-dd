@@ -3269,4 +3269,5 @@ span.paginate_button {
 .notification-date {
     position: relative;
     top: 14px;
+    white-space: 80px;
 }
