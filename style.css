@@ -3289,6 +3289,6 @@ span.paginate_button {
     height: 100%;
 }
 
-.dataTables_wrapper .dataTables_paginate .paginate_button.next  {
+.dataTables_wrapper .dataTables_paginate .paginate_button.previous {
     padding: 6px 6px !important;
 }
