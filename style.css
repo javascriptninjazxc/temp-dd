@@ -3296,3 +3296,15 @@ span.paginate_button {
 .dataTables_wrapper .dataTables_paginate .paginate_button.next {
     padding: 6px 6px !important;
 }
+
+.blockMines > div > .item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.v2-msg__text {
+    width: 100%;
+    white-space: normal;
+    word-break: break-all;
+}
