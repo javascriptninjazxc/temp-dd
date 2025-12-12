@@ -3324,3 +3324,7 @@ span.paginate_button {
 .bLabel {
     Width: 174px;
 }
+
+.condition-content__title {
+    width: 52px;
+}
