@@ -3332,3 +3332,8 @@ span.paginate_button {
 .VSlide_root_n31U8 {
     background-color: unset !Important;
 }
+
+.bonus-tabs img {
+    position: relative;
+    gap: 2px;
+}
