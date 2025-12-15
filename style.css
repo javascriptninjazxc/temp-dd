@@ -3340,12 +3340,12 @@ span.paginate_button {
 
 @media (max-width: 1024px) {
     .v2-chat {
-        width: 100vw;
-        height: 100vh;
-        z-index: 123123;
-        position: absolute;
-        top: 0;
-        right: 0;
-        left: 0;
+        width: 100vw !important;
+        height: 100vh!important;
+        z-index: 123123 !important;
+        position: absolute !important;
+        top: 0 !important;
+        right: 0 !important;
+        left: 0 !important;
     }
 }
