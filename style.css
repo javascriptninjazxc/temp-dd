@@ -3349,3 +3349,11 @@ span.paginate_button {
         left: 0 !important;
     }
 }
+
+.v2-input {
+    color: rgba(88, 110, 191, 1) !important;
+}
+
+.darkState .v2-input {
+    color: rgba(108, 119, 158, 1) !important;
+}
