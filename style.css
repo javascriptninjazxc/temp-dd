@@ -3357,3 +3357,20 @@ span.paginate_button {
 .darkState .v2-input {
     color: rgba(108, 119, 158, 1) !important;
 }
+
+.gradient-text {
+    background: linear-gradient(90deg,
+    #8B5CF6 0%,
+    #A855F7 35%,
+    #C084FC 65%,
+    #E9D5FF 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.v2-chat {
+    height: 100dvh !important;
+}
