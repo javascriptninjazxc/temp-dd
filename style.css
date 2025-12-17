@@ -3370,3 +3370,7 @@ span.paginate_button {
     background-clip: text;
     color: transparent;
 }
+
+.v2-chat {
+    height: 100dvh !important;
+}
