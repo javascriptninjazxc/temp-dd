@@ -3381,3 +3381,7 @@ span.paginate_button {
         font-size: 16px !important;
     }
 }
+
+.v2-chat-reply-message {
+    width: calc(100% - 28px) !important;
+}
