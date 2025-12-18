@@ -3371,6 +3371,8 @@ span.paginate_button {
     color: transparent;
 }
 
-.v2-chat {
-    height: 100dvh !important;
+@media (max-width: 1024px) {
+    .v2-chat {
+        width: 100dvw !important;
+    }
 }
