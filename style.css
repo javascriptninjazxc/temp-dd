@@ -3390,3 +3390,7 @@ span.paginate_button {
     display: flex;
     flex-direction: column;
 }
+
+.user-avatar__container {
+    cursor: pointer;
+}
