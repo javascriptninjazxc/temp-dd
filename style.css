@@ -3382,10 +3382,10 @@ span.paginate_button {
     }
 }
 
-.v2-chat-reply-container {
+.v2-chat-reply-message {
     padding: 0 14px;
 }
 
-.v2-chat-reply-message {
+.v2-chat-reply-container {
     width: 100% !important;
 }
