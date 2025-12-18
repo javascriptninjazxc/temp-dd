@@ -3394,3 +3394,7 @@ span.paginate_button {
 .user-avatar__container {
     cursor: pointer;
 }
+
+.v2-msg__reply {
+    gap: 3px;
+}
