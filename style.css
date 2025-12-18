@@ -3376,5 +3376,16 @@ span.paginate_button {
         height: 100dvh !important;
         inset: 0;
     }
+
+    .v2-chat__system[data-v-7a5c4ef2], .v2-input[data-v-7a5c4ef2] {
+        font-size: 16px !important;
+    }
 }
 
+.v2-chat-reply-container {
+    padding: 0 14px;
+}
+
+.v2-chat-reply-message {
+    width: 100% !important;
+}
