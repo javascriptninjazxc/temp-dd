@@ -3406,3 +3406,11 @@ span.paginate_button {
         display: flex !important;
     }
 }
+
+.balanceBlock {
+    height: 113px !Important;
+}
+
+.balanceBlock>.text {
+    margin: 17px 0 !important;
+}
