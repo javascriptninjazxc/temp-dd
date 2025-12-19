@@ -3419,3 +3419,11 @@ span.paginate_button {
     margin: 0 !important;
 }
 
+.balance-block .textshadow {
+    display: block !important;
+    opacity: 0;
+}
+
+.balanceBlock>.text {
+    margin: 0 !important;
+}
