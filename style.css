@@ -3401,3 +3401,8 @@ span.paginate_button {
     gap: 3px;
 }
 
+@media (max-width: 1280px) {
+    .v2-chat-header__left {
+        display: flex !important;
+    }
+}
