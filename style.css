@@ -3435,3 +3435,7 @@ span.paginate_button {
 .buttonSelect>div {
     font-family: 'RubikRegular' !important;
 }
+
+.buttonsBlock .buttonMain, .buttonsBlock .buttonTwo {
+    font-family: 'RubikMedium' !important;
+}
