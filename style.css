@@ -3433,5 +3433,5 @@ span.paginate_button {
 }
 
 .buttonSelect>div {
-    font-family: 'RubikRegular';
+    font-family: 'RubikRegular' !important;
 }
