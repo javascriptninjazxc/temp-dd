@@ -3431,11 +3431,3 @@ span.paginate_button {
 .table-wrapper .table#refListTable th {
     padding: 8px 10px !important;
 }
-
-.buttonSelect>div {
-    font-family: 'RubikRegular' !important;
-}
-
-.buttonsBlock .buttonMain, .buttonsBlock .buttonTwo {
-    font-family: 'RubikMedium' !important;
-}
