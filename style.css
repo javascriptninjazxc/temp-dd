@@ -3431,3 +3431,45 @@ span.paginate_button {
 .table-wrapper .table#refListTable th {
     padding: 8px 10px !important;
 }
+
+
+.bonus-tabs a {
+    font-family: 'RubikRegular' !Important;     /* Regular */
+    opacity: 0.75 !Important;
+    transition:
+            opacity 0.2s ease,
+            font-weight 0.15s ease !Important;
+}
+
+/* Hover — просто подсветка */
+.bonus-tabs a:hover {
+    opacity: 1 !Important;
+}
+
+/* Активный таб (после клика) */
+.bonus-tabs a.active,
+.bonus-tabs a.router-link-active,
+.bonus-tabs a.router-link-exact-active {
+    font-family: RubikMedium !Important;         /* Medium */
+    opacity: 1 !Important;
+}
+
+.buttonSelect > div {
+    font-family: 'RubikRegular' !Important;     /* Regular */
+    opacity: 0.75 !Important;
+    cursor: pointer !Important;
+    transition:
+            opacity 0.2s ease,
+            font-weight 0.15s ease !Important;
+}
+
+/* Hover */
+.buttonSelect > div:hover {
+    opacity: 1 !Important;
+}
+
+/* Активный таб */
+.buttonSelect > div.active {
+    font-family: RubikMedium !Important;        /* Medium */
+    opacity: 1 !Important;
+}
