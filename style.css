@@ -3444,3 +3444,7 @@ span.paginate_button {
 .menu-container-wrapper p:hover:hover {
     opacity: 0.75 !important;
 }
+
+.darkState .subMenuOpen .menu-container p {
+    color: #ABB2DE !important;
+}
