@@ -3438,3 +3438,12 @@ span.paginate_button {
 .menu-container-wrapper p:hover {
     background-color: red !important;
 }
+
+.menu-container-wrapper p:hover {
+    color: #6B799B;
+    transition: opacity 0.2s ease;
+}
+
+.menu-container-wrapper p:hover:hover {
+    opacity: 0.75 !important;
+}
