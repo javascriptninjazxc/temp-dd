@@ -3435,9 +3435,6 @@ span.paginate_button {
 .v2-chat-time-filter {
     gap: 5px !important;
 }
-.menu-container-wrapper p:hover {
-    background-color: red !important;
-}
 
 .menu-container-wrapper p:hover {
     color: #6B799B;
