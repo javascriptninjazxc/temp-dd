@@ -3448,3 +3448,7 @@ span.paginate_button {
 .darkState .subMenuOpen .menu-container p {
     color: #ABB2DE !important;
 }
+
+.v2-input {
+    font-size: 17px !important;
+}
