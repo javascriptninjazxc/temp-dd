@@ -3432,3 +3432,6 @@ span.paginate_button {
     padding: 8px 10px !important;
 }
 
+.v2-chat-time-filter {
+    gap: 5px !important;
+}
