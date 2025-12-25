@@ -3654,3 +3654,12 @@ span.paginate_button {
         background-size: 100% !important;
     }
 }
+
+
+@media screen and (max-width: 1280px) {
+   .v2-modal-wrapper__body .modal-content {
+        transform: scale(0.9) !important;
+        height: 100% !important;
+    }
+
+}
