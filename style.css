@@ -3658,3 +3658,7 @@ span.paginate_button {
 .router-link-active {
     color:  #ABB2DE !important;
 }
+
+.darkState .menu > a {
+    color:  #ABB2DE !important;
+}
