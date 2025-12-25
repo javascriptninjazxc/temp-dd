@@ -3426,7 +3426,7 @@ span.paginate_button {
 
 .darkState .balance-block .textshadow {
     display: block !important;
-    opacity: 1;
+    opacity: .1;
 }
 
 .balanceBlock>.text {
