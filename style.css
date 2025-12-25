@@ -3655,3 +3655,8 @@ span.paginate_button {
     }
 }
 
+.domain-logo {
+    height: 195px !important;
+    margin-bottom: 24px !important;
+    width: 100% !important;
+}
