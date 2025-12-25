@@ -3659,7 +3659,7 @@ span.paginate_button {
 @media screen and (max-width: 1280px) {
    .v2-modal-wrapper__body .modal-content {
         transform: scale(0.9) !important;
-        height: 100% !important;
+        height: fit-content !important;
     }
 
 }
