@@ -3478,7 +3478,7 @@ span.paginate_button {
     }
 
     .wheel {
-        clip-path: inset(-24px 0 278px 0);
+        clip-path: inset(-24px 0 60px 0) !important;
         width: 100% !important;
         height: 51% !important;
         background-size: 100% !important;
