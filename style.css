@@ -3613,13 +3613,13 @@ span.paginate_button {
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
     .referal-bonus-container {
         display: initial;
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
     .wheel-btn[data-v-8f6f6e36] {
         top: 79%;
     }
