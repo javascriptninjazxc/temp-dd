@@ -3424,6 +3424,11 @@ span.paginate_button {
     opacity: 0;
 }
 
+.darkState .balance-block .textshadow {
+    display: block !important;
+    opacity: 1;
+}
+
 .balanceBlock>.text {
     margin: 0 !important;
 }
@@ -3649,3 +3654,5 @@ span.paginate_button {
         background-size: 100% !important;
     }
 }
+
+.v2-chat-messages
