@@ -3453,7 +3453,7 @@ span.paginate_button {
     font-size: 17px !important;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .wheel-btn[data-v-8f6f6e36] {
         top: 79%;
     }
@@ -3610,5 +3610,11 @@ span.paginate_button {
         height: 51% !important;
         clip-path: inset(-24px 0 60px 0) !important;
         background-size: 100% !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .referal-bonus-container {
+        display: initial !important;
     }
 }
