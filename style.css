@@ -3306,7 +3306,7 @@ span.paginate_button {
 .v2-msg__text {
     width: 100%;
     white-space: normal;
-    word-break: break-all;
+    overflow-wrap: anywhere;
 }
 
 .blockRef .topLabel {
@@ -3659,4 +3659,8 @@ span.paginate_button {
     height: 195px !important;
     margin-bottom: 24px !important;
     width: 100% !important;
+}
+
+.router-link-exact-active, .router-link-active {
+
 }
