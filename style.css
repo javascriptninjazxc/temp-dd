@@ -3664,3 +3664,7 @@ span.paginate_button {
 .v2-chat-header {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.darkState .v2-chat-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
