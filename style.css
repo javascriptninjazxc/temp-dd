@@ -3661,6 +3661,6 @@ span.paginate_button {
     width: 100% !important;
 }
 
-.router-link-exact-active, .router-link-active {
-
+.v2-chat-pin {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
