@@ -3668,3 +3668,7 @@ span.paginate_button {
 .darkState .v2-chat-header {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+.filter-dropdown__area label {
+    width: 100% !important;
+}
