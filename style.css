@@ -3684,3 +3684,69 @@ span.paginate_button {
 .darkState .transactions__td-text .sum p {
     color: rgb(171, 178, 222) !important;
 }
+
+@media (max-width: 1280px) {
+    .v2-input--unauth {
+        background-position: calc(10.3%) !important;
+    }
+}
+
+@media (max-width: 1200px) {
+    .v2-input--unauth {
+        background-position: calc(10.9%) !important;
+    }
+}
+
+@media (max-width: 1120px) {
+    .v2-input--unauth {
+        background-position: calc(11.9%) !important;
+    }
+}
+
+@media (max-width: 1000px) {
+    .v2-input--unauth {
+        background-position: calc(10.9%) !important;
+    }
+}
+
+@media (max-width: 900px) {
+    .v2-input--unauth {
+        background-position: calc(13.7%) !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .v2-input--unauth {
+        background-position: calc(14.8%) !important;
+    }
+}
+
+@media (max-width: 700px) {
+    .v2-input--unauth {
+        background-position: calc(15.8%) !important;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .v2-input--unauth {
+        background-position: calc(16.8%) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .v2-input--unauth {
+        background-position: calc(17.8%) !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .v2-input--unauth {
+        background-position: calc(18.8%) !important;
+    }
+}
+
+
+
+
+
