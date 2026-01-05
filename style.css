@@ -3676,3 +3676,7 @@ span.paginate_button {
 .darkState .buttonMain {
     color: white !important;
 }
+
+.condition-wrapper .condition-content .condition-content__title {
+    width: 100% !important;
+}
