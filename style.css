@@ -3680,3 +3680,7 @@ span.paginate_button {
 .condition-wrapper .condition-content .condition-content__title {
     width: 100% !important;
 }
+
+.darkState .transactions__td-text .sum p {
+    color: rgb(171, 178, 222) !important;
+}
