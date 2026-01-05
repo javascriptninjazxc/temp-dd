@@ -3672,3 +3672,7 @@ span.paginate_button {
 .filter-dropdown__area label {
     width: 100% !important;
 }
+
+.darkState .buttonMain {
+    color: white !important;
+}
