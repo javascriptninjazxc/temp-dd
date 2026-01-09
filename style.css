@@ -3700,3 +3700,7 @@ span.paginate_button {
 .darkState .wb-game--info__crash:hover {
     background: #9F8FF8 !important;
 }
+
+.buttonMain {
+    font-weight: medium !important;
+}
