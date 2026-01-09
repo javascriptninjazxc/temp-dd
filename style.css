@@ -3685,8 +3685,13 @@ span.paginate_button {
     color: rgb(171, 178, 222) !important;
 }
 
+.main-bet__info {
+    align-items: unset !important;
+}
 
-
+.main-bet__info-description {
+    align-items: unset !important;
+}
 
 
 
