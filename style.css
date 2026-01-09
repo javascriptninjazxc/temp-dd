@@ -3693,5 +3693,8 @@ span.paginate_button {
     align-items: unset !important;
 }
 
+.darkState .wb-game--info:active, .darkState .wb-game--info:hover {
+    background: unset !important;
+}
 
 
