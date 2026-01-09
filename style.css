@@ -3704,3 +3704,7 @@ span.paginate_button {
 .buttonMain {
     font-weight: medium !important;
 }
+
+.rang-profile-btn {
+    cursor: unset !important;
+}
