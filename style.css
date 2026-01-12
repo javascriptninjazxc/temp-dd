@@ -3713,3 +3713,7 @@ span.paginate_button {
     font-weight: 400 !important;
     font-family: Rubik !important;
 }
+
+@media screen and (max-width: 992px) {
+    display: block !important;
+}
