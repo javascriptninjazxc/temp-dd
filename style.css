@@ -3718,3 +3718,11 @@ span.paginate_button {
     font-weight: 400 !important;
     font-family: 'Rubik' !important;
 }
+
+.darkState .buttonsBlock .buttonTwo:hover {
+    color: #697494 !important;
+}
+
+.darkState .buttonsBlock .buttonTwo {
+    color: #697494 !important;
+}
