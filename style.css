@@ -3713,9 +3713,3 @@ span.paginate_button {
     font-weight: 400 !important;
     font-family: Rubik !important;
 }
-
-@media (min-width: 992px) {
-    .footer {
-        display: block !important;
-    }
-}
