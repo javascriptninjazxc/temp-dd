@@ -3715,5 +3715,7 @@ span.paginate_button {
 }
 
 @media screen and (min-width: 992px) {
-    display: block !important;
+    .footer {
+        display: block !important;
+    }
 }
