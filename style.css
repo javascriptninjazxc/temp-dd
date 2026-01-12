@@ -3726,3 +3726,8 @@ span.paginate_button {
 .darkState .buttonsBlock .buttonTwo {
     color: #697494 !important;
 }
+
+.rang-content__info .buttonMain {
+    font-weight: 400 !important;
+    font-family: Rubik !important;
+}
