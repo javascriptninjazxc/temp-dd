@@ -3384,10 +3384,6 @@ span.paginate_button {
     }
 }
 
-.v2-chat-reply-message {
-    width: calc(100% - 10px) !important;
-}
-
 .v2-chat-pin__content-text {
     display: flex;
     flex-direction: column;
