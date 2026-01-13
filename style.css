@@ -3742,3 +3742,10 @@ span.paginate_button {
 .darkState .v2-msg__reply-name__text a {
     color: #9f8ff8!important;
 }
+
+.v2-chat-pin__description a {
+    color: #3566fb !important
+}
+.darkState .v2-chat-pin__description a {
+    color: #9f8ff8!important;
+}
