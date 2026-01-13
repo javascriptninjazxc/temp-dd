@@ -3739,3 +3739,7 @@ span.paginate_button {
     top: -12px !important;
     right: 6px !important;
 }
+
+.chat-moderator-apply__content-description {
+    line-height: 20px !important;
+}
