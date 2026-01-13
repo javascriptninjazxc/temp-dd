@@ -3739,19 +3739,3 @@ span.paginate_button {
     top: -12px !important;
     right: 6px !important;
 }
-
-.chat-moderator-apply__content-description {
-    line-height: 20px !important;
-}
-
-.chat-moderator-apply__footer-btn button {
-    font-family: 'RubikBold' !important;
-}
-
-.v2-chat-send-btn {
-    right: 11px !important;
-}
-
-.v2-chat-status {
-    right: 4px !Important;
-}
