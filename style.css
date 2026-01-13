@@ -3747,3 +3747,7 @@ span.paginate_button {
 .chat-moderator-apply__footer-btn .footer-btn {
     font-family: 'RubikBold' !important;
 }
+
+.v2-chat-reply-message {
+    width: calc(100% - 10px) !important;
+}
