@@ -3744,7 +3744,7 @@ span.paginate_button {
     line-height: 20px !important;
 }
 
-.chat-moderator-apply__footer-btn .footer-btn {
+.chat-moderator-apply__footer-btn button {
     font-family: 'RubikBold' !important;
 }
 
