@@ -3735,3 +3735,10 @@ span.paginate_button {
     top: -12px !important;
     right: 6px !important;
 }
+
+.v2-msg__reply-name__text a {
+    color: #3566fb !important
+}
+.darkState .v2-msg__reply-name__text a {
+    color: #9f8ff8!important;
+}
