@@ -3748,7 +3748,7 @@ span.paginate_button {
     font-family: 'RubikBold' !important;
 }
 
-.v2-chat-reply-message {
+.v2-chat-reply .v2-chat-reply-message {
     width: calc(100% - 10px) !important;
 }
 
