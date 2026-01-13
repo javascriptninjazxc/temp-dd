@@ -3731,13 +3731,3 @@ span.paginate_button {
     font-weight: 400 !important;
     font-family: Rubik !important;
 }
-
-@media (max-width: 800px) {
-   .thirdBlock .Footer_footer_udF4C {
-        display: none !important;
-    }
-
-  .thirdBlock  .footerMobile {
-        display: block !important;
-    }
-}
