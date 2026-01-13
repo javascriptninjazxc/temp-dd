@@ -3743,3 +3743,7 @@ span.paginate_button {
 .chat-moderator-apply__content-description {
     line-height: 20px !important;
 }
+
+.chat-moderator-apply__footer-btn .footer-btn {
+    font-family: 'RubikBold' !important;
+}
