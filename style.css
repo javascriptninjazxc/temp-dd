@@ -3736,4 +3736,8 @@ span.paginate_button {
     .Footer_footer_udF4C {
         display: none !important;
     }
+
+    .footerMobile {
+        display: block !important;
+    }
 }
