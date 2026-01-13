@@ -3732,7 +3732,7 @@ span.paginate_button {
     font-family: Rubik !important;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 800px) {
     .Footer_footer_udF4C {
         display: none !important;
     }
