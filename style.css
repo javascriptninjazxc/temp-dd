@@ -3731,3 +3731,9 @@ span.paginate_button {
     font-weight: 400 !important;
     font-family: Rubik !important;
 }
+
+@media (max-width: 480px) {
+    .Footer_footer_udF4C {
+        display: none !important;
+    }
+}
