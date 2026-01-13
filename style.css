@@ -3755,3 +3755,7 @@ span.paginate_button {
 .v2-chat-send-btn {
     right: 11px !important;
 }
+
+.v2-chat-status {
+    right: 15px !Important;
+}
