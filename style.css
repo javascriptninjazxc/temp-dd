@@ -3749,3 +3749,7 @@ span.paginate_button {
 .darkState .v2-chat-pin__description a {
     color: #9f8ff8!important;
 }
+
+.bonus-tabs {
+    max-width: fit-content !important;
+}
