@@ -1122,7 +1122,7 @@
 }
 
 .modal-open .topMenu {
-    z-index: 0 !important;
+    z-index: 1 !important;
 }
 @media (max-width: 500px) {
     .balanceMenuOpen .buttonsBlock a {
