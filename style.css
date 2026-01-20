@@ -3753,3 +3753,9 @@ span.paginate_button {
 .bonus-tabs {
     max-width: fit-content !important;
 }
+
+@media (max-width: 500px) {
+    .ticketJack {
+        margin: 0px 8px !important;
+    }
+}
