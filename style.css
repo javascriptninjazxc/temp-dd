@@ -3759,3 +3759,7 @@ span.paginate_button {
         margin: 0px 8px !important;
     }
 }
+
+.betsCrash, .infoBlockMini {
+    padding: 15px 15px !important;
+}
