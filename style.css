@@ -3763,3 +3763,7 @@ span.paginate_button {
 .betsCrash, .infoBlockMini {
     padding: 15px 15px !important;
 }
+
+.profileBlock .buttonsBlock .buttonMain  {
+    color: white !Important;
+}
