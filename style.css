@@ -3771,3 +3771,6 @@ span.paginate_button {
 .profileBlock .buttonsBlock .buttonMain  {
     color: white !Important;
 }
+    .lastCount::-webkit-scrollbar {
+        display: none;
+    }
