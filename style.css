@@ -3778,5 +3778,6 @@ span.paginate_button {
 @media (min-width: 370px) and (max-width: 410px) {
   .transactions  .transactions__td {
         padding: 8px 5px !important;
+        gap: 0px !important;
     }
 }
