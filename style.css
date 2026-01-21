@@ -3781,3 +3781,8 @@ span.paginate_button {
         gap: 0px !important;
     }
 }
+
+.amount .sum {
+    display: flex !important;
+    flex-direction: column !important;
+}
