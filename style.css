@@ -3758,6 +3758,10 @@ span.paginate_button {
     .ticketJack {
         margin: 0px 8px !important;
     }
+
+    .betPlayer .buttonMain {
+        margin: 15px 0px !important;
+    }
 }
 
 .betsCrash, .infoBlockMini {
