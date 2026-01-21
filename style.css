@@ -3774,3 +3774,9 @@ span.paginate_button {
     .lastCount::-webkit-scrollbar {
         display: none;
     }
+
+@media (min-width: 370px) and (max-width: 410px) {
+  .transactions  .transactions__td {
+        padding: 8px 5px !important;
+    }
+}
