@@ -3786,3 +3786,14 @@ span.paginate_button {
     display: flex !important;
     flex-direction: column !important;
 }
+
+@media (max-width: 400px) {
+    .transactions-container .transactions  .transactions__td {
+        padding: 8px 4px !important;
+    }
+
+    .amount {
+        gap: 0 !important;
+        display: flex !important;
+    }
+}
