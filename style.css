@@ -3797,3 +3797,7 @@ span.paginate_button {
         display: flex !important;
     }
 }
+
+.selectSystem {
+    box-sizing: border-box !important;
+}
