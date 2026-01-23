@@ -3801,3 +3801,7 @@ span.paginate_button {
 .selectSystem {
     box-sizing: border-box !important;
 }
+
+.Vue-Toastification__progress-bar {
+    background: unset !important;
+}
