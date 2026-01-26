@@ -3805,3 +3805,8 @@ span.paginate_button {
 .Vue-Toastification__progress-bar {
     background: unset !important;
 }
+
+.startGame img {
+    height: 100% !important;
+    width: 100% !important;
+}
