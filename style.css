@@ -3810,3 +3810,9 @@ span.paginate_button {
     height: 100% !important;
     width: 100% !important;
 }
+
+@media (max-width: 460px) {
+   .reports-list__card .gift-icon__telegram {
+        width: 80% !important;
+    }
+}
