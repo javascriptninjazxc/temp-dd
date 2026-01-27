@@ -3818,7 +3818,7 @@ span.paginate_button {
 }
 
 @media (max-width: 500px) {
-    .navbar-balance {
-        max-width: 185px !important;
+   .headTwo .navbar-balance {
+        max-width: 170px !important;
     }
 }
