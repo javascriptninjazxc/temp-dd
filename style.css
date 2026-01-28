@@ -3816,3 +3816,11 @@ span.paginate_button {
         width: 80% !important;
     }
 }
+
+.navbar-balance__amount-value {
+    width: fit-content !important;
+}
+
+.navbar-balance__amount-value .amount {
+    width: fit-content !important;
+}
