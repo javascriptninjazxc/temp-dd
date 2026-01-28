@@ -3824,3 +3824,7 @@ span.paginate_button {
 .navbar-balance__amount-value .amount {
     width: 70px !important;
 }
+
+.wb-game--wrapper .wb-game--form .button__lg {
+    margin-top: 0px !important;
+}
