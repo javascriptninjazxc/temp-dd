@@ -3818,9 +3818,9 @@ span.paginate_button {
 }
 
 .navbar-balance__amount-value {
-    width: fit-content !important;
+    width: 70px !important;
 }
 
 .navbar-balance__amount-value .amount {
-    width: fit-content !important;
+    width: 70px !important;
 }
