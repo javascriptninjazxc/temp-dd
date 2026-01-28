@@ -3825,6 +3825,8 @@ span.paginate_button {
     width: 70px !important;
 }
 
-.wb-game--wrapper .wb-game--form .button__lg {
-    margin-top: 0px !important;
+@media (max-width: 600px) {
+    .wb-game--wrapper .wb-game--form .button__lg {
+        margin: 0px !important;
+    }
 }
