@@ -3817,13 +3817,16 @@ span.paginate_button {
     }
 }
 
+.navbar-balance__amount-value {
+    width: 110px !important;
+}
+
+.navbar-balance__amount-value .amount {
+    width: 110px !important;
+}
+
 @media (max-width: 600px) {
     .wb-game--wrapper .wb-game--form .button__lg {
         margin: 0px !important;
     }
-}
-
-html {
-    -webkit-text-size-adjust: 100%; /* или none, если хочешь полностью отключить */
-    text-size-adjust: 100%;
 }
