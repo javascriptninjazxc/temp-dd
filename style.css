@@ -3845,6 +3845,10 @@ span.paginate_button {
     display: inline-block !important;
 }
 
+.navbar-balance .navbar-balance__amount .navbar-balance__amount-value .amount {
+    display: inline-block !important;
+}
+
 @media (max-width: 600px) {
     .wb-game--wrapper .wb-game--form .button__lg {
         margin: 0px !important;
