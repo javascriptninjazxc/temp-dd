@@ -3841,6 +3841,10 @@ span.paginate_button {
     vertical-align: middle;
 }
 
+.userBalanceMobile {
+    display: inline-block !important;
+}
+
 @media (max-width: 600px) {
     .wb-game--wrapper .wb-game--form .button__lg {
         margin: 0px !important;
