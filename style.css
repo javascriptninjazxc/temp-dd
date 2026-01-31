@@ -3822,3 +3822,8 @@ span.paginate_button {
         margin: 0px !important;
     }
 }
+
+html {
+    -webkit-text-size-adjust: 100%; /* или none, если хочешь полностью отключить */
+    text-size-adjust: 100%;
+}
