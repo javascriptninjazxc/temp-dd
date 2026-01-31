@@ -3817,12 +3817,28 @@ span.paginate_button {
     }
 }
 
-.navbar-balance__amount-value {
-    width: 110px !important;
+@media screen and (max-width: 1280px) {
+    .navbar-balance {
+        display: inline-block;
+        vertical-align: middle;
+    }
 }
 
-.navbar-balance__amount-value .amount {
-    width: 110px !important;
+@media screen and (max-width: 576px) {
+    .navbar-balance .navbar-balance__amount {
+        display: inline-block !important;
+        vertical-align: middle;
+    }
+}
+
+.navbar-balance__delimiter {
+    display: inline-block !important;
+    vertical-align: middle;
+}
+
+.navbar-balance__wallet {
+    display: inline-block !important;
+    vertical-align: middle;
 }
 
 @media (max-width: 600px) {
