@@ -3863,3 +3863,7 @@ span.paginate_button {
 .darkState .mines-mob__bid select {
     color: #9f8ff8 !important;
 }
+
+.darkState .mines-tools__input {
+    color: #9f8ff8 !important;
+}
