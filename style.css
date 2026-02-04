@@ -3868,6 +3868,7 @@ span.paginate_button {
     color: #9f8ff8 !important;
 }
 
+@media (min-width: 1024px) {}
 .index-slots-block .gameList {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr !important;
 }
