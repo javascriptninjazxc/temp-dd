@@ -3867,3 +3867,7 @@ span.paginate_button {
 .darkState .mines-tools__input {
     color: #9f8ff8 !important;
 }
+
+.index-slots-block .gameList {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr !important;
+}
