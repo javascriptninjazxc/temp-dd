@@ -3873,3 +3873,9 @@ span.paginate_button {
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr !important;
     }
 }
+
+@media (max-width: 500px) {
+    .bonusBlock-left__inner-icon {
+        height: 246px !important;
+    }
+}
