@@ -3883,3 +3883,9 @@ span.paginate_button {
         width: 284px !important;
     }
 }
+
+@media (max-width: 430px) {
+    .faq-card {
+        padding: 17px 16px !important;
+    }
+}
