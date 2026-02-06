@@ -3878,4 +3878,8 @@ span.paginate_button {
     .bonusBlock-left__inner-icon {
         height: 246px !important;
     }
+
+    .faq-content p {
+        width: 284px !important;
+    }
 }
