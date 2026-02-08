@@ -3894,3 +3894,8 @@ span.paginate_button {
     backdrop-filter: blur(16px) !important;
     background: hsla(0,0%,100%,.01) !important;
 }
+
+html, body {
+    touch-action: manipulation !important;
+    overscroll-behavior: none !important;
+}
