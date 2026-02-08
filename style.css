@@ -3889,3 +3889,8 @@ span.paginate_button {
         padding: 17px 16px !important;
     }
 }
+
+.crash-game_controls>div {
+    backdrop-filter: blur(16px) !important;
+    background: hsla(0,0%,100%,.01) !important;
+}
