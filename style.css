@@ -3895,3 +3895,7 @@ span.paginate_button {
 html, body {
     touch-action: manipulation !important;
 }
+
+.darkState .bubbles-tools__bottom-content .base-input-wrapper .mines-tools__input {
+    color: #ffff !Important;
+}
