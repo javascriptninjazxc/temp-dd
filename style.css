@@ -3899,3 +3899,7 @@ html, body {
 .darkState .bubbles-tools__bottom-content .base-input-wrapper .mines-tools__input {
     color: #ffff !Important;
 }
+
+.darkState .bombs .mines-mob__bid select {
+    color: #ffff!important;
+}
