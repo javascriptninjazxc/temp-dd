@@ -3897,5 +3897,4 @@ span.paginate_button {
 
 html, body {
     touch-action: manipulation !important;
-    overscroll-behavior: none !important;
 }
