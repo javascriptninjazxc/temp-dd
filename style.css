@@ -3903,3 +3903,12 @@ html, body {
 .darkState .bombs .mines-mob__bid select {
     color: #ffff!important;
 }
+
+
+.freespins-game-card .v2-card-text__title {
+    font-size: 14px !important;
+}
+
+.freespins-game-card .v2-card-text__subtitle {
+    font-size: 9px !important;
+}
